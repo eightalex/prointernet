@@ -1,0 +1,324 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Конкурс для студентів України –
+Майбутнє України в наших руках</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body{
+            font-family: 'Open Sans', sans-serif;
+            font-size: 16px;
+            font-weight: 400;
+            color: black;
+            margin: 0px;
+        }
+
+        h1{
+            font-size: 48px;
+            font-weight: 400;
+            line-height: 140%;
+            margin: 0px;
+            letter-spacing: -1px;
+        }
+
+        h2{
+            font-size: 28px;
+            margin: 0px;
+        }
+
+        p{
+            line-height: 150%;
+        }
+
+        .subtitle{
+            font-size: 24px;
+            color: #717171;
+            margin-bottom: 20px;
+        }
+
+        .highlighted{
+            font-weight: 600;
+        }
+
+        .p-mini{
+            font-size: 12px;
+            color: #717171;
+        }
+
+        .btn{
+            padding: 15px 40px;
+            font-size: 20px;
+            border: 0px;
+            background: #000;
+            color: #fff;
+            transition: 200ms;
+            text-decoration: none;
+        }
+
+        .btn:hover{
+            background: #fff;
+            color: #000;
+            border: 1px solid #000;
+        }
+
+        .section{
+            margin-bottom: 60px;
+        }
+
+        .container{
+            max-width: 1140px;
+            margin: auto;
+        }
+
+        .main-wrapper{
+            display: flex;
+            flex-direction: column;
+            padding: 4vw 2vw 4vw 2vw;
+        }
+
+        .hero{
+            display: flex;
+            gap: 40px;
+            align-items: center;
+            margin-bottom: 60px;
+        }
+
+        .hero-img{
+            max-width: 40%;
+        }
+
+        .flex-h__wrapper{
+            margin-top: 20px;
+            display: flex;
+            width: 100%;
+            justify-content: space-between;
+            align-items:center;
+            gap: 40px;
+        }
+
+        .list-item{
+            margin-top: 20px;
+        }
+
+        .faq{
+            margin-top: 40px;
+        }
+
+        .faq-item{
+            margin-bottom: 20px;
+        }
+
+        .faq-title{
+            font-size: 20px;
+            font-weight: 600;
+        }
+
+        .faq-item.last{
+            margin-bottom: 0px;
+        }
+
+        .footer{
+            background: #000;
+        }
+
+        .container-footer{
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            gap: 60px;
+        }
+
+        .footer-nav__wrapper{
+            display: flex;
+            flex-direction: row;
+            gap: 20px;
+        }
+
+        .footer-nav__wrapper a, .up-wrapper a{
+            color: #717171;
+            text-decoration: none;
+        }
+
+        .footer-nav__wrapper a:hover, .up-wrapper a:hover{
+            color: #fff;
+        }
+
+        @media screen and (max-width: 992px){
+            .main-wrapper{
+                padding: 40px 20px;
+            }
+
+            h1{
+                font-size: 34px;
+            }
+
+            h2{
+                font-size: 24px;
+            }
+
+            .subtitle{
+                font-size: 18px;
+            }
+
+            .hero{
+                flex-direction: column;
+            }
+
+            .hero-img{
+                width: 100%;
+                max-width: 100%;
+            }
+
+            .faq-title{
+                font-size: 18px;
+            }
+
+            .flex-h__wrapper{
+                flex-direction: column;
+                gap: 20px;
+            }
+
+            .footer-nav__wrapper{
+                flex-wrap: wrap;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="main-wrapper">
+        <div class="container">
+            <div class="section" id="hero">
+
+                <div class="hero">
+                    <div class="hero-left">
+                        <div class="subtitle">Шановні друзі!</div>
+                        <h1>
+                            Наша компанія оголошує початок конкурсу для студентів України.<br>
+                            <span class="highlighted">“Майбутнє України в наших руках”</span>
+                        </h1>
+                    </div>
+                    <img class="hero-img" src="https://uploads-ssl.webflow.com/62eff9b34e53c961eb498e3c/64eb2356c86fc22396bc30ad_brandon-morales-H887Atn5WPU-unsplash.jpg">
+                </div>
+            </div>
+
+            <div class="section" id="meta">
+                <h2>Мета конкурсу:</h2>
+
+                <div class="flex-h__wrapper">
+                    <div class="flex-h__item">
+                        <p>Підготувати молодих людей до відповідальної роботи по відновленню та розвитку держави.
+                            <br>Переможець конкурсу отримає стипендію у розмірі <span class="highlighted">20000 гривень!</span></p>
+
+                        <p>Щоб прийняти участь у конкурсі необхідно написати статтю на тему: <span class="highlighted">“Моя країна в моїх руках”</span></p>
+                    </div>
+                    <a class="btn" href="mailto:scholarship@prointernet.in.ua">Написати</a>
+                </div>
+
+            </div>
+
+            <div class="section" id="termins">
+                <h2>Терміни* та порядок проведення конкурсу:</h2>
+
+                <ul class="list-item">
+                    <li><p>28.08.2023 - початок грантового конкурсу;</p></li>
+                    <li><p>27.11.2023 - крайній день прийому конкурсних робіт;</p></li>
+                    <li><p>22.12.2023 - оголошення переможця;</p></li>
+                    <li><p>22.12.2023 - 29.12.2023 - нагородження переможця.</p></li>
+                </ul>
+            </div>
+
+            <div class="section" id="who">
+                <h2>Хто може прийняти участь:</h2>
+
+                <ul class="list-item">
+                    <li><p>Студенти українських навчальних закладів;</p></li>
+                    <li><p>Учні українських навчальних закладів;</p></li>
+                    <li><p>Громадяни України.</p></li>
+                </ul>
+
+                <p class="p-mini">*організатор залишає за собою право на змінення термінів конкурсу.</p>
+            </div>
+
+            <div class="section" id="vymogi">
+                <h2>Вимоги до статті:</h2>
+
+                <ul class="list-item">
+                    <li><p>Стаття повинна бути унікальна(перевіряємо через спеціальні сервіси);</p></li>
+                    <li><p>Використання штучного інтелекту заборонено;</p></li>
+                    <li><p>Стаття має відповідати темі, що зазначена на сторінці: <a href="/scholarship" target="_blank">www.prointernet.in.ua/scholarship</a>;</p></li>
+                    <li><p>Стаття повинна мати чітку і зрозумілу структуру;</p></li>
+                    <li><p>Кількість символів не менше 5000;</p></li>
+                    <li><p>В роботі вказати використані джерела;</p></li>
+                </ul>
+
+                <p class="p-mini">до уваги беремо: унікальність думки, свіжий погляд, приклади, особистий досвід.</p>
+            </div>
+
+            <div class="section">
+                <h2>Готову статтю надіслати на пошту: <a href="mailto:scholarship@prointernet.in.ua">scholarship@prointernet.in.ua</a></h2>
+
+                <ul class="list-item">
+                    <li><p>Обовʼязково вказати тему листа: “Конкурсна робота”;</p></li>
+                    <li><p>В листі вкажіть своє повне Імʼя та навчальний заклад у називному відмінку (наприклад: Панченко Антон, Національний Авіаційний Університет);</p></li>
+                    <li><p>Документ з конкурсною роботою, в форматі Microsoft Word, прикріпити до листа.</p></li>
+                </ul>
+
+            </div>
+
+            <div class="section" id="faq">
+                <h2>Питання - відповіді:</h2>
+
+                <div class="faq">
+                    <div class="faq-item">
+                        <h3 class="faq-title">Можна я напишу кілька конкурсних робіт?</h3>
+                        <p>Від одного учасника ми прийсаємо лише одну роботу. Інші надіслані роботи не братимуться до уваги.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3 class="faq-title">Як переможець отримає свою нагороду?</h3>
+                        <p>Нагорода буде перерахована на банківський рахунок переможця.</p>
+                    </div>
+
+                    <div class="faq-item">
+                        <h3 class="faq-title">Як відбуватиметься оцінювання переможців?</h3>
+                        <p>Усі конкурсні роботи будуть перевірені щодо відповідності вимогам. Далі суддівська колеія визначить переможця.
+                            <br>Судді віддаватимуть перевагу роботам написаним студентам з власного досвіду, та про особистий шлях учасника.</p>
+                    </div>
+
+                    <div class="faq-item last">
+                        <h3 class="faq-title">Хто представляє суддівську колегію?</h3>
+                        <p>Суддівська колегія складається з працівників та партнерів компанії.</p>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="footer">
+        <div class="main-wrapper">
+            <div class="container container-footer">
+
+                <div class="footer-nav__wrapper">
+                    <a href="#meta">Мета</a>
+                    <a href="#termins">Терміни</a>
+                    <a href="#who">Хто прийме участь</a>
+                    <a href="#vymogi">Вимоги</a>
+                    <a href="#faq">Питання та відповіді</a>
+                </div>
+
+                <div class="up-wrapper">
+                    <a href="#hero">Вгору</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

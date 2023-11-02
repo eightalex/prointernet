@@ -1,0 +1,450 @@
+# Translation of Plugins - Header Footer Code Manager - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Header Footer Code Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-12-16 09:06:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Header Footer Code Manager - Stable (latest release)\n"
+
+#: includes/hfcm-add-edit.php:442
+msgid "Your site has <a href=\"https://draftpress.com/disallow-file-edit-setting-wordpress\" target=\"_blank\">disallow_file_edit</a> setting enabled inside the wp-config file to prevent file edits. By using this plugin, you acknowledge that you know what you’re doing and intend on adding code snippets only from trusted sources."
+msgstr "Je site heeft <a href=\"https://draftpress.com/disallow-file-edit-setting-wordpress\" target=\"_blank\">disallow_file_edit</a> instelling ingeschakeld in het wp-config bestand om het bewerken van bestanden te voorkomen. Door deze plugin te gebruiken bevestig je dat je weet wat je doet en dat je alleen code snippets van betrouwbare bronnen wil toevoegen."
+
+#: includes/hfcm-add-edit.php:412
+msgid "Warning: Using improper code or untrusted sources code can break your site or create security risks. <a href=\"https://draftpress.com/security-risks-of-wp-plugins-that-allow-code-editing-or-insertion\" target=\"_blank\">Learn more</a>."
+msgstr "Waarschuwing: Het gebruik van onjuiste code of niet vertrouwde broncode kan je site breken of veiligheidsrisico's opleveren. <a href=\"https://draftpress.com/security-risks-of-wp-plugins-that-allow-code-editing-or-insertion\" target=\"_blank\">Leer meer</a>."
+
+#: includes/hfcm-tools.php:117
+msgid "Import"
+msgstr "Import"
+
+#: includes/hfcm-add-edit.php:323
+msgid "Not all locations (such as before content) exist on all page/post types. The location will only appear as an option if the appropriate hook exists on the page."
+msgstr "Niet alle locaties (zoals voor inhoud) bestaan op alle pagina/bericht types. De locatie zal alleen verschijnen als een optie als de juiste hook bestaat op de pagina."
+
+#: 99robots-header-footer-code-manager.php:1142
+msgid "Search Snippets"
+msgstr "Zoek samenvattingen"
+
+#: includes/hfcm-add-edit.php:379
+msgid "Copy"
+msgstr "Kopieer"
+
+#: includes/class-hfcm-snippets-list.php:344
+msgid "Copy Shortcode"
+msgstr "Kopieer shortcode"
+
+#: includes/class-hfcm-snippets-list.php:431
+msgid "Filter"
+msgstr "Filter"
+
+#: includes/class-hfcm-snippets-list.php:420
+msgid "All Snippet Types"
+msgstr "Alle snippet typen"
+
+#: includes/class-hfcm-snippets-list.php:216 includes/hfcm-add-edit.php:108
+msgid "Archive Page"
+msgstr "Archiefpagina"
+
+#: includes/class-hfcm-snippets-list.php:215 includes/hfcm-add-edit.php:107
+msgid "Search Page"
+msgstr "Zoekpagina"
+
+#: includes/class-hfcm-snippets-list.php:214 includes/hfcm-add-edit.php:106
+msgid "Home Page"
+msgstr "Homepage"
+
+#: includes/hfcm-tools.php:100
+msgid "Select File"
+msgstr "Selecteer bestand"
+
+#: includes/hfcm-tools.php:91
+msgid ""
+"Select the HFCM JSON file you would like to import. When you click the import button below,\n"
+"                                HFCM will import the field groups."
+msgstr ""
+"Selecteer het HFCM JSON bestand dat je wilt importeren. Wanneer je op de importknop hieronder klikt,\n"
+"                            HFCM importeert de veldgroepen."
+
+#: includes/hfcm-tools.php:85
+msgid "Import Snippets"
+msgstr "Snippets importeren"
+
+#: includes/hfcm-tools.php:75
+msgid "Export File"
+msgstr "Bestand exporteren"
+
+#: includes/hfcm-tools.php:49
+msgid "Select Snippets"
+msgstr "Selecteer snippets"
+
+#: includes/hfcm-tools.php:36
+msgid ""
+"Select the snippets you would like to export and then select your export method. Use the\n"
+"                                download button to export to a .json file which you can then import to another HFCM\n"
+"                                installation"
+msgstr ""
+"Selecteer de snippets die je wilt exporteren en selecteer vervolgens je exportmethode. Gebruik de\n"
+"                            downloadknop om te exporteren naar een .json bestand dat je vervolgens kunt importeren naar een andere HFCM\n"
+"                            installatie"
+
+#: includes/hfcm-tools.php:30
+msgid "Export Snippets"
+msgstr "Snippets exporteren"
+
+#: includes/hfcm-add-edit.php:323
+msgid "Note"
+msgstr "Let op"
+
+#: 99robots-header-footer-code-manager.php:1230
+#: 99robots-header-footer-code-manager.php:1245
+msgid "Please upload a valid import file"
+msgstr "Upload een geldig importbestand"
+
+#: 99robots-header-footer-code-manager.php:1097
+msgid ""
+"Please deactivate the free version of this plugin in order to avoid duplication of the snippets.\n"
+"                    You can use our tools to import all the snippets from the free version of this plugin."
+msgstr ""
+"Deactiveer de pro-versie van deze plugin om duplicatie van de snippets te voorkomen.\n"
+"                    Je kunt onze gereedschappen gebruiken om alle snippets uit de pro-versie van deze plugin te importeren."
+
+#: includes/hfcm-tools.php:43
+msgid "NOTE: Import/Export Functionality is only intended to operate within the same website.  Using the export/import to move snippets from one website to a different site, may result in inconsistent behavior, particularly if you have specific elements as criteria such as pages, posts, categories, or tags."
+msgstr "OPMERKING: Import/Export Functionaliteit is alleen bedoeld om binnen dezelfde site te werken. Het gebruik van de export/import om samenvattingen van de ene site naar een andere site te verplaatsen, kan leiden tot inconsistent gedrag, vooral als je specifieke elementen hebt, zoals pagina's, berichten, categorieën of tags."
+
+#: includes/class-hfcm-snippets-list.php:501 includes/hfcm-add-edit.php:334
+msgid "Inactive"
+msgstr "Inactief"
+
+#: includes/class-hfcm-snippets-list.php:496 includes/hfcm-add-edit.php:333
+msgid "Active"
+msgstr "Actief"
+
+#: includes/class-hfcm-snippets-list.php:491
+msgid "All"
+msgstr "Alle"
+
+#: includes/class-hfcm-snippets-list.php:399
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: includes/class-hfcm-snippets-list.php:398
+msgid "Deactivate"
+msgstr "Deactiveren"
+
+#: includes/class-hfcm-snippets-list.php:397
+msgid "Activate"
+msgstr "Activeer"
+
+#: includes/class-hfcm-snippets-list.php:366
+msgid "Devices"
+msgstr "Apparaten"
+
+#: includes/class-hfcm-snippets-list.php:363
+msgid "Display On"
+msgstr "Weergeven op"
+
+#: includes/class-hfcm-snippets-list.php:360
+msgid "ID"
+msgstr "ID"
+
+#: includes/class-hfcm-snippets-list.php:345 includes/hfcm-add-edit.php:424
+msgid "Delete"
+msgstr "Verwijder"
+
+#: includes/class-hfcm-snippets-list.php:343
+msgid "Edit"
+msgstr "Bewerken"
+
+#: includes/class-hfcm-snippets-list.php:261 includes/hfcm-add-edit.php:329
+msgid "Only Desktop"
+msgstr "Alleen bureaublad"
+
+#: includes/class-hfcm-snippets-list.php:259 includes/hfcm-add-edit.php:330
+msgid "Only Mobile Devices"
+msgstr "Alleen mobiele apparaten"
+
+#: includes/class-hfcm-snippets-list.php:257 includes/hfcm-add-edit.php:328
+msgid "Show on All Devices"
+msgstr "Weergeven op alle apparaten"
+
+#: includes/class-hfcm-snippets-list.php:243
+msgid "N/A"
+msgstr "N/B"
+
+#: includes/class-hfcm-snippets-list.php:234
+msgid "No post selected"
+msgstr "Geen bericht geselecteerd"
+
+#: includes/class-hfcm-snippets-list.php:213
+msgid "Specific Tags"
+msgstr "Specifieke tags"
+
+#: includes/class-hfcm-snippets-list.php:212
+msgid "Specific Custom Post Types"
+msgstr "Specifieke aangepaste berichttypen"
+
+#: includes/class-hfcm-snippets-list.php:211
+msgid "Specific Categories"
+msgstr "Specifieke categorieën"
+
+#: includes/class-hfcm-snippets-list.php:188
+msgid "No Snippets available."
+msgstr "Geen snippets beschikbaar."
+
+#: includes/hfcm-add-edit.php:417
+msgid "Save"
+msgstr "Opslaan"
+
+#: includes/hfcm-add-edit.php:406
+msgid "Code"
+msgstr "Code"
+
+#: includes/class-hfcm-snippets-list.php:17 includes/hfcm-add-edit.php:405
+msgid "Snippet"
+msgstr "Fragment"
+
+#: includes/hfcm-add-edit.php:396
+msgid "Last edited by"
+msgstr "Laatst bewerkt door"
+
+#: includes/hfcm-add-edit.php:393 includes/hfcm-add-edit.php:397
+msgid "at"
+msgstr "op"
+
+#: includes/hfcm-add-edit.php:393 includes/hfcm-add-edit.php:397
+msgid "on"
+msgstr "on"
+
+#: includes/hfcm-add-edit.php:392
+msgid "Snippet created by"
+msgstr "Fragment gemaakt door"
+
+#: includes/hfcm-add-edit.php:388
+msgid "Changelog"
+msgstr "Wijzigingslog"
+
+#: includes/class-hfcm-snippets-list.php:367 includes/hfcm-add-edit.php:370
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/class-hfcm-snippets-list.php:361 includes/hfcm-add-edit.php:353
+msgid "Status"
+msgstr "Status"
+
+#: includes/hfcm-add-edit.php:337
+msgid "Device Display"
+msgstr "Apparaat weergave"
+
+#: includes/class-hfcm-snippets-list.php:364 includes/hfcm-add-edit.php:308
+msgid "Location"
+msgstr "Locatie"
+
+#: includes/hfcm-add-edit.php:275
+msgid "Post Count"
+msgstr "Aantal berichten"
+
+#: includes/hfcm-add-edit.php:259
+msgid "Post Types"
+msgstr "Berichttypen"
+
+#: includes/hfcm-add-edit.php:241
+msgid "Tags List"
+msgstr "Tags lijst"
+
+#: includes/hfcm-add-edit.php:223
+msgid "Category List"
+msgstr "Categorielijst"
+
+#: includes/hfcm-add-edit.php:190
+msgid "Post List"
+msgstr "Berichtenlijst"
+
+#: includes/hfcm-add-edit.php:171
+msgid "Page List"
+msgstr "Paginalijst"
+
+#: includes/hfcm-add-edit.php:157
+msgid "Exclude Posts"
+msgstr "Uitsluiten van berichten"
+
+#: includes/hfcm-add-edit.php:140
+msgid "Exclude Pages"
+msgstr "Pagina's uitsluiten"
+
+#: includes/hfcm-add-edit.php:113
+msgid "Site Display"
+msgstr "Site weergave"
+
+#: includes/class-hfcm-snippets-list.php:218 includes/hfcm-add-edit.php:110
+msgid "Shortcode Only"
+msgstr "Alleen shortcode"
+
+#: includes/class-hfcm-snippets-list.php:217 includes/hfcm-add-edit.php:109
+msgid "Latest Posts"
+msgstr "Nieuwste berichten"
+
+#: includes/hfcm-add-edit.php:105
+msgid "Specific Tags (Archive & Posts)"
+msgstr "Specifieke tags (Archief & berichten)"
+
+#: includes/hfcm-add-edit.php:104
+msgid "Specific Post Types (Archive & Posts)"
+msgstr "Specifieke bericht types (Archief & berichten)"
+
+#: includes/hfcm-add-edit.php:103
+msgid "Specific Categories (Archive & Posts)"
+msgstr "Specifieke categorieën (Archief & berichten)"
+
+#: includes/class-hfcm-snippets-list.php:210 includes/hfcm-add-edit.php:102
+msgid "Specific Pages"
+msgstr "Specifieke pagina's"
+
+#: includes/class-hfcm-snippets-list.php:209 includes/hfcm-add-edit.php:101
+msgid "Specific Posts"
+msgstr "Specifieke berichten"
+
+#: includes/class-hfcm-snippets-list.php:208 includes/hfcm-add-edit.php:100
+msgid "Site Wide"
+msgstr "Gehele site"
+
+#: includes/class-hfcm-snippets-list.php:365 includes/hfcm-add-edit.php:82
+msgid "Snippet Type"
+msgstr "Fragment type"
+
+#: includes/class-hfcm-snippets-list.php:269
+#: includes/class-hfcm-snippets-list.php:415 includes/hfcm-add-edit.php:78
+msgid "Javascript"
+msgstr "Javascript"
+
+#: includes/class-hfcm-snippets-list.php:268
+#: includes/class-hfcm-snippets-list.php:414 includes/hfcm-add-edit.php:77
+msgid "CSS"
+msgstr "CSS"
+
+#: includes/class-hfcm-snippets-list.php:267
+#: includes/class-hfcm-snippets-list.php:413 includes/hfcm-add-edit.php:76
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/class-hfcm-snippets-list.php:362 includes/hfcm-add-edit.php:68
+msgid "Snippet Name"
+msgstr "Fragment naam"
+
+#: includes/hfcm-add-edit.php:45
+msgid "Script Added Successfully"
+msgstr "Script met succes toegevoegd"
+
+#: includes/hfcm-add-edit.php:42 includes/hfcm-add-edit.php:47
+msgid "Back to list"
+msgstr "Terug naar lijst"
+
+#: includes/hfcm-add-edit.php:40
+msgid "Script updated"
+msgstr "Script geüpdatet"
+
+#: includes/hfcm-add-edit.php:28
+msgid "Edit Snippet"
+msgstr "Fragment bewerken"
+
+#: includes/class-hfcm-snippets-list.php:250 includes/hfcm-add-edit.php:16
+#: includes/hfcm-add-edit.php:297 includes/hfcm-add-edit.php:302
+#: includes/hfcm-tools.php:12
+msgid "Footer"
+msgstr "Footer"
+
+#: includes/class-hfcm-snippets-list.php:249 includes/hfcm-add-edit.php:15
+#: includes/hfcm-add-edit.php:296 includes/hfcm-tools.php:11
+msgid "After Content"
+msgstr "Na inhoud"
+
+#: includes/class-hfcm-snippets-list.php:248 includes/hfcm-add-edit.php:14
+#: includes/hfcm-add-edit.php:295 includes/hfcm-tools.php:10
+msgid "Before Content"
+msgstr "Vóór de inhoud"
+
+#: includes/class-hfcm-snippets-list.php:247 includes/hfcm-add-edit.php:13
+#: includes/hfcm-add-edit.php:294 includes/hfcm-add-edit.php:301
+#: includes/hfcm-tools.php:9
+msgid "Header"
+msgstr "Header"
+
+#: 99robots-header-footer-code-manager.php:1133
+#: includes/class-hfcm-snippets-list.php:18
+msgid "Snippets"
+msgstr "Fragmenten"
+
+#: 99robots-header-footer-code-manager.php:332
+msgid "Hey there! You’ve been using the <strong>Header Footer Code Manager</strong> plugin for a while now. If you like the plugin, please support our awesome development and support team by leaving a <a class=\"hfcm-review-stars\" href=\"https://wordpress.org/support/plugin/header-footer-code-manager/reviews/\"><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span></a> rating. <a href=\"https://wordpress.org/support/plugin/header-footer-code-manager/reviews/\">Rate it!</a> It’ll mean the world to us and keep this plugin free and constantly updated. <a href=\"https://wordpress.org/support/plugin/header-footer-code-manager/reviews/\">Leave A Review</a>"
+msgstr "Je gebruikt de <strong>Header Footer Code Manager</strong> plugin al een tijdje. Als je de plugin leuk vindt, steun dan ons geweldige ontwikkelings- en ondersteuningsteam door een beoordeling achter te <a class=\"hfcm-review-stars\" href=\"https://wordpress.org/support/plugin/header-footer-code-manager/reviews/\"><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span></a> laten. <a href=\"https://wordpress.org/support/plugin/header-footer-code-manager/reviews/\">Waardeer het!</a> Het betekent de wereld voor ons en houdt deze plugin vrij en voortdurend geüpdatet. <a href=\"https://wordpress.org/support/plugin/header-footer-code-manager/reviews/\">Laat een beoordeling achter</a>"
+
+#: 99robots-header-footer-code-manager.php:292
+msgid "Settings"
+msgstr "Instellingen"
+
+#: 99robots-header-footer-code-manager.php:279
+msgid "Request Handler"
+msgstr "Aanvraag afhandelaar"
+
+#: 99robots-header-footer-code-manager.php:278
+msgid "Request Handler Script"
+msgstr "Script voor afhandeling van aanvragen"
+
+#: 99robots-header-footer-code-manager.php:269 includes/hfcm-add-edit.php:417
+msgid "Update"
+msgstr "Update"
+
+#: 99robots-header-footer-code-manager.php:268
+msgid "Update Script"
+msgstr "Script updaten"
+
+#: 99robots-header-footer-code-manager.php:258
+#: 99robots-header-footer-code-manager.php:259 includes/hfcm-tools.php:23
+msgid "Tools"
+msgstr "Gereedschappen"
+
+#: 99robots-header-footer-code-manager.php:249
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: 99robots-header-footer-code-manager.php:248
+#: 99robots-header-footer-code-manager.php:1135 includes/hfcm-add-edit.php:28
+#: includes/hfcm-add-edit.php:31
+msgid "Add New Snippet"
+msgstr "Nieuw fragment toevoegen"
+
+#: 99robots-header-footer-code-manager.php:238
+#: 99robots-header-footer-code-manager.php:239
+msgid "All Snippets"
+msgstr "Alle fragmenten"
+
+#: 99robots-header-footer-code-manager.php:228
+msgid "HFCM"
+msgstr "HFCM"
+
+#. Author URI of the plugin
+msgid "https://draftpress.com/"
+msgstr "https://draftpress.com/"
+
+#. Author of the plugin
+msgid "99robots"
+msgstr "99robots"
+
+#. Description of the plugin
+msgid "Header Footer Code Manager by 99 Robots is a quick and simple way for you to add tracking code snippets, conversion pixels, or other scripts required by third party services for analytics, tracking, marketing, or chat functions. For detailed documentation, please visit the plugin's <a href=\"https://draftpress.com/\"> official page</a>."
+msgstr "Header Footer Code Manager van 99 Robots is een snelle en eenvoudige manier voor je om tracking code fragmenten, conversie pixels, of andere scripts toe te voegen die vereist zijn door diensten van derden voor analytics, tracking, marketing, of chat functies. Voor gedetailleerde documentatie kun je terecht op de <a href=\"https://draftpress.com/\"> officiële pagina</a> van de plugin."
+
+#. Plugin URI of the plugin
+msgid "https://draftpress.com/products"
+msgstr "https://draftpress.com/products"
+
+#. Plugin Name of the plugin
+#: 99robots-header-footer-code-manager.php:227
+msgid "Header Footer Code Manager"
+msgstr "Header Footer Code Manager"

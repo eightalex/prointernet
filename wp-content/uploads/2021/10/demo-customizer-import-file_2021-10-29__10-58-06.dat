@@ -1,0 +1,19 @@
+a:4:{s:8:"template";s:7:"mercury";s:4:"mods";a:46:{i:0;b:0;s:18:"nav_menu_locations";a:3:{s:9:"main-menu";i:107;s:11:"footer-menu";i:106;s:8:"top-menu";i:106;}s:18:"custom_css_post_id";i:782;s:11:"custom_logo";i:432;s:20:"mercury_header_style";s:1:"1";s:23:"header_background_color";s:7:"#ff4757";s:23:"topbar_background_color";s:7:"#df2f3f";s:17:"topbar_link_color";s:7:"#ffffff";s:18:"topbar_hover_color";s:7:"#fec3c4";s:17:"header_logo_color";s:7:"#ffffff";s:19:"header_slogan_color";s:7:"#fec3c4";s:17:"header_menu_color";s:7:"#ffffff";s:23:"header_hover_menu_color";s:7:"#691c23";s:20:"mercury_facebook_url";s:19:"https://mercury.is/";s:19:"mercury_twitter_url";s:19:"https://mercury.is/";s:19:"mercury_youtube_url";s:19:"https://mercury.is/";s:18:"mercury_reddit_url";s:19:"https://mercury.is/";s:21:"mercury_related_posts";b:1;s:22:"mercury_sticky_sidebar";b:1;s:23:"mercury_time_ago_format";b:1;s:25:"mercury_author_info_block";b:0;s:35:"mercury_category_navigation_casinos";b:1;s:28:"mercury_casinos_list_page_id";i:54;s:33:"mercury_category_navigation_games";b:1;s:26:"mercury_games_list_page_id";i:67;s:35:"mercury_category_navigation_bonuses";b:1;s:28:"mercury_bonuses_list_page_id";i:75;s:26:"label_background_color_new";s:7:"#dd3e4b";s:20:"label_text_color_new";s:7:"#691c23";s:27:"label_background_color_best";s:7:"#dd3e4b";s:21:"label_text_color_best";s:7:"#691c23";s:26:"label_background_color_top";s:7:"#fec3c4";s:20:"label_text_color_top";s:7:"#d63031";s:27:"label_background_color_fair";s:7:"#dd3e4b";s:21:"label_text_color_fair";s:7:"#691c23";s:30:"mercury_enable_archive_section";b:1;s:22:"mercury_enable_top_bar";b:0;s:10:"main_color";s:7:"#485460";s:12:"second_color";s:7:"#ff4757";s:11:"stars_color";s:7:"#ffd32a";s:16:"sidebars_widgets";a:2:{s:4:"time";i:1594639975;s:4:"data";a:5:{s:19:"wp_inactive_widgets";a:0:{}s:13:"right-sidebar";a:2:{i:0;s:31:"aces_casinos_sidebar_2_widget-1";i:1;s:11:"mercury_5-1";}s:22:"homepage-central-block";a:7:{i:0;s:11:"mercury_2-1";i:2;s:11:"mercury_6-1";i:4;s:11:"mercury_3-1";i:5;s:24:"aces_games_home_widget-1";i:7;s:11:"mercury_7-1";i:8;s:26:"aces_bonuses_home_widget-1";i:10;s:28:"aces_casinos_home_3_widget-1";}s:22:"homepage-right-sidebar";a:0:{}s:21:"footer-center-sidebar";a:1:{i:0;s:6:"text-4";}}}s:20:"play_now_title_color";s:7:"#ffffff";s:25:"play_now_background_color";s:7:"#ffd32a";s:23:"read_review_title_color";s:7:"#636e72";s:28:"read_review_background_color";s:7:"#dfe6e9";s:31:"mercury_disable_floating_header";b:1;}s:7:"options";a:9:{s:9:"site_icon";s:1:"8";s:43:"wpseo_titles[breadcrumbs-display-blog-page]";b:0;s:29:"wpseo_titles[breadcrumbs-sep]";s:2:"»";s:30:"wpseo_titles[breadcrumbs-home]";s:4:"Home";s:32:"wpseo_titles[breadcrumbs-prefix]";s:0:"";s:39:"wpseo_titles[breadcrumbs-archiveprefix]";s:12:"Archives for";s:38:"wpseo_titles[breadcrumbs-searchprefix]";s:16:"You searched for";s:34:"wpseo_titles[breadcrumbs-404crumb]";s:25:"Error 404: Page not found";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:545:".space-header-wrap {box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0);}
+.space-header-wrap.fixed {box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.3);}
+/*
+full width
+*/
+.page-template-page-without-title .space-page-section-ins {
+	padding-top: 0;
+}
+.space-page-content .alignwide {
+margin-left : calc( -100vw / 2 + 100% / 2 );
+margin-right : calc( -100vw / 2 + 100% / 2 );
+max-width : 100vw;
+}
+.space-page-content .alignfull {
+	margin-top: 0;
+margin-left : calc( -100vw / 2 + 100% / 2 );
+margin-right : calc( -100vw / 2 + 100% / 2 );
+max-width : 100vw;
+}";}

@@ -1,0 +1,1683 @@
+# Translation of Plugins - Easy Table of Contents - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Easy Table of Contents - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-07 18:45:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Easy Table of Contents - Stable (latest release)\n"
+
+#: includes/class.widget-toc-sticky.php:549
+msgid "Scroll Max Height"
+msgstr "Scroll maximale hoogte"
+
+#: includes/class.widget-toc-sticky.php:543
+msgid "Navigation Scroll Bar"
+msgstr "Navigatie scrollbalk"
+
+#: includes/class.widget-toc-sticky.php:529
+msgid "Fixed Top Position"
+msgstr "Vaste toppositie"
+
+#: includes/class.widget-toc-sticky.php:523
+#: includes/class.widget-toc-sticky.php:537
+#: includes/class.widget-toc-sticky.php:557
+msgid "none"
+msgstr "geen"
+
+#: includes/class.widget-toc-sticky.php:522
+#: includes/class.widget-toc-sticky.php:536
+#: includes/class.widget-toc-sticky.php:556
+msgid "em"
+msgstr "em"
+
+#: includes/class.widget-toc-sticky.php:521
+#: includes/class.widget-toc-sticky.php:535
+#: includes/class.widget-toc-sticky.php:555
+msgid "%"
+msgstr "%"
+
+#: includes/class.widget-toc-sticky.php:520
+#: includes/class.widget-toc-sticky.php:534
+#: includes/class.widget-toc-sticky.php:554
+msgid "px"
+msgstr "px"
+
+#: includes/class.widget-toc-sticky.php:518
+#: includes/class.widget-toc-sticky.php:533
+#: includes/class.widget-toc-sticky.php:553
+msgid "pt"
+msgstr "pt"
+
+#: includes/class.widget-toc-sticky.php:514
+msgid "Sidebar Width"
+msgstr "Breedte zijbalk"
+
+#: includes/class.widget-toc-sticky.php:509
+msgid "Scroll Fixed Position"
+msgstr "Scroll vaste positie"
+
+#: includes/class.widget-toc-sticky.php:504
+msgid "Advanced Options"
+msgstr "Geavanceerde opties"
+
+#: includes/class.widget-toc-sticky.php:31
+msgid "Sticky Sidebar Table of Contents"
+msgstr "Sticky zijbalk inhoudsopgave"
+
+#: easy-table-of-contents.php:985
+msgid "%s: Widget class not found. Make sure this widget exists and the class name is correct"
+msgstr "%s: widget klasse niet gevonden. Controleer of deze widget bestaat en of de klasse naam correct is"
+
+#: includes/inc.admin-options-page.php:675
+msgid "Black Friday, Cyber Monday, Christmas &amp; New year are the only times we offer discounts this big."
+msgstr "Black friday, Cyber Monday, Kerstmis & Nieuwjaar zijn de enige keren dat we zulke grote kortingen bieden."
+
+#: includes/inc.admin-options-page.php:674
+msgid "Get This Offer Now"
+msgstr "Ontvang deze aanbieding nu"
+
+#: includes/inc.admin-options-page.php:673
+msgid "Upgrade the PRO version during this festive season and get our biggest discount of all time on New Purchases, Renewals &amp; Upgrades"
+msgstr "Upgrade de PRO versie tijdens deze feestdagen en krijg onze grootste korting aller tijden op nieuwe aankopen, verlengingen & upgrades"
+
+#: includes/inc.admin-options-page.php:672
+msgid "Easy TOC PRO"
+msgstr "Easy TOC PRO"
+
+#: includes/inc.admin-options-page.php:672
+msgid "40% OFF on"
+msgstr "40% KORTING op"
+
+#: includes/inc.admin-options-page.php:667
+msgid "40% OFF - Limited Time Only"
+msgstr "40% KORTING - Alleen beperkte tijd"
+
+#: includes/inc.admin-options-page.php:171
+msgid "Reset"
+msgstr "Resetten"
+
+#: includes/class.options.php:1678
+msgid "Security Alert: nonce not verified!"
+msgstr "Beveiligingswaarschuwing: nog niet geverifieerd!"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://tocwp.com/"
+msgstr "https://tocwp.com/"
+
+#: includes/inc.admin-options-page.php:653
+msgid "Contact a Human"
+msgstr "Neem contact op met een mens"
+
+#: includes/inc.admin-options-page.php:651
+msgid "All the plans are year-to-year which are subscribed annually."
+msgstr "Alle plannen zijn van jaar tot jaar waarop jaarlijks wordt ingeschreven."
+
+#: includes/inc.admin-options-page.php:650
+msgid "I have other pre-sale questions, can you help?"
+msgstr "Ik heb andere voorverkoop vragen, kan je helpen?"
+
+#: includes/inc.admin-options-page.php:644
+msgid "Yes, you will get updates for all the premium plugins until your subscription is active."
+msgstr "Ja, je krijgt updates voor alle premium plugins totdat je abonnement actief is."
+
+#: includes/inc.admin-options-page.php:643
+msgid "Do I get updates for the premium plugin?"
+msgstr "Krijg ik updates voor de premium plugin?"
+
+#: includes/inc.admin-options-page.php:640
+msgid "You are fully protected by our 100% Money-Back Guarantee Unconditional. If during the next 14 days you experience an issue that makes the plugin unusable, and we are unable to resolve it, we’ll happily offer a full refund."
+msgstr "Je bent volledig beschermd door onze 100% onvoorwaardelijke geld-terug-garantie. Als je gedurende de komende 14 dagen een probleem ervaart waardoor de plugin onbruikbaar wordt en we het niet kunnen oplossen, bieden we je graag een volledige terugbetaling."
+
+#: includes/inc.admin-options-page.php:639
+msgid "Do you offer refunds?"
+msgstr "Bied je restituties aan?"
+
+#: includes/inc.admin-options-page.php:636
+msgid "Yes. You can upgrade your plan by contacting us."
+msgstr "Ja. Je kunt je abonnement upgraden door contact met ons op te nemen."
+
+#: includes/inc.admin-options-page.php:635
+msgid "Can I change my plan later on?"
+msgstr "Kan ik mijn abonnement later wijzigen?"
+
+#: includes/inc.admin-options-page.php:632
+msgid "Yes. You can cancel your membership by contacting us."
+msgstr "Ja. Je kunt je lidmaatschap annuleren door contact met ons op te nemen."
+
+#: includes/inc.admin-options-page.php:631
+msgid "Can I cancel my membership at any time?"
+msgstr "Kan ik mijn lidmaatschap op elk moment annuleren?"
+
+#: includes/inc.admin-options-page.php:624
+msgid "Yes, you can use the plugins, but you will not get future updates for those plugins."
+msgstr "Ja, je kunt de plugins gebruiken, maar je krijgt in de toekomst geen updates voor die plugins."
+
+#: includes/inc.admin-options-page.php:623
+msgid "Can I use the plugins after my subscription is expired?"
+msgstr "Kan ik de plugins gebruiken nadat mijn abonnement is verlopen?"
+
+#: includes/inc.admin-options-page.php:620
+msgid "Yes! Top-notch customer support for our paid customers is key for a quality product, so we’ll do our very best to resolve any issues you encounter via our support page."
+msgstr "Ja! Eersteklas klantenondersteuning voor onze betaalde klanten is essentieel voor een kwaliteitsproduct, dus we zullen ons uiterste best doen om eventuele problemen op te lossen die je tegenkomt via onze ondersteuningspagina."
+
+#: includes/inc.admin-options-page.php:619
+msgid "Do you offer support if I need help?"
+msgstr "Bied je ondersteuning als ik hulp nodig heb?"
+
+#: includes/inc.admin-options-page.php:616
+msgid "We accepts PayPal and Credit Card payments."
+msgstr "We accepteren PayPal- en creditcardbetalingen."
+
+#: includes/inc.admin-options-page.php:615
+msgid "What payment methods are accepted?"
+msgstr "Welke betaalmethoden worden geaccepteerd?"
+
+#: includes/inc.admin-options-page.php:612
+msgid "All the plans are year-to-year which are subscribed annually except for lifetime plan."
+msgstr "Alle plannen zijn van jaar tot jaar waarop jaarlijks wordt ingeschreven, behalve het levenslange plan."
+
+#: includes/inc.admin-options-page.php:611
+msgid "What's the time span for your contracts?"
+msgstr "Wat is de looptijd van je contracten?"
+
+#: includes/inc.admin-options-page.php:608
+msgid "No. There are no setup fees on any of our plans"
+msgstr "Nee. Er zijn geen opstartkosten voor al onze abonnementen"
+
+#: includes/inc.admin-options-page.php:607
+msgid "Is there a setup fee?"
+msgstr "Zijn er installatiekosten?"
+
+#: includes/inc.admin-options-page.php:602
+msgid "Frequently Asked Questions"
+msgstr "Veel gestelde vragen"
+
+#: includes/inc.admin-options-page.php:598
+msgid "Read The Reviews"
+msgstr "Lees de beoordelingen"
+
+#: includes/inc.admin-options-page.php:596
+msgid "More than 300k Websites, Blogs &amp; E-Commerce shops are powered by our easy table of contents plugin making it the #1 Independent TOC plugin in WordPress."
+msgstr "Meer dan 300.000 sites, blogs &amp; e-commerce winkels worden mogelijk gemaakt door onze eenvoudige inhoudsopgave-plugin, waardoor het de #1 onafhankelijke inhoudsopgave plugin in WordPress is."
+
+#: includes/inc.admin-options-page.php:595
+msgid "Used by more than 3,00,000+ Users!"
+msgstr "Gebruikt door meer dan 3.00.000+ gebruikers!"
+
+#: includes/inc.admin-options-page.php:586
+msgid "Lifetime License"
+msgstr "Levenslange licentie"
+
+#: includes/inc.admin-options-page.php:585
+msgid "Unlimited E-mail support"
+msgstr "Onbeperkte e-mailondersteuning"
+
+#: includes/inc.admin-options-page.php:579
+msgid "LIFETIME"
+msgstr "LEVENSLANG"
+
+#: includes/inc.admin-options-page.php:572
+#: includes/inc.admin-options-page.php:587
+msgid "UNLIMITED"
+msgstr "ONBEPERKT"
+
+#: includes/inc.admin-options-page.php:570
+msgid "E-mail support"
+msgstr "E-mail ondersteuning"
+
+#: includes/inc.admin-options-page.php:569
+#: includes/inc.admin-options-page.php:584
+msgid "Unlimited Sites"
+msgstr "Onbeperkt aantal locaties"
+
+#: includes/inc.admin-options-page.php:567
+#: includes/inc.admin-options-page.php:582
+msgid "(Save $199)"
+msgstr "(Bespaar $199)"
+
+#: includes/inc.admin-options-page.php:564
+msgid "AGENCY"
+msgstr "AGENTSCHAP"
+
+#: includes/inc.admin-options-page.php:557
+msgid "Save 90%"
+msgstr "Bespaar 90%"
+
+#: includes/inc.admin-options-page.php:554
+msgid "25 Site License"
+msgstr "25 site licenties"
+
+#: includes/inc.admin-options-page.php:552
+msgid "(Save $119)"
+msgstr "(Bespaar $119)"
+
+#: includes/inc.admin-options-page.php:549
+msgid "FREELANCER"
+msgstr "FREELANCER"
+
+#: includes/inc.admin-options-page.php:542
+msgid "Save 83%"
+msgstr "Bespaar 83%"
+
+#: includes/inc.admin-options-page.php:539
+msgid "10 Site License"
+msgstr "10 site licenties"
+
+#: includes/inc.admin-options-page.php:537
+msgid "(Save $99)"
+msgstr "(Bespaar $99)"
+
+#: includes/inc.admin-options-page.php:534
+msgid "WEBMASTER"
+msgstr "WEBMASTER"
+
+#: includes/inc.admin-options-page.php:528
+msgid "RECOMMENDED"
+msgstr "AANBEVOLEN"
+
+#: includes/inc.admin-options-page.php:526
+msgid "Save 78%"
+msgstr "Bespaar 78%"
+
+#: includes/inc.admin-options-page.php:523
+msgid "3 Site License"
+msgstr "3 sitelicentie"
+
+#: includes/inc.admin-options-page.php:521
+msgid "(Save $79)"
+msgstr "(Bespaar $79)"
+
+#: includes/inc.admin-options-page.php:518
+msgid "MULTIPLE"
+msgstr "MEERDERE"
+
+#: includes/inc.admin-options-page.php:512
+#: includes/inc.admin-options-page.php:527
+#: includes/inc.admin-options-page.php:543
+#: includes/inc.admin-options-page.php:558
+#: includes/inc.admin-options-page.php:573
+#: includes/inc.admin-options-page.php:588
+msgid "Buy Now"
+msgstr "Nu kopen"
+
+#: includes/inc.admin-options-page.php:511
+msgid "Pro Features"
+msgstr "Pro functies"
+
+#: includes/inc.admin-options-page.php:510
+#: includes/inc.admin-options-page.php:525
+#: includes/inc.admin-options-page.php:541
+#: includes/inc.admin-options-page.php:556
+#: includes/inc.admin-options-page.php:571
+msgid "1 year Updates"
+msgstr "1 jaar updates"
+
+#: includes/inc.admin-options-page.php:508
+msgid "1 Site License"
+msgstr "1 sitelicentie"
+
+#: includes/inc.admin-options-page.php:507
+#: includes/inc.admin-options-page.php:522
+#: includes/inc.admin-options-page.php:538
+#: includes/inc.admin-options-page.php:553
+#: includes/inc.admin-options-page.php:568
+#: includes/inc.admin-options-page.php:583
+msgid "Billed Annually"
+msgstr "Jaarlijks gefactureerd"
+
+#: includes/inc.admin-options-page.php:506
+msgid "(Save $59)"
+msgstr "(Bespaar $59)"
+
+#: includes/inc.admin-options-page.php:503
+msgid "PERSONAL"
+msgstr "PERSOONLIJK"
+
+#: includes/inc.admin-options-page.php:497
+msgid "Choose your plan and upgrade in minutes!"
+msgstr "Kies je abonnement en upgrade binnen enkele minuten!"
+
+#: includes/inc.admin-options-page.php:496
+msgid "Let's Upgrade Your Easy Table of Contents"
+msgstr "Laten we je eenvoudige inhoudsopgave upgraden"
+
+#: includes/inc.admin-options-page.php:488
+msgid "Upgrade to Pro"
+msgstr "Upgraden naar Pro"
+
+#: includes/inc.admin-options-page.php:484
+msgid "We create tutorials for every possible feature and keep it updated for you."
+msgstr "We maken tutorials voor elke mogelijke functie en houden deze geüpdatet voor je."
+
+#: includes/inc.admin-options-page.php:476
+msgid "We're continuously updating our premium features and releasing them."
+msgstr "We zijn continu onze premium functies aan het updaten en vrijgeven."
+
+#: includes/inc.admin-options-page.php:474
+msgid "Continuous Updates"
+msgstr "Continue updates"
+
+#: includes/inc.admin-options-page.php:468
+msgid "Generates a table of contents with your existing setup and makes them AMP automatically."
+msgstr "Genereert een inhoudsopgave met je bestaande setup en maakt ze automatisch AMP."
+
+#: includes/inc.admin-options-page.php:466
+msgid "Full AMP Support"
+msgstr "Volledige AMP ondersteuning"
+
+#: includes/inc.admin-options-page.php:458
+msgid "Users can faster find the content they want with sticky"
+msgstr "Gebruikers kunnen sneller de gewenste inhoud vinden met sticky"
+
+#: includes/inc.admin-options-page.php:456
+msgid "Fixed/Sticky TOC"
+msgstr "Vaste/sticky inhoudsopgave"
+
+#: includes/inc.admin-options-page.php:431
+msgid "PRO"
+msgstr "PRO"
+
+#: includes/inc.admin-options-page.php:418
+msgid "FREE"
+msgstr "GRATIS"
+
+#: includes/inc.admin-options-page.php:379
+msgid "Support the innovation & development by upgrading to PRO "
+msgstr "Ondersteun de innovatie en ontwikkeling door te upgraden naar PRO "
+
+#: includes/inc.admin-options-page.php:378
+msgid "Delivering a good user experience means a lot to us, so we try our best to reply each and every question."
+msgstr "Het leveren van een goede gebruikerservaring betekent veel voor ons, dus we doen ons best om elke vraag te beantwoorden."
+
+#: includes/inc.admin-options-page.php:369
+#: includes/inc.admin-options-page.php:375
+msgid "Developer"
+msgstr "Ontwikkelaar"
+
+#: includes/inc.admin-options-page.php:363
+msgid "Lead Dev"
+msgstr "Hoofdontwikkelaar"
+
+#: includes/inc.admin-options-page.php:357
+msgid "We strive to provide the best TOC in the world."
+msgstr "We streven ernaar om de beste inhoudsopgave ter wereld aan te bieden."
+
+#: includes/inc.admin-options-page.php:356
+msgid "Vision & Mission"
+msgstr "Visie & missie"
+
+#: includes/inc.admin-options-page.php:342
+msgid "Some Text or Element here "
+msgstr "Wat tekst of element hier "
+
+#: includes/inc.admin-options-page.php:339
+msgid "Get this following code and paste into your theme\\'s function.php file:"
+msgstr "Haal de volgende code op en plak deze in het function.php bestand van je thema:"
+
+#: includes/inc.admin-options-page.php:337
+msgid "Example: adding a span tag before the `Easy Table of Contents`"
+msgstr "Voorbeeld: een span-tag toevoegen voor de `Easy Table of Contents`"
+
+#: includes/inc.admin-options-page.php:332
+msgid "ez_toc_after_widget"
+msgstr "ez_toc_after_widget"
+
+#: includes/inc.admin-options-page.php:330
+msgid "ez_toc_after_widget_container"
+msgstr "ez_toc_after_widget_container"
+
+#: includes/inc.admin-options-page.php:327
+msgid "ez_toc_before_widget"
+msgstr "ez_toc_before_widget"
+
+#: includes/inc.admin-options-page.php:325
+msgid "ez_toc_before_widget_container"
+msgstr "ez_toc_before_widget_container"
+
+#: includes/inc.admin-options-page.php:322
+msgid "ez_toc_sticky_toggle_after"
+msgstr "ez_toc_sticky_toggle_after"
+
+#: includes/inc.admin-options-page.php:319
+msgid "ez_toc_sticky_toggle_before"
+msgstr "ez_toc_sticky_toggle_before"
+
+#: includes/inc.admin-options-page.php:316
+msgid "ez_toc_after"
+msgstr "ez_toc_after"
+
+#: includes/inc.admin-options-page.php:314
+msgid "ez_toc_before"
+msgstr "ez_toc_before"
+
+#: includes/inc.admin-options-page.php:312
+msgid "Actions:"
+msgstr "Acties:"
+
+#: includes/inc.admin-options-page.php:310
+msgid "Developer can use these below hooks for customization of this plugin:"
+msgstr "Ontwikkelaars kunnen deze onderstaande haken gebruiken voor het aanpassen van deze plugin:"
+
+#: includes/inc.admin-options-page.php:309
+msgid "Hooks"
+msgstr "Hooks"
+
+#: includes/inc.admin-options-page.php:307
+msgid "This plugin has been designed for easiest way & best features for the users & also as well as for the developers, any developer follow the below advanced instructions:"
+msgstr "Deze plugin is ontworpen voor de gemakkelijkste en beste functies voor de gebruikers en ook voor de ontwikkelaars, elke ontwikkelaar volgt de onderstaande geavanceerde instructies:"
+
+#: includes/inc.admin-options-page.php:299
+msgid "Use the following shortcode within your content to have the table of contents display where you wish to:"
+msgstr "Gebruik de volgende shortcode binnen je inhoud om de inhoudsopgave weer te geven waar je wilt:"
+
+#: includes/inc.admin-options-page.php:295
+msgid " for more documentation of `Easy Table of Contents`"
+msgstr " voor meer documentatie van `Easy Table of Contents`"
+
+#: includes/inc.admin-options-page.php:295
+msgid "More Documentation"
+msgstr "Meer documentatie"
+
+#: includes/inc.admin-options-page.php:295
+msgid "You can visit this link "
+msgstr "Je kunt deze link bezoeken "
+
+#: includes/inc.admin-options-page.php:294
+msgid "4. MORE DOCUMENTATION:"
+msgstr "4. MEER DOCUMENTATIE:"
+
+#: includes/inc.admin-options-page.php:291
+msgid "You can also choose Custom Theme colors of `Easy Table of Contents`. according to your requirements"
+msgstr "Je kunt ook aangepaste themakleuren kiezen voor 'Easy Table of Contents`. Naar je eigen wensen"
+
+#: includes/inc.admin-options-page.php:289
+msgid "You can also choose Theme color of `Easy Table of Contents` on Theme Options section according to your choice."
+msgstr "Je kunt ook de themakleur kiezen van 'Easy Table of Contents' in het gedeelte thema opties, afhankelijk van je keuze."
+
+#: includes/inc.admin-options-page.php:287
+msgid "You can also set Font Option of `Easy Table of Contents` according to your needs."
+msgstr "Je kunt ook de lettertype optie van 'Easy Table of Contents' instellen op basis van je behoeften."
+
+#: includes/inc.admin-options-page.php:285
+msgid "You can also choose Alignment of `Easy Table of Contents`."
+msgstr "Je kunt ook kiezen voor uitlijning van `Easy Table of Contents`."
+
+#: includes/inc.admin-options-page.php:283
+msgid "You can change width of `Easy Table of Contents` from select Fixed or Relative sizes or you select custom width then it will be showing custom width option for enter manually width."
+msgstr "Je kunt de breedte van `Easy Table of Contents` wijzigen door opgelost of relatieve maten te selecteren of je selecteert aangepaste breedte, dan wordt de aangepaste breedteoptie weergegeven om de breedte handmatig in te voeren."
+
+#: includes/inc.admin-options-page.php:281
+msgid "Go to tab Settings &gt; Appearance for design customization."
+msgstr "Ga naar de tab instellingen &gt; Weergave voor ontwerpaanpassing."
+
+#: includes/inc.admin-options-page.php:278
+msgid "3. DESIGN CUSTOMIZATION"
+msgstr "3. ONTWERP AANPASSING"
+
+#: includes/inc.admin-options-page.php:276
+msgid "You have to choose post types on tab General &gt; Enable Support section then `Easy Table of Contents` editor options would be shown to choose settings for particular post type."
+msgstr "Je moet berichttypes kiezen op het tab aAgemeen &gt; Inschakelen support sectie, waarna de `Easy table of Contents`editoropties worden getoond om instellingen voor een bepaald berichttype te kiezen."
+
+#: includes/inc.admin-options-page.php:273
+msgid "Using Insert table of contents option on editor of any post type."
+msgstr "De optie inhoudsopgave invoegen gebruiken in de editor van elk berichttype."
+
+#: includes/inc.admin-options-page.php:271
+msgid "Using shortcode, you can copy shortcode and paste the shortcode on editor of any post type."
+msgstr "Met behulp van shortcode kun je shortcode kopiëren en plakken in de editor van elk berichttype."
+
+#: includes/inc.admin-options-page.php:268
+msgid "There are two ways for manual adding & display `Easy Table of Contents`:"
+msgstr "Er zijn twee manieren om `Easy Table of Contents` handmatig toe te voegen en weer te geven:"
+
+#: includes/inc.admin-options-page.php:267
+msgid "2. MANUALLY"
+msgstr "2. HANDMATIG"
+
+#: includes/inc.admin-options-page.php:265
+msgid "After Auto Insert, the Position option for choosing where you want to display the `Easy Table of Contents`."
+msgstr "Na automatisch invoegen, de optie positie om te kiezen waar je de `Easy Table of Contents` wilt weergeven."
+
+#: includes/inc.admin-options-page.php:261
+msgid "Go to the tab Settings &gt; General section, check Auto Insert"
+msgstr "Ga naar het tab Instellingen &gt; Algemene sectie, vink automatisch invoegen aan"
+
+#: includes/inc.admin-options-page.php:259
+msgid "1. AUTOMATICALLY"
+msgstr "1. AUTOMATISCH"
+
+#: includes/inc.admin-options-page.php:258
+msgid "You can check how to use `Easy Table of Contents`, follow the basic details below."
+msgstr "Je kunt controleren hoe je `Easy Table of Contents` gebruikt, volg de basisdetails hieronder."
+
+#: includes/inc.admin-options-page.php:240
+msgid "( Avg Response within 48-72 hrs)"
+msgstr "(Gem. respons binnen 48-72 uur)"
+
+#: includes/inc.admin-options-page.php:240
+msgid "Free"
+msgstr "Gratis"
+
+#: includes/inc.admin-options-page.php:237
+msgid "(Response within 24 hrs)"
+msgstr "(Reactie binnen 24 uur)"
+
+#: includes/inc.admin-options-page.php:237
+msgid "Paid"
+msgstr "Betaald"
+
+#: includes/inc.admin-options-page.php:236
+msgid "Select Customer Type"
+msgstr "Selecteer klanttype"
+
+#: includes/inc.admin-options-page.php:233
+msgid "Type"
+msgstr "Type"
+
+#: includes/inc.admin-options-page.php:218
+msgid "Query"
+msgstr "Vraag"
+
+#: includes/inc.admin-options-page.php:213
+msgid "Enter your Email"
+msgstr "Voer je e-mailadres in"
+
+#: includes/inc.admin-options-page.php:209
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/inc.admin-options-page.php:196
+#: includes/inc.admin-options-page.php:306
+msgid "Hooks (for Developers)"
+msgstr "Hooks (voor ontwikkelaars)"
+
+#: includes/inc.admin-options-page.php:192
+#: includes/inc.admin-options-page.php:482
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: includes/inc.admin-options-page.php:185
+#: includes/inc.admin-options-page.php:257
+msgid "How to Use"
+msgstr "Hoe te gebruiken"
+
+#: includes/inc.admin-options-page.php:181
+#: includes/inc.admin-options-page.php:201
+msgid "Technical Support"
+msgstr "Technische hulp"
+
+#: includes/inc.admin-options-page.php:75
+#: includes/inc.admin-options-page.php:139
+#: includes/inc.admin-options-page.php:189
+#: includes/inc.admin-options-page.php:298
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/inc.admin-options-page.php:69
+msgid "No Thanks, I will stick with FREE version for now."
+msgstr "Nee bedankt, ik blijf voorlopig bij de GRATIS versie."
+
+#: includes/inc.admin-options-page.php:63
+msgid "YES! I want to Support by UPGRADING."
+msgstr "JA! Ik wil ondersteunen door te UPGRADEN."
+
+#: includes/inc.admin-options-page.php:60
+msgid "Please support us by Upgrading to Premium version."
+msgstr "Steun ons door te upgraden naar de premium versie."
+
+#: includes/inc.admin-options-page.php:59
+msgid "We strive to create the best TOC solution in WordPress. Our dedicated development team does continuous development and innovation to make sure we are able to meet your demand."
+msgstr "We streven ernaar om de beste inhoudsopgave oplossing in WordPress te creëren. Ons toegewijde ontwikkelingsteam doet continue ontwikkeling en innovatie om ervoor te zorgen dat we aan je vraag kunnen voldoen."
+
+#: includes/inc.admin-options-page.php:58
+msgid "Thank YOU for using Easy Table of Content."
+msgstr "Bedankt voor het gebruik van Easy Table of Content."
+
+#: includes/inc.admin-options-page.php:48
+msgid "License"
+msgstr "Licentie"
+
+#: includes/inc.admin-options-page.php:27
+msgid "Help & Support"
+msgstr "Hulp & ondersteuning"
+
+#: includes/inc.admin-options-page.php:23
+msgid "Free vs PRO"
+msgstr "Gratis versus PRO"
+
+#: includes/inc.admin-options-page.php:9
+msgid "Welcome"
+msgstr "Welkom"
+
+#: includes/class.options.php:837
+msgid "Urdu"
+msgstr "Urdu"
+
+#: includes/class.options.php:836
+msgid "Hangul Consonant"
+msgstr "Hangul medeklinker"
+
+#: includes/class.options.php:835
+msgid "Hangul"
+msgstr "Hangul"
+
+#: includes/class.options.php:834
+msgid "Traditional Chinese Informal"
+msgstr "Traditioneel Chinees informeel"
+
+#: includes/class.options.php:833
+msgid "Traditional Chinese Formal"
+msgstr "Traditioneel Chinees formeel"
+
+#: includes/class.options.php:832
+msgid "Tibetan"
+msgstr "Tibetaans"
+
+#: includes/class.options.php:831
+msgid "Thai"
+msgstr "Thais"
+
+#: includes/class.options.php:830
+msgid "Telugu"
+msgstr "Telugu"
+
+#: includes/class.options.php:829
+msgid "Tamil"
+msgstr "Tamil"
+
+#: includes/class.options.php:828
+msgid "Simplified Chinese Informal"
+msgstr "Vereenvoudigd Chinees informeel"
+
+#: includes/class.options.php:827
+msgid "Simplified Chinese Formal"
+msgstr "Vereenvoudigd Chinees formeel"
+
+#: includes/class.options.php:826
+msgid "Persian"
+msgstr "Perzisch"
+
+#: includes/class.options.php:825
+msgid "Oriya"
+msgstr "Oriya"
+
+#: includes/class.options.php:824
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: includes/class.options.php:823
+msgid "Mongolian"
+msgstr "Mongools"
+
+#: includes/class.options.php:822
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#: includes/class.options.php:821
+msgid "Laotian"
+msgstr "Laotiaans"
+
+#: includes/class.options.php:820
+msgid "Korean Hanja Informal"
+msgstr "Koreaanse hanja informeel"
+
+#: includes/class.options.php:819
+msgid "Korean Hanja Formal"
+msgstr "Koreaanse hanja formeel"
+
+#: includes/class.options.php:818
+msgid "Korean Hangul Formal"
+msgstr "Koreaans Hangul formeel"
+
+#: includes/class.options.php:817
+msgid "Katakana-Iroha"
+msgstr "Katakana-Iroha"
+
+#: includes/class.options.php:816
+msgid "Katakana"
+msgstr "Katakana"
+
+#: includes/class.options.php:815
+msgid "Kannada"
+msgstr "Kannada"
+
+#: includes/class.options.php:814
+msgid "Japanese Informal"
+msgstr "Japans informeel"
+
+#: includes/class.options.php:813
+msgid "Japanese Formal"
+msgstr "Japans formeel"
+
+#: includes/class.options.php:812
+msgid "Hiragana-Iroha"
+msgstr "Hiragana-Iroha"
+
+#: includes/class.options.php:811
+msgid "Hiragana"
+msgstr "Hiragana"
+
+#: includes/class.options.php:810
+msgid "Hebrew"
+msgstr "Hebreeuws"
+
+#: includes/class.options.php:809
+msgid "Gurmukhi"
+msgstr "Gurmukhi"
+
+#: includes/class.options.php:808
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: includes/class.options.php:807
+msgid "Georgian"
+msgstr "Georgisch"
+
+#: includes/class.options.php:806
+msgid "Ethiopic"
+msgstr "Ethiopisch"
+
+#: includes/class.options.php:805
+msgid "Hindi (Devanagari)"
+msgstr "Hindi (Devanagari)"
+
+#: includes/class.options.php:804
+msgid "CJK Ideographic/trad-chinese-informal"
+msgstr "CJK ideografisch/trad-chinees-informeel"
+
+#: includes/class.options.php:803
+msgid "Heavenly Stem"
+msgstr "Hemelse stam"
+
+#: includes/class.options.php:802
+msgid "Cambodian/Khmer"
+msgstr "Cambodjaans/Khmer"
+
+#: includes/class.options.php:801
+msgid "Bengali"
+msgstr "Bengaals"
+
+#: includes/class.options.php:800
+msgid "Arabic"
+msgstr "Arabisch"
+
+#: includes/class.options.php:799
+msgid "Lower Armenian"
+msgstr "Klein Armeens"
+
+#: includes/class.options.php:798
+msgid "Armenian"
+msgstr "Armeens"
+
+#: includes/class.options.php:797
+msgid "Lower Alpha/Latin"
+msgstr "Onderste Alfa/Latijn"
+
+#: includes/class.options.php:796
+msgid "Upper Alpha/Latin"
+msgstr "Bovenste Alfa/Latijn"
+
+#: includes/class.options.php:795
+msgid "Lower Greek"
+msgstr "Klein Grieks"
+
+#: includes/class.options.php:793
+msgid "Lower Roman"
+msgstr "Klein Romeins"
+
+#: includes/class.options.php:792
+msgid "Upper Roman"
+msgstr "Groot Romeins"
+
+#: includes/class.options.php:779
+msgid "CJK Decimal"
+msgstr "CJK decimaal"
+
+#: includes/class.options.php:778
+msgid "Decimal Leading Zero"
+msgstr "Decimaal voorloopnul"
+
+#: includes/class.options.php:763
+msgid "Disclosure Closed"
+msgstr "Openbaarmaking gesloten"
+
+#: includes/class.options.php:762
+msgid "Disclosure Open"
+msgstr "Openbaarmaking geopend"
+
+#: includes/class.options.php:761
+msgid "Earthly Branch"
+msgstr "Aardse tak"
+
+#: includes/class.options.php:759
+msgid "Square"
+msgstr "Vierkant"
+
+#: includes/class.options.php:758
+msgid "Circle"
+msgstr "Cirkel"
+
+#: includes/class.options.php:723
+msgid "You can add `Easy Table of Contents` without using shortcode from `Auto Insert` option in General Setting so then there is no need to add shortcode while post, page or any post type editing."
+msgstr "Je kunt `Easy Table of Conents` toevoegen zonder shortcode te gebruiken via de optie `Automatisch invoegen` in de algemene instellingen, dus het is niet nodig om een shortcode toe te voegen tijdens het bewerken van berichten, pagina's of welk type bericht dan ook."
+
+#: includes/class.options.php:694
+msgid "You can use the following shortcode to `Easy Table of Contents` display in your particular post or page:<br/><input type=\"text\" id=\"ez-toc-clipboard-apply\" value=\"[ez-toc]\" disabled />&nbsp;<span class=\"ez-toc-tooltip\"><button type=\"button\"  onclick=\"ez_toc_clipboard('ez-toc-clipboard-apply', 'ez-toc-myTooltip', this, event)\" onmouseout=\"ez_toc_outFunc('ez-toc-myTooltip', this, event)\"><span class=\"ez-toc-tooltiptext ez-toc-myTooltip\">Copy to clipboard</span>Copy shortcode  </button></span>"
+msgstr "Je kunt de volgende shortcode gebruiken om `Easy Table of contents` weer te geven in je specifieke bericht of pagina:<br/><input type=\"text\" id=\"ez-toc-clipboard-apply\" value=\"[ez-toc]\" disabled />&nbsp; <span class=\"ez-toc-tooltip\"><button type=\"button\"  onclick=\"ez_toc_clipboard('ez-toc-clipboard-apply', 'ez-toc-myTooltip', this, event)\" onmouseout=\"ez_toc_outFunc('ez-toc-myTooltip', this, event)\"><span class=\"ez-toc-tooltiptext ez-toc-myTooltip\">Kopiëren naar klembord</span> kopieer shortcode</button></span>"
+
+#: includes/class.options.php:693
+msgid "Manual Adding the shortcode"
+msgstr "Handmatig de shortcode toevoegen"
+
+#: includes/class.options.php:545
+msgid "Right to Left (RTL)"
+msgstr "Van rechts naar links (RTL)"
+
+#: includes/class.options.php:544
+msgid "Left to Right (LTR)"
+msgstr "Van links naar rechts (LTR)"
+
+#: includes/class.options.php:540
+msgid "Heading Text Direction"
+msgstr "Koptekst richting"
+
+#: includes/class.options.php:345
+msgid "Enter sticky toggle open button text here.."
+msgstr "Voer hier de sticky toggle open knoptekst in..."
+
+#: includes/class.options.php:341
+msgid "Open Button Text"
+msgstr "Knoptekst openen"
+
+#: includes/class.options.php:337
+msgid "Enter sticky toggle custom height here.."
+msgstr "Voer hier de aangepaste hoogte van de sticky toggle in..."
+
+#: includes/class.options.php:333
+msgid "Custom Height"
+msgstr "Aangepaste hoogte"
+
+#: includes/class.options.php:322
+msgid "Height"
+msgstr "Hoogte"
+
+#: includes/class.options.php:318
+msgid "Enter sticky toggle custom width here.."
+msgstr "Voer hier de aangepaste breedte van de sticky toggle in..."
+
+#: includes/class.options.php:307 includes/class.options.php:326
+msgid "Auto"
+msgstr "Auto"
+
+#: includes/class.options.php:296
+msgid "On/Off"
+msgstr "Aan/uit"
+
+#: includes/class.options.php:286
+msgid "Sticky Toggle Options"
+msgstr "Sticky toggle opties"
+
+#: includes/class.options.php:193
+msgid "After first paragraph"
+msgstr "Na eerste alinea"
+
+#: includes/newsletter.php:81
+msgid "No Thanks"
+msgstr "Nee bedankt"
+
+#: includes/newsletter.php:45
+msgid "before others and some best resources on Easy TOC in a single email? - Free just for users of Easy TOC!"
+msgstr "vóór anderen en enkele beste bronnen over Easy TOC in één e-mail? - gratis alleen voor gebruikers van Easy TOC!"
+
+#: includes/newsletter.php:45
+msgid " Easy TOC "
+msgstr " Easy TOC "
+
+#: includes/newsletter.php:45
+msgid "Do you want the latest update on"
+msgstr "Wil je de laatste update over"
+
+#: includes/newsletter.php:44
+msgid "Thank You for using Easy TOC!"
+msgstr "Bedankt voor het gebruik van easy TOC!"
+
+#: includes/deactivate-feedback.php:34
+msgid "Don't deactivate"
+msgstr "Niet deactiveren"
+
+#: includes/deactivate-feedback.php:33
+msgid "Only Deactivate"
+msgstr "Alleen deactiveren"
+
+#: includes/deactivate-feedback.php:32
+msgid "Submit & Deactivate"
+msgstr "Verzenden & deactiveren"
+
+#: includes/deactivate-feedback.php:21
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Als je even tijd hebt, laat ons dan weten waarom je deactiveert:"
+
+#: includes/deactivate-feedback.php:12
+msgid "Please specify, if possible"
+msgstr "Gelieve te specificeren, indien mogelijk"
+
+#: includes/deactivate-feedback.php:11
+msgid "Other reason"
+msgstr "Andere reden"
+
+#: includes/deactivate-feedback.php:9
+msgid "I switched to another plugin"
+msgstr "Ik ben overgestapt op een andere plugin"
+
+#: includes/deactivate-feedback.php:8
+msgid "Can we help? Please describe your problem"
+msgstr "Kunnen we helpen? Beschrijf je probleem"
+
+#: includes/deactivate-feedback.php:7
+msgid "Technical Issue"
+msgstr "Technisch probleem"
+
+#: includes/deactivate-feedback.php:5
+msgid "I miss a feature"
+msgstr "Ik mis een functie"
+
+#: includes/deactivate-feedback.php:4
+msgid "I stopped showing TOC on my site"
+msgstr "Ik stopte met het weergeven van inhoudsopgave op mijn site"
+
+#: includes/deactivate-feedback.php:3
+msgid "It is only temporary"
+msgstr "Het is alleen tijdelijk"
+
+#: includes/class.options.php:674
+msgid "Remove ':' from TOC Title"
+msgstr "Verwijder ':' uit inhoudsopgave titel"
+
+#: includes/class.post.php:1321
+msgid "Table of Content"
+msgstr "Inhoudsopgave"
+
+#: includes/class.options.php:585
+msgid "Improve your  website performance by inlining your CSS."
+msgstr "Verbeter de prestaties van je site door je CSS in te voeren."
+
+#: includes/class.options.php:584
+msgid "Inline CSS"
+msgstr "Geïntegreerde CSS"
+
+#: includes/class.options.php:471
+msgid "Theme Options"
+msgstr "Thema opties"
+
+#: includes/class.options.php:464
+msgid "Child Font Size"
+msgstr "Sub lettertype grootte"
+
+#: includes/class.options.php:426
+msgid "Font Option"
+msgstr "Lettertype optie"
+
+#: includes/class.options.php:760
+msgid "Hyphen"
+msgstr "Koppelteken"
+
+#: includes/class.options.php:757
+msgid "Disc"
+msgstr "Schijf"
+
+#: includes/inc.admin-options-page.php:449
+msgid "Easily create TOC in Elementor with the widget without the need any coding or shortcode."
+msgstr "Maak eenvoudig een inhoudsopgave in Elementor met de widget zonder codering of shortcode."
+
+#: includes/inc.admin-options-page.php:447
+msgid "Elementor Widget"
+msgstr "Elementor widget"
+
+#: includes/inc.admin-options-page.php:441
+msgid "Easily create TOC in Gutenberg block without the need any coding or shortcode."
+msgstr "Creëer eenvoudig een inhoudsopgave in het Gutenberg blok zonder codering of shortcode."
+
+#: includes/inc.admin-options-page.php:439
+msgid "Gutenberg Block"
+msgstr "Gutenberg blok"
+
+#: includes/inc.admin-options-page.php:433
+msgid "Everything in Free, and:"
+msgstr "Alles in gratis, en:"
+
+#: includes/inc.admin-options-page.php:426
+msgid "We're constantly expanding the plugin and make it more useful. We have wide variety of features which will fit any use-case."
+msgstr "We breiden de plugin voortdurend uit en maken hem nuttiger. We hebben een grote verscheidenheid aan functies die bij elke gebruikssituatie passen."
+
+#: includes/inc.admin-options-page.php:425
+msgid "50+ Features"
+msgstr "50+ functies"
+
+#: includes/inc.admin-options-page.php:422
+msgid "We take bug reports and feature requests seriously. We’re continiously developing &amp; improve this product for last 2 years with passion and love."
+msgstr "We nemen bugmeldingen en functieverzoeken serieus. We zijn continu bezig met het ontwikkelen &amp; om dit product de afgelopen 2 jaar met passie en liefde te verbeteren."
+
+#: includes/inc.admin-options-page.php:421
+msgid "Continious Development"
+msgstr "Voortdurende ontwikkeling"
+
+#: includes/inc.admin-options-page.php:414
+msgid "See what you'll get with the professional version"
+msgstr "Kijk wat je krijgt met de professionele versie"
+
+#: includes/inc.admin-options-page.php:413
+msgid "Compare Pro vs. Free Version"
+msgstr "Vergelijk Pro versus gratis versie"
+
+#: includes/inc.admin-options-page.php:408
+msgid "Get private ticketing help from our full-time technical staff & developers who helps you with the technical issues."
+msgstr "Krijg persoonlijke hulp bij ticketing van onze fulltime technische staf en ontwikkelaars die je helpen met de technische problemen."
+
+#: includes/inc.admin-options-page.php:407
+#: includes/inc.admin-options-page.php:509
+#: includes/inc.admin-options-page.php:524
+#: includes/inc.admin-options-page.php:540
+#: includes/inc.admin-options-page.php:555
+msgid "Tech Support"
+msgstr "Technische ondersteuning"
+
+#: includes/inc.admin-options-page.php:404
+msgid "We are planning to continiously build premium features and release them. We have a roadmap and we listen to our customers to turn their feedback into reality."
+msgstr "We zijn van plan om continu premium functies te bouwen en uit te brengen. We hebben een stappenplan en we luisteren naar onze klanten om hun feedback om te zetten in realiteit."
+
+#: includes/inc.admin-options-page.php:403
+msgid "Continuous Innovation"
+msgstr "Continue innovatie"
+
+#: includes/inc.admin-options-page.php:400
+msgid "Easy TOC Pro will enhances your website table of contents and takes it to a next level to help you reach more engagement and personalization with your users."
+msgstr "Easy TOC pro verbetert de inhoudsopgave van je site en tilt deze naar een hoger niveau om je te helpen meer betrokkenheid en personalisatie bij je gebruikers te bereiken."
+
+#: includes/inc.admin-options-page.php:399
+msgid "Premium Features"
+msgstr "Premium functies"
+
+#: includes/inc.admin-options-page.php:394
+msgid "Purchase Now"
+msgstr "Koop nu"
+
+#: includes/inc.admin-options-page.php:393
+msgid "Take your Table of Contents to the NEXT Level!"
+msgstr "Breng je inhoudsopgave naar een hoger niveau!"
+
+#: includes/inc.admin-options-page.php:392
+msgid "UPGRADE to PRO Version"
+msgstr "UPGRADE naar PRO versie"
+
+#: includes/inc.admin-options-page.php:247
+msgid "Send Support Request"
+msgstr "Ondersteuningsverzoek verzenden"
+
+#: includes/inc.admin-options-page.php:203
+msgid "You can also contact us from "
+msgstr "Je kunt ook contact met ons opnemen via "
+
+#: includes/inc.admin-options-page.php:202
+msgid "We are dedicated to provide Technical support & Help to our users. Use the below form for sending your questions."
+msgstr "We zijn toegewijd om technische ondersteuning en hulp te bieden aan onze gebruikers. Gebruik onderstaand formulier om je vragen te stellen."
+
+#: includes/inc.admin-options-page.php:155
+msgid "PRO Settings"
+msgstr "PRO instellingen"
+
+#: includes/class.options.php:420
+msgid "Center"
+msgstr "Gecentreerd"
+
+#: includes/class.options.php:413
+msgid "Alignment"
+msgstr "Uitlijning"
+
+#: includes/class.options.php:279
+msgid "Pure CSS"
+msgstr "Puur CSS"
+
+#: includes/class.options.php:278
+msgid "JavaScript (default)"
+msgstr "JavaScript (standaard)"
+
+#: includes/class.options.php:274
+msgid "TOC Loading Method"
+msgstr "Inhoudsopgave laad methode"
+
+#: includes/class.admin.php:82
+msgid " Website"
+msgstr " Site"
+
+#: includes/class.admin.php:81
+msgid " Upgrade"
+msgstr " Upgraden"
+
+#: includes/class.admin.php:80
+msgid " Support"
+msgstr " Ondersteuning"
+
+#: includes/inc.admin-options-page.php:252
+msgid "Message not sent. please check your network connection"
+msgstr "Bericht niet verzonden. Controleer je netwerkverbinding"
+
+#: includes/inc.admin-options-page.php:251
+msgid "Message sent successfully, Please wait we will get back to you shortly"
+msgstr "Bericht succesvol verzonden, Even geduld we nemen zo contact met je op"
+
+#. Author of the plugin
+msgid "Magazine3"
+msgstr "Magazine3"
+
+#: includes/class.options.php:642
+msgid "This provides the same function as the Smooth Scroll Offset option above but applied when the user is visiting your site on a mobile device."
+msgstr "Dit biedt dezelfde functie als de optie Smooth Scroll Offset hierboven, maar wordt toegepast wanneer de gebruiker je site bezoekt op een mobiel apparaat."
+
+#: includes/class.options.php:641
+msgid "Mobile Smooth Scroll Offset"
+msgstr "Mobiele soepele scroll-offset"
+
+#: includes/class.options.php:451
+msgid "Heavy"
+msgstr "Dik"
+
+#: includes/class.options.php:450
+msgid "Extra Bold"
+msgstr "Extra vetgedrukt"
+
+#: includes/class.options.php:449
+msgid "Bold"
+msgstr "Vet"
+
+#: includes/class.options.php:448
+msgid "Semi Bold"
+msgstr "Semi vet"
+
+#: includes/class.options.php:447
+msgid "Medium"
+msgstr "Gemiddeld"
+
+#: includes/class.options.php:446
+msgid "Normal"
+msgstr "Normaal"
+
+#: includes/class.options.php:445
+msgid "Light"
+msgstr "Licht "
+
+#: includes/class.options.php:444
+msgid "Extra Light"
+msgstr "Extra licht"
+
+#: includes/class.options.php:443
+msgid "Thin"
+msgstr "Dun"
+
+#: includes/class.options.php:439
+msgid "Title Font Weight"
+msgstr "Titel lettertype gewicht"
+
+#: includes/class.options.php:432
+msgid "Title Font Size"
+msgstr "Lettergrootte titel"
+
+#. Description of the plugin
+msgid "Adds a user friendly and fully automatic way to create and display a table of contents generated from the page content."
+msgstr "Voegt een gebruiksvriendelijke en volledig automatische manier toe om een ​​inhoudsopgave te maken en weer te geven die is gegenereerd op basis van de pagina-inhoud."
+
+#. Plugin Name of the plugin
+msgid "Easy Table of Contents"
+msgstr "Easy Table of Contents"
+
+#: includes/inc.admin-options-page.php:75
+#: includes/inc.admin-options-page.php:120
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: includes/inc.admin-options-page.php:75
+#: includes/inc.admin-options-page.php:101
+msgid "Appearance"
+msgstr "Weergave"
+
+#: includes/inc.admin-options-page.php:75
+#: includes/inc.admin-options-page.php:83
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/class.widget-toc.php:377
+msgid "If you choose to affix the widget, do not add any other widgets on the sidebar. Also, make sure you have only one instance Table of Contents widget on the page."
+msgstr "Als je ervoor kiest om de widget aan te brengen, voeg dan geen andere widgets toe aan de zijbalk. Zorg er ook voor dat je slechts één exemplaar Inhoudsopgave widget op de pagina hebt."
+
+#: includes/class.widget-toc.php:373
+msgid "Affix or pin the widget."
+msgstr "Bevestig of plak de widget."
+
+#: includes/class.widget-toc-sticky.php:499 includes/class.widget-toc.php:365
+msgid "Active Section Highlight Color:"
+msgstr "Markeringskleur actieve sectie:"
+
+#: includes/class.widget-toc-sticky.php:492 includes/class.widget-toc.php:358
+msgid "Title"
+msgstr "Titel"
+
+#: includes/class.widget-toc-sticky.php:26 includes/class.widget-toc.php:22
+msgid "Display the table of contents."
+msgstr "Geef de inhoudsopgave weer."
+
+#: includes/class.options.php:1087
+msgid "The callback function used for the <strong>%s</strong> setting is missing."
+msgstr "De callback-functie die wordt gebruikt voor de instelling <strong>%s</strong> ontbreekt."
+
+#: includes/class.options.php:668
+msgid "Eg: .widget-area or #sidebar"
+msgstr "Bijvoorbeeld: .widget-area of ​​#zijbalk"
+
+#: includes/class.options.php:667
+msgid "Since every theme is different, this can not be determined automatically. If you are unsure how to find the sidebar's class or id, please ask the theme's support persons."
+msgstr "Omdat elk thema anders is, kan dit niet automatisch worden bepaald. Als je niet zeker weet hoe je de klasse of id van de zijbalk kan vinden, vraag het dan aan de ondersteuners van het thema."
+
+#: includes/class.options.php:666
+msgid "To enable the option to affix or pin the Table of Contents widget enter the theme's sidebar class or id."
+msgstr "Om de optie om de widget Inhoudsopgave aan te brengen of vast te zetten in te voeren, voer je de zijbalk-klasse of id van het thema in."
+
+#: includes/class.options.php:665
+msgid "Widget Affix Selector"
+msgstr "Widget Affix Selector"
+
+#: includes/class.options.php:659
+msgid "Eg: i, toc_index, index, _"
+msgstr "Bijv .: i, toc_index, index, _"
+
+#: includes/class.options.php:658
+msgid "This option normally applies to content written in character sets other than ASCII."
+msgstr "Deze optie is normaal gesproken van toepassing op inhoud die is geschreven in andere tekensets dan ASCII."
+
+#: includes/class.options.php:657
+msgid "Anchor targets are restricted to alphanumeric characters as per HTML specification (see readme for more detail). The default anchor prefix will be used when no characters qualify. When left blank, a number will be used instead."
+msgstr "Ankerdoelen zijn beperkt tot alfanumerieke tekens volgens HTML-specificatie (zie leesmij voor meer details). Het standaard ankerprefix wordt gebruikt wanneer er geen tekens in aanmerking komen. Indien leeg gelaten, wordt in plaats daarvan een nummer gebruikt."
+
+#: includes/class.options.php:656
+msgid "Default Anchor Prefix"
+msgstr "Standaard ankerprefix"
+
+#: includes/class.options.php:651
+msgid "Eg: /wiki/, /corporate/annual-reports/"
+msgstr "Bijv .:/wiki /,/corporate/jaarverslagen /"
+
+#: includes/class.options.php:650
+msgid "Restrict generation of the table of contents to pages that match the required path. This path is from the root of your site and always begins with a forward slash."
+msgstr "Beperk het genereren van de inhoudsopgave tot pagina's die overeenkomen met het vereiste pad. Dit pad komt uit de root van je site en begint altijd met een schuine streep naar voren."
+
+#: includes/class.options.php:649
+msgid "Limit Path"
+msgstr "Beperk pad"
+
+#: includes/class.options.php:634
+msgid "If you have a consistent menu across the top of your site, you can adjust the top offset to stop the headings from appearing underneath the top menu. A setting of 30 accommodates the WordPress admin bar. This setting only has an effect after you have enabled Smooth Scroll option."
+msgstr "Als je een consistent menu bovenaan je site hebt, kan je de bovenste offset aanpassen om te voorkomen dat de titels onder het bovenste menu verschijnen. Een instelling van 30 biedt plaats aan de WordPress beheerbalk. Deze instelling hebt pas effect nadat je de optie Smooth Scroll hebt ingeschakeld."
+
+#: includes/class.options.php:633
+msgid "Smooth Scroll Offset"
+msgstr "Smooth Scroll Offset"
+
+#: includes/class.options.php:578
+msgid "Prevent the loading the core CSS styles. When selected, the appearance options from above will be ignored."
+msgstr "Voorkom dat de kern-CSS-stijlen worden geladen. Indien geselecteerd, worden de weergaveopties van bovengenoemd."
+
+#: includes/class.options.php:577
+msgid "CSS"
+msgstr "CSS"
+
+#: includes/class.options.php:571
+msgid "Show the table of contents for qualifying items on the homepage."
+msgstr "Toon de inhoudsopgave voor in aanmerking komende items op de startpagina."
+
+#: includes/class.options.php:570
+msgid "Homepage"
+msgstr "Homepage "
+
+#: includes/class.options.php:564
+msgid "Use - rather than _ in anchors."
+msgstr "Gebruik - in plaats van _ in ankers."
+
+#: includes/class.options.php:563
+msgid "Hyphenate"
+msgstr "Afbreken"
+
+#: includes/class.options.php:557
+msgid "Ensure anchors are in lowercase."
+msgstr "Zorg ervoor dat de ankers in kleine letters staan."
+
+#: includes/class.options.php:556
+msgid "Lowercase"
+msgstr "Kleine letters"
+
+#: includes/class.options.php:533
+msgid "Link Visited Color"
+msgstr "Link bezochte kleur"
+
+#: includes/class.options.php:526
+msgid "Link Hover Color"
+msgstr "Link hover kleur"
+
+#: includes/class.options.php:519
+msgid "Link Color"
+msgstr "Link kleur"
+
+#: includes/class.options.php:512
+msgid "Title Color"
+msgstr "Titelkleur"
+
+#: includes/class.options.php:505
+msgid "Border Color"
+msgstr "Randkleur"
+
+#: includes/class.options.php:498
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: includes/class.options.php:493
+msgid "For the following settings to apply, select the Custom Theme option."
+msgstr "Selecteer de optie Aangepast thema om de volgende instellingen toe te passen."
+
+#: includes/class.options.php:492
+msgid "Custom Theme"
+msgstr "Aangepast thema"
+
+#: includes/class.options.php:485
+msgid "Transparent"
+msgstr "Transparant"
+
+#: includes/class.options.php:484
+msgid "Black"
+msgstr "Zwart"
+
+#: includes/class.options.php:483
+msgid "White"
+msgstr "Wit"
+
+#: includes/class.options.php:482
+msgid "Light Blue"
+msgstr "Lichtblauw"
+
+#: includes/class.options.php:481
+msgid "Grey"
+msgstr "Grijs"
+
+#: includes/class.options.php:478
+msgid "The theme is only applied to the table of contents which is auto inserted into the post. The Table of Contents widget will inherit the theme widget styles."
+msgstr "Het thema wordt alleen toegepast op de inhoudsopgave die automatisch in de bericht wordt ingevoegd. De inhoudsopgave-widget neemt de thema-widgetstijlen over."
+
+#: includes/class.options.php:477
+msgid "Theme"
+msgstr "Thema"
+
+#: includes/class.options.php:457
+msgid "Font Size"
+msgstr "Lettertype grootte"
+
+#: includes/class.options.php:419
+msgid "Right"
+msgstr "Rechts"
+
+#: includes/class.options.php:418
+msgid "Left"
+msgstr "Links"
+
+#: includes/class.options.php:417
+msgid "None (Default)"
+msgstr "Geen (standaard)"
+
+#: includes/class.options.php:407
+msgid "Select the User Defined option from the Width option to utilitze the custom width."
+msgstr "Selecteer de door de gebruiker gedefinieerde optie bij de optie Breedte om de aangepaste breedte te gebruiken."
+
+#: includes/class.options.php:314 includes/class.options.php:406
+msgid "Custom Width"
+msgstr "Aangepaste breedte"
+
+#: includes/class.options.php:308 includes/class.options.php:327
+#: includes/class.options.php:398
+msgid "User Defined"
+msgstr "Gebruiker gedefinieerde"
+
+#: includes/class.options.php:396 includes/class.options.php:486
+msgid "Custom"
+msgstr "Aangepast"
+
+#: includes/class.options.php:384
+msgid "Relative"
+msgstr "Relatief"
+
+#: includes/class.options.php:370
+msgid "Fixed"
+msgstr "Gemaakt"
+
+#: includes/class.options.php:303 includes/class.options.php:365
+msgid "Width"
+msgstr "Breedte"
+
+#: includes/class.options.php:267
+msgid "Smooth Scroll"
+msgstr "Smooth Scroll"
+
+#: includes/class.options.php:756
+msgid "None"
+msgstr "Geen"
+
+#: includes/class.options.php:764
+msgid "Numeric"
+msgstr "Numeriek"
+
+#: includes/class.options.php:777
+msgid "Decimal (default)"
+msgstr "Decimaal (standaard)"
+
+#: includes/class.options.php:259
+msgid "Counter"
+msgstr "Teller"
+
+#: includes/class.options.php:252
+msgid "Show as Hierarchy"
+msgstr "Als hiërarchie weergeven"
+
+#: includes/class.options.php:246
+msgid "Initially hide the table of contents."
+msgstr "Verberg in eerste instantie de inhoudsopgave."
+
+#: includes/class.options.php:245
+msgid "Initial View"
+msgstr "Eerste weergave"
+
+#: includes/class.options.php:225
+msgid "Allow the user to toggle the visibility of the table of contents."
+msgstr "Sta de gebruiker toe om de zichtbaarheid van de inhoudsopgave te wijzigen."
+
+#: includes/class.options.php:224
+msgid "Toggle View"
+msgstr "Toggle View"
+
+#: includes/class.options.php:220
+msgid "Contents"
+msgstr "Inhoud"
+
+#: includes/class.options.php:218
+msgid "Eg: Contents, Table of Contents, Page Contents"
+msgstr "Bijv .: inhoud, inhoudsopgave, pagina-inhoud"
+
+#: includes/class.options.php:217
+msgid "Header Label"
+msgstr "Headerlabel"
+
+#: includes/class.options.php:211
+msgid "Show header text above the table of contents."
+msgstr "Toon header boven de inhoudsopgave."
+
+#: includes/class.options.php:210
+msgid "Display Header Label"
+msgstr "Headerlabel weergeven"
+
+#: includes/class.options.php:203
+msgid "or more headings are present"
+msgstr "of meer headings zijn aanwezig"
+
+#: includes/class.options.php:202
+msgid "Show when"
+msgstr "Weergeven wanneer"
+
+#: includes/class.options.php:195
+msgid "Bottom"
+msgstr "Onder"
+
+#: includes/class.options.php:194
+msgid "Top"
+msgstr "Boven"
+
+#: includes/class.options.php:192
+msgid "After first heading"
+msgstr "Na eerste heading"
+
+#: includes/class.options.php:191
+msgid "Before first heading (default)"
+msgstr "Voor eerste kop (standaard)"
+
+#: includes/class.options.php:188
+msgid "Choose where where you want to display the table of contents."
+msgstr "Kies waar je de inhoudsopgave wil weergeven."
+
+#: includes/class.options.php:187
+msgid "Position"
+msgstr "Positie"
+
+#: includes/class.options.php:180 includes/inc.admin-options-page.php:264
+msgid "NOTE: The table of contents will only be automatically inserted on post types for which it has been enabled."
+msgstr "OPMERKING: de inhoudsopgave wordt alleen automatisch ingevoegd bij berichttypen waarvoor deze is ingeschakeld."
+
+#: includes/class.options.php:179 includes/inc.admin-options-page.php:263
+msgid "Select the post types which will have the table of contents automatically inserted."
+msgstr "Selecteer de berichttypen waarin de inhoudsopgave automatisch wordt ingevoegd."
+
+#: includes/class.options.php:178 includes/class.options.php:722
+msgid "Auto Insert"
+msgstr "Automatisch invoegen"
+
+#: includes/class.options.php:171
+msgid "Select the post types to enable the support for table of contents."
+msgstr "Selecteer de berichttypen om de ondersteuning voor de inhoudsopgave in te schakelen."
+
+#: includes/class.options.php:170
+msgid "Enable Support"
+msgstr "Ondersteuning inschakelen"
+
+#: includes/class.admin.php:472 includes/class.options.php:628
+msgid "<strong>Note:</strong> This is not case sensitive."
+msgstr "<strong> Opmerking: </strong> dit is niet hoofdlettergevoelig."
+
+#: includes/class.admin.php:470 includes/class.options.php:626
+msgid "<code>Apple Tree|Oranges|Yellow Bananas</code> Ignore headings that are exactly \"Apple Tree\", \"Oranges\" or \"Yellow Bananas\"."
+msgstr "<code> Apple Tree | Oranges | Yellow Bananas </code> Negeer headers die precies \"Apple Tree\",\"Oranges\" of \"Yellow Bananas\" zijn."
+
+#: includes/class.admin.php:469 includes/class.options.php:625
+msgid "<code>*Fruit Diet*</code> Ignore headings with \"Fruit Diet\" somewhere in the heading."
+msgstr "<code> * Fruitdieet * </code> Negeer titels met \"Fruitdieet\" ergens in de heading."
+
+#: includes/class.admin.php:468 includes/class.options.php:624
+msgid "<code>Fruit*</code> Ignore headings starting with \"Fruit\"."
+msgstr "<code> Fruit * </code> Headers negeren die beginnen met \"Fruit\"."
+
+#: includes/class.admin.php:449 includes/class.options.php:614
+msgid "Specify headings to be excluded from appearing in the table of contents. Separate multiple headings with a pipe <code>|</code>. Use an asterisk <code>*</code> as a wildcard to match other text."
+msgstr "Geef headers op die moeten worden uitgesloten van weergave in de inhoudsopgave. Scheid meerdere rubrieken met een pipe <code> | </code>. Gebruik een asterisk <code> * </code> als jokerteken om overeen te komen met andere tekst."
+
+#: includes/class.admin.php:443 includes/class.options.php:613
+msgid "Exclude Headings"
+msgstr "Headings uitsluiten"
+
+#: includes/class.admin.php:436
+msgid "<strong>Note:</strong> This is case sensitive."
+msgstr "<strong> Opmerking: </strong> dit is hoofdlettergevoelig."
+
+#: includes/class.admin.php:434
+msgid "<code>Level [1.1]|Alternate TOC Header</code> Replaces Level [1.1] in the table of contents with Alternate TOC Header."
+msgstr "<code> Level [1.1] | Alternatieve TOC-header </code> Vervangt Level [1.1] in de inhoudsopgave door Alternatieve TOC-header."
+
+#: includes/class.admin.php:432 includes/class.admin.php:466
+#: includes/class.options.php:622
+msgid "Examples:"
+msgstr "Voorbeelden:"
+
+#: includes/class.admin.php:415
+msgid "Specify alternate table of contents header string. Add the header to be replaced and the alternate header on a single line separated with a pipe <code>|</code>. Put each additional original and alternate header on its own line."
+msgstr "Geef een alternatieve headerreeks voor de inhoudsopgave op. Voeg de te vervangen header en de alternatieve header op een enkele regel toe, gescheiden door een pipe <code> | </code>. Zet elke extra originele en alternatieve header op een eigen regel."
+
+#: includes/class.admin.php:409
+msgid "Alternate Headings"
+msgstr "Alternatieve headings"
+
+#: includes/class.admin.php:399 includes/class.options.php:607
+msgid "Heading 6 (h6)"
+msgstr "Kop 6 (h6)"
+
+#: includes/class.admin.php:398 includes/class.options.php:606
+msgid "Heading 5 (h5)"
+msgstr "Kop 5 (h5)"
+
+#: includes/class.admin.php:397 includes/class.options.php:605
+msgid "Heading 4 (h4)"
+msgstr "Kop 4 (h4)"
+
+#: includes/class.admin.php:396 includes/class.options.php:604
+msgid "Heading 3 (h3)"
+msgstr "Kop 3 (h3)"
+
+#: includes/class.admin.php:395 includes/class.options.php:603
+msgid "Heading 2 (h2)"
+msgstr "Kop 2 (h2)"
+
+#: includes/class.admin.php:394 includes/class.options.php:602
+msgid "Heading 1 (h1)"
+msgstr "Kop 1 (h1)"
+
+#: includes/class.admin.php:392 includes/class.options.php:599
+msgid "Select the heading to consider when generating the table of contents. Deselecting a heading will exclude it."
+msgstr "Selecteer de kop die je in overweging wilt nemen bij het genereren van de inhoudsopgave. Als je een kop deselecteert, wordt deze uitgesloten."
+
+#: includes/class.admin.php:386 includes/class.options.php:598
+msgid "Headings:"
+msgstr "Koppen:"
+
+#: includes/class.admin.php:377
+msgid "Using the advanced options below will override the global advanced settings."
+msgstr "Het gebruik van de onderstaande geavanceerde opties heeft voorrang op de globale geavanceerde instellingen."
+
+#: includes/class.admin.php:375
+msgid "NOTE:"
+msgstr "NOTITIE:"
+
+#: includes/class.admin.php:368
+msgid "Advanced:"
+msgstr "Geavanceerd:"
+
+#: includes/class.admin.php:356
+msgid "Insert table of contents."
+msgstr "Invoegen inhoudsopgave."
+
+#: includes/class.admin.php:345
+msgid "Disable the automatic insertion of the table of contents."
+msgstr "Schakel het automatisch invoegen van de inhoudsopgave uit."
+
+#: includes/class.admin.php:249 includes/class.admin.php:250
+#: includes/class.admin.php:302 includes/class.widget-toc.php:27
+#: includes/inc.functions.php:111
+msgid "Table of Contents"
+msgstr "Inhoudsopgave"
+
+#: includes/class.admin.php:79 includes/inc.admin-options-page.php:11
+msgid "Settings"
+msgstr "Instellingen"

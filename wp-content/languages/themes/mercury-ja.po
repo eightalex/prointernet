@@ -1,0 +1,88 @@
+# Translation of Themes - Mercury in Japanese
+# This file is distributed under the same license as the Themes - Mercury package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-11 12:11:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Mercury\n"
+
+#. Theme Name of the plugin/theme
+msgid "Mercury"
+msgstr "Mercury"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: header.php:35
+msgid "Menu"
+msgstr "メニュー"
+
+#: header.php:29
+msgid "Post"
+msgstr "投稿"
+
+#: footer.php:32
+msgid "cancel"
+msgstr "キャンセル"
+
+#: footer.php:32
+msgid "shift + esc"
+msgstr "Shift + ESC"
+
+#: footer.php:31
+msgid "show/hide help"
+msgstr "ヘルプを表示する / 隠す"
+
+#: footer.php:30
+msgid "go to login"
+msgstr "ログイン画面へ移動"
+
+#: footer.php:29
+msgid "go to top"
+msgstr "トップへ移動"
+
+#: footer.php:28
+msgid "show/hide comments"
+msgstr "コメントを表示する / 隠す"
+
+#: footer.php:27
+msgid "edit"
+msgstr "編集"
+
+#: footer.php:26
+msgid "reply"
+msgstr "返信"
+
+#: footer.php:25
+msgid "previous post/previous comment"
+msgstr "前の投稿 / 前のコメント"
+
+#: footer.php:24
+msgid "next post/next comment"
+msgstr "次の投稿 / 次のコメント"
+
+#: footer.php:23
+msgid "compose new post"
+msgstr "新規投稿作成"
+
+#: footer.php:15
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#. Author URI of the plugin/theme
+msgid "http://ryansommers.com/"
+msgstr "http://ryansommers.com/"
+
+#. Author of the plugin/theme
+msgid "Ryan Sommers"
+msgstr "Ryan Sommers"
+
+#. Theme URI of the plugin/theme
+msgid "http://ryansommers.com/mercury"
+msgstr "http://ryansommers.com/mercury"

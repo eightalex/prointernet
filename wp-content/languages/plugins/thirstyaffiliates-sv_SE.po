@@ -1,0 +1,1363 @@
+# Translation of Plugins - ThirstyAffiliates Affiliate Link Manager - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - ThirstyAffiliates Affiliate Link Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-05 16:54:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - ThirstyAffiliates Affiliate Link Manager - Stable (latest release)\n"
+
+#: Models/Notifications.php:737
+msgid "Dismiss All"
+msgstr "Avfärda alla"
+
+#: Models/Notifications.php:720
+msgid "View Active"
+msgstr "Visa aktiv"
+
+#: Models/Notifications.php:719
+msgid "View Dismissed"
+msgstr "Visa avfärdade"
+
+#: Models/Notifications.php:716
+msgid "Inbox"
+msgstr "Inkorg"
+
+#: Models/Notifications.php:617 Models/Notifications.php:682
+msgid "%s year ago"
+msgid_plural "%s years ago"
+msgstr[0] "%s år sedan"
+msgstr[1] "%s år sedan"
+
+#: Models/Notifications.php:615 Models/Notifications.php:680
+msgid "%s month ago"
+msgid_plural "%s months ago"
+msgstr[0] "%s månad sedan"
+msgstr[1] "%s månader sedan"
+
+#: Models/Notifications.php:613 Models/Notifications.php:678
+msgid "%s week ago"
+msgid_plural "%s weeks ago"
+msgstr[0] "%s vecka sedan"
+msgstr[1] "%s veckor sedan"
+
+#: Models/Notifications.php:611 Models/Notifications.php:676
+msgid "%s day ago"
+msgid_plural "%s days ago"
+msgstr[0] "%s dag sedan"
+msgstr[1] "%s dagar sedan"
+
+#: Models/Notifications.php:609 Models/Notifications.php:674
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] "%s timme sedan"
+msgstr[1] "%s timmar sedan"
+
+#: Models/Notifications.php:607 Models/Notifications.php:672
+msgid "%s minute ago"
+msgid_plural "%s minutes ago"
+msgstr[0] "%s minut sedan"
+msgstr[1] "%s minuter sedan"
+
+#: Models/Notifications.php:605 Models/Notifications.php:670
+msgid "%s second ago"
+msgid_plural "%s seconds ago"
+msgstr[0] "%s sekund sedan"
+msgstr[1] "%s sekunder sedan"
+
+#: Models/Notifications.php:598 Models/Notifications.php:663
+msgid "Dismiss"
+msgstr "Avfärda"
+
+#: Models/Notifications.php:540
+msgid "%s unread message"
+msgid_plural "%s unread messages"
+msgstr[0] "%s oläst meddelande"
+msgstr[1] "%s olästa meddelanden"
+
+#: Models/Settings.php:781 Models/Settings.php:782
+msgid "Export CSV"
+msgstr "Exportera CSV"
+
+#: Models/Settings.php:772 Models/Settings.php:773
+msgid "Import CSV"
+msgstr "Importera CSV"
+
+#: Models/Script_Loader.php:431
+msgid "Suggest a Feature"
+msgstr "Föreslå en funktion"
+
+#: Models/Script_Loader.php:424
+msgid "Support & Docs"
+msgstr "Support och dokument"
+
+#: Models/Marketing.php:208
+msgid "No thanks"
+msgstr "Nej tack"
+
+#: Models/Marketing.php:207
+msgid "Give Feedback"
+msgstr "Ge feedback"
+
+#: Models/Marketing.php:201
+msgid "I already did"
+msgstr "Jag har redan gjort det"
+
+#: Models/Marketing.php:200
+msgid "Nope, maybe later"
+msgstr "Nej, kanske senare"
+
+#: Models/Marketing.php:199
+msgid "Okay, you deserve it"
+msgstr "Ok, du förtjänar det"
+
+#: views/exporter/exporter.php:24
+msgid "-- All Categories --"
+msgstr "-- Alla kategorier --"
+
+#: views/exporter/exporter.php:7
+msgid "STEP 1 - Export your links:"
+msgstr "STEG 1 – Exportera dina länkar:"
+
+#. Author URI of the plugin
+msgid "https://caseproof.com/"
+msgstr "https://caseproof.com/"
+
+#. Author of the plugin
+msgid "Caseproof"
+msgstr "Caseproof"
+
+#: views/linkpicker/edit-shortcode.php:64
+msgid "Edit Shortcode"
+msgstr "Redigera kortkod"
+
+#: views/linkpicker/edit-shortcode.php:56
+msgid "link target attribute:"
+msgstr "attribut för länkmål:"
+
+#: views/linkpicker/edit-shortcode.php:49
+msgid "Link rel attribute:"
+msgstr "Länk rel-attribut:"
+
+#: views/linkpicker/edit-shortcode.php:42
+msgid "Link title attribute:"
+msgstr "Länk titelattribut:"
+
+#: views/linkpicker/edit-shortcode.php:35
+msgid "Class link attribute:"
+msgstr "Klasslänkattribut:"
+
+#: views/linkpicker/edit-shortcode.php:28
+msgid "Affiliate link ids:"
+msgstr "Partnerlänk-id:"
+
+#: views/linkpicker/edit-shortcode.php:21
+msgid "Link text:"
+msgstr "Länktext:"
+
+#: views/linkpicker/advance-link-picker.php:22
+msgid "Select category"
+msgstr "Välj kategori"
+
+#: views/cpt/view-link-options-metabox.php:81
+msgid "Additional CSS classes:"
+msgstr "Ytterligare CSS-klasser:"
+
+#: views/cpt/view-attach-images-metabox.php:35
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: views/cpt/view-attach-images-metabox.php:34
+msgid "Add image"
+msgstr "Lägg till bild"
+
+#: views/cpt/view-attach-images-metabox.php:33
+msgid "Image source here"
+msgstr "Bildkälla här"
+
+#: views/cpt/view-attach-images-metabox.php:31
+msgid "Add external image"
+msgstr "Lägg till extern bild"
+
+#: views/cpt/view-attach-images-metabox.php:28
+msgid "or"
+msgstr "eller"
+
+#: views/cpt/view-attach-images-metabox-external-image.php:5
+msgid "external image"
+msgstr "extern bild"
+
+#: Models/Settings.php:519
+msgid "Allows you to add extra CSS classes when links are inserted."
+msgstr "Tillåter dig att lägga till extra CSS-klasser när länkar infogas."
+
+#: Models/Settings.php:518
+msgid "Additional CSS classes"
+msgstr "Ytterligare CSS-klasser"
+
+#: Models/Settings.php:360
+msgid "As of version 3.4, by default ThirstyAffiliates plugin collects visitor's browser and device used everytime they click an affiliate link as part of the statistics information. By checking this the browser/device collection will be disabled, but other information will still be saved."
+msgstr "Från version 3.4 samlar tillägget ThirstyAffiliates som standard besökarens webbläsare och enhet som används varje gång de klickar på en anknuten länk som en del av statistikinformationen. Genom att kontrollera detta kommer webbläsarens/enhetssamlingen att inaktiveras, men annan information kommer fortfarande att sparas."
+
+#: Models/Settings.php:359
+msgid "Disable browser/device data collection"
+msgstr "Inaktivera insamling av webbläsare/enhet"
+
+#: Models/Affiliate_Link_Attachment.php:328
+msgid "The external image is already added."
+msgstr "Den externa bilden har redan lagts till."
+
+#: Models/Affiliate_Link_Attachment.php:320
+msgid "The external image source is not a valid url."
+msgstr "Den externa bildkällan är inte en giltig url."
+
+#: Models/Settings.php:375
+msgid "Enable Bot Crawl Blocker Script"
+msgstr "Aktivera scriptet Bot Crawl Blocker"
+
+#: Models/Settings.php:376
+msgid "By enabling this setting, your affiliate links won't redirect for all the <em>blocked bots</em> set above and will send out a 403 forbidden error."
+msgstr "Genom att aktivera den här inställningen omdirigeras dina partnerlänkar inte för alla <em>blockerade bottar</em> som anges ovan och kommer att skicka ut ett 403 förbjudet fel."
+
+#: views/cpt/view-urls-metabox.php:24
+msgid "<strong>Warning:</strong> Editing the slug will break already inserted links for this affiliate link."
+msgstr "<strong>Varning:</strong> Redigering av permalänk kommer att bryta redan infogade länkar för den här kopplade länken."
+
+#: Models/Settings.php:429
+msgid "By default affiliate links are redirected on the server side. Enabling this will set all affiliate links to be redirected via javascript on your website's frontend. This will then improve the accuracy of the link performance report (This will only work when <strong>Statistics</strong> module is enabled)."
+msgstr "Som standard omdirigeras partnerlänkar på serversidan. Om du aktiverar detta kommer alla anslutna länkar att omdirigeras via javascript på din webbplats frontend. Detta kommer då att förbättra noggrannheten i länkens prestationsrapport (detta fungerar bara när <strong>statistikmodulen</strong> är aktiverad)."
+
+#: Models/Settings.php:367
+msgid "By default ThirstyAffiliates blocks bots accessing your affiliate links to give you a more appropriate data in the report. Select bots, or enter new ones to block."
+msgstr "Som standard blockerar ThirstyAffiliates bottar som får åtkomst till dina partnerlänkar för att ge dig mer lämplig information i rapporten. Välj bottar eller ange nya för att blockera."
+
+#: Models/Settings.php:366
+msgid "Blocked bots"
+msgstr "Blockerade bottar"
+
+#: Models/Settings.php:353
+msgid "By default ThirstyAffiliates plugin collects visitor's IP address everytime they click an affiliate link as part of the statistics information. By checking this the IP address collection will be disabled, but other information will still be saved."
+msgstr "Som standard samlar tillägget ThirstyAffiliates in besökarens IP-adress varje gång de klickar på en anknuten länk som en del av statistikinformationen. Genom att kontrollera detta kommer IP-adresssamlingen att inaktiveras, men annan information kommer fortfarande att sparas."
+
+#: Models/Settings.php:352
+msgid "Disable IP address collection"
+msgstr "Inaktivera insamling av IP-adress"
+
+#: Models/Rewrites_Redirection.php:386
+msgid "<h1>Forbidden</h1><p>You don't have permission to access %s on this server.</p>"
+msgstr "<h1>Förbjudet</h1><p>Du har inte behörighet att få tillgång till %s på den här servern. </p>"
+
+#: Models/Bootstrap.php:432 Models/Settings.php:2071
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Du har inte åtkomst till den här sidan."
+
+#: views/cpt/view-link-options-metabox.php:57
+msgid "Redirect type (server side redirects):"
+msgstr "Omdirigeringstyp (omdirigeringar på serversidan):"
+
+#: views/cpt/view-link-options-metabox.php:7
+msgid "No follow this link? (server side redirects)"
+msgstr "No-follow på denna länk? (omdirigeringar på serversidan)"
+
+#: Models/Settings.php:455
+msgid "No follow categories (server side redirects)"
+msgstr "No-follow kategorier (omdirigeringar på serversidan)"
+
+#: Models/Settings.php:445
+msgid "Use no follow on links? (server side redirects)"
+msgstr "Använd no-follow på länkar? (omdirigeringar på serversidan)"
+
+#: Models/Settings.php:436
+msgid "Link Redirect Type (server side redirects)"
+msgstr "Omdirigeringstyp för länkar (omdirigeringar på serversidan)"
+
+#: Models/Settings.php:428
+msgid "Enable Enhanced Javascript Redirect on Frontend"
+msgstr "Aktivera förbättrad omdirigering med javascript på frontend"
+
+#: Models/Settings.php:345
+msgid "Don't cache 301 redirects? (server side redirects)"
+msgstr "Skall 301-omdirigeringar chachas? (omdirigeringar på serversidan)"
+
+#: Models/Marketing.php:445
+msgid "Advanced Features"
+msgstr "Avancerade funktioner"
+
+#: Models/Marketing.php:354
+msgid "Enable enhanced javascript redirect feature"
+msgstr "Aktivera funktion för förbättrad omdirigering med javascript"
+
+#: Models/Settings.php:346
+msgid "By default, browsers caches the 301 redirects. Enabling this option will tell the browser not to cache 301 redirects. Be aware that it is still up to the browser if it will cache it or not."
+msgstr "Som standard cachar webbläsare 301-omdirigeringarna. Genom att aktivera detta alternativ informeras webbläsaren om att inte cachea 301-omdirigeringar. Var medveten om att det fortfarande är upp till webbläsaren om den cachar eller inte."
+
+#: Models/Stats_Reporting.php:562
+msgid "Link Overview Report"
+msgstr "Rapport länköversikt"
+
+#: Models/Stats_Reporting.php:561
+msgid "Link Overview"
+msgstr "Länköversikt"
+
+#: Models/Settings.php:854
+msgid "Pro Features →"
+msgstr "Pro-funktioner →"
+
+#: views/linkpicker/quick-add-affiliate-link.php:76
+msgid "Select categories..."
+msgstr "Välj kategorier..."
+
+#: views/cpt/view-inserted-link-scanner-metabox.php:14
+msgid "Post Type"
+msgstr "Inläggstyp"
+
+#: views/cpt/view-inserted-link-scanner-metabox.php:13
+msgid "Title"
+msgstr "Rubrik"
+
+#: views/cpt/view-inserted-link-scanner-metabox.php:12
+msgid "ID"
+msgstr "ID"
+
+#: views/cpt/view-inserted-link-scanner-metabox.php:4
+msgid "Start Scan"
+msgstr "Starta skanning"
+
+#: Models/Settings.php:500
+msgid "The links assigned to the selected category will be set as \"pass query strings\"."
+msgstr "Länkarna tilldelade den valda kategorin kommer att ställas in som \"pass query strings\"."
+
+#: Models/Settings.php:499
+msgid "Pass query strings categories"
+msgstr "Skicka kategorier för frågesträngar"
+
+#: Models/Settings.php:478
+msgid "The links assigned to the selected category will be set as \"new window\"."
+msgstr "Länkarna tilldelade den valda kategorin kommer att ställas in som \"nytt fönster\"."
+
+#: Models/Settings.php:477
+msgid "New window categories"
+msgstr "Nya fönster-kategorier"
+
+#: Models/Settings.php:456
+msgid "The links assigned to the selected category will be set as \"no follow\"."
+msgstr "Länkarna tilldelade den valda kategorin kommer att ställas in som \"no-follow\"."
+
+#: Models/Settings.php:270
+msgid "Per category"
+msgstr "Per kategori"
+
+#: Models/Affiliate_Links_CPT.php:848
+msgid "Show Link Categories"
+msgstr "Visa länkkategorier"
+
+#: Models/Affiliate_Links_CPT.php:558
+msgid "No results found."
+msgstr "Inga resultat hittades."
+
+#: Models/Affiliate_Links_CPT.php:538 Models/Affiliate_Links_CPT.php:1002
+msgid "Last scanned on:"
+msgstr "Senast skannad på:"
+
+#: Models/Affiliate_Links_CPT.php:533
+msgid "Not yet scanned"
+msgstr "Ännu inte skannat"
+
+#: Models/Affiliate_Links_CPT.php:381
+msgid "Link Inserted Scanner"
+msgstr "Skanner för länkinfogning"
+
+#: Models/Settings.php:1661
+msgid "Follow us on Twitter"
+msgstr "Följ oss på Twitter"
+
+#: Models/Settings.php:1665
+msgid "Follow us on Linkedin"
+msgstr "Följ oss på Linkedin"
+
+#: Models/Settings.php:336
+msgid "months (Automatically clean the statistics database records older than a set point. Setting this to 0 will disable it)."
+msgstr "månader (Rensa automatiskt statistikdatabasens register äldre än en börvärde. Om du ställer in detta till 0 kommer det att inaktiveras)."
+
+#: Models/Settings.php:335
+msgid "Trim stats older than:"
+msgstr "Trimma statistik äldre än:"
+
+#: Models/Script_Loader.php:306
+msgid "quick add affiliate link"
+msgstr "lägg till partnerlänk snabbt"
+
+#: Models/Settings.php:1657
+msgid "Like us on Facebook"
+msgstr "Gilla oss på Facebook"
+
+#: Models/Settings.php:1669
+msgid "(up to 30% commisions)"
+msgstr "(upp till 30% provision)"
+
+#: Models/Settings.php:1668
+msgid "Join Our Affiliate Program"
+msgstr "Gå med i vårt partnerprogram"
+
+#: Models/Settings.php:620
+msgid "Join the Community"
+msgstr "Gå med i communityn"
+
+#: Models/Script_Loader.php:305
+msgid "affiliate link"
+msgstr "partnerlänk"
+
+#: views/cpt/view-save-affiliate-link-metabox.php:4
+#: views/cpt/view-urls-metabox.php:25
+msgid "Save"
+msgstr "Spara"
+
+#. Plugin Name of the plugin
+#: Models/Affiliate_Links_CPT.php:201
+msgid "ThirstyAffiliates"
+msgstr "ThirstyAffiliates"
+
+#: Models/Bootstrap.php:394 Models/Settings.php:763
+msgid "Settings"
+msgstr "Inställningar"
+
+#. Plugin URI of the plugin
+msgid "http://thirstyaffiliates.com/"
+msgstr "http://thirstyaffiliates.com/"
+
+#: Models/Affiliate_Links_CPT.php:210
+msgid "No Affiliate Link found"
+msgstr "Ingen partnerlänk hittades"
+
+#: views/reports/link-performance-report.php:84
+msgid "Clicks: "
+msgstr "Klick: "
+
+#: views/reports/link-performance-report.php:62
+msgid "Fetch Report"
+msgstr "Hämta rapport"
+
+#: views/reports/link-performance-report.php:50
+msgid "Search affiliate link"
+msgstr "Sök partnerlänk"
+
+#: views/reports/link-performance-report.php:48
+msgid "Fetch report for specific link:"
+msgstr "Hämta rapport för specifik länk:"
+
+#: views/reports/link-performance-report.php:41
+#: views/reports/link-performance-report.php:81
+msgid "All links"
+msgstr "Alla länkar"
+
+#: views/reports/link-performance-report.php:23
+msgid "Go"
+msgstr "Kör"
+
+#: views/linkpicker/quick-add-affiliate-link.php:36
+msgid "Redirect Type:"
+msgstr "Omdirigeringstyp:"
+
+#: views/linkpicker/advance-link-picker.php:36
+msgid "Load more"
+msgstr "Visa fler"
+
+#: views/linkpicker/advance-link-picker.php:17
+msgid "Search:"
+msgstr "Sök:"
+
+#: views/cpt/view-urls-metabox.php:37
+msgid "Default"
+msgstr "Standard"
+
+#: views/cpt/view-link-options-metabox.php:74
+msgid "Additional rel tags:"
+msgstr "Ytterligare rel-taggar:"
+
+#: views/cpt/view-link-options-metabox.php:45
+msgid "Uncloaks the link when loaded on the frontend."
+msgstr "Avdölj länken när den laddas på frontend."
+
+#: views/cpt/view-link-options-metabox.php:44
+msgid "Uncloak link?"
+msgstr "Avdölja länken?"
+
+#: views/cpt/view-link-options-metabox.php:32
+msgid "Passes the query strings present after the cloaked url automatically to the destination url when redirecting."
+msgstr "Skickar frågesträngarna som finns närvarande efter den dolda url-adressen automatiskt till destinationsadressen vid omdirigering."
+
+#: views/cpt/view-link-options-metabox.php:31
+msgid "Pass query string to destination url?"
+msgstr "Skicka frågesträngen till destinationsadressen?"
+
+#: Models/Settings.php:269 views/cpt/view-link-options-metabox.php:13
+#: views/cpt/view-link-options-metabox.php:25
+#: views/cpt/view-link-options-metabox.php:37
+#: views/cpt/view-link-options-metabox.php:50
+#: views/linkpicker/quick-add-affiliate-link.php:57
+#: views/linkpicker/quick-add-affiliate-link.php:68
+msgid "No"
+msgstr "Nej"
+
+#: Models/Settings.php:268 views/cpt/view-link-options-metabox.php:12
+#: views/cpt/view-link-options-metabox.php:24
+#: views/cpt/view-link-options-metabox.php:36
+#: views/cpt/view-link-options-metabox.php:49
+#: views/linkpicker/quick-add-affiliate-link.php:56
+#: views/linkpicker/quick-add-affiliate-link.php:67
+msgid "Yes"
+msgstr "Ja"
+
+#: views/cpt/view-link-options-metabox.php:11
+#: views/cpt/view-link-options-metabox.php:23
+#: views/cpt/view-link-options-metabox.php:35
+#: views/cpt/view-link-options-metabox.php:48
+#: views/cpt/view-link-options-metabox.php:62
+#: views/linkpicker/quick-add-affiliate-link.php:40
+#: views/linkpicker/quick-add-affiliate-link.php:55
+#: views/linkpicker/quick-add-affiliate-link.php:66
+msgid "Global (%s)"
+msgstr "Global ( %s)"
+
+#: thirstyaffiliates.php:235
+msgid "<b>ThirstyAffiliates</b> plugin missing dependency.<br/>"
+msgstr "Tillägget <b>ThirstyAffiliates</b> saknas beroende.<br/>"
+
+#: thirstyaffiliates.php:228
+msgid "<br/>Please ensure you have the <a href=\"%1$s\" target=\"_blank\">%2$s</a> plugin installed and activated.<br/>"
+msgstr "<br/>Se till att du har installerat och aktiverat tillägget <a href=\"%1$s\" target=\"_blank\">%2$s</a>.<br/>"
+
+#: thirstyaffiliates.php:226
+msgid "Click here to install from WordPress.org repo &rarr;"
+msgstr "Klicka här för att installera från WordPress.org repo &rarr;"
+
+#: thirstyaffiliates.php:226
+msgid "Install this plugin"
+msgstr "Installera detta tillägg"
+
+#: thirstyaffiliates.php:224
+msgid "Click here to activate &rarr;"
+msgstr "Klicka här för att aktivera &rarr;"
+
+#: thirstyaffiliates.php:224
+msgid "Activate this plugin"
+msgstr "Aktivera detta tillägg"
+
+#: Models/Stats_Reporting.php:676
+msgid "Last 7 Days"
+msgstr "Senaste 7 dagarna"
+
+#: Models/Stats_Reporting.php:675
+msgid "This Month"
+msgstr "Denna månad"
+
+#: Models/Stats_Reporting.php:674
+msgid "Last Month"
+msgstr "Förra månaden"
+
+#: Models/Stats_Reporting.php:673
+msgid "Year"
+msgstr "År"
+
+#: Models/Stats_Reporting.php:594
+msgid "Reports"
+msgstr "Rapporter"
+
+#: Models/Stats_Reporting.php:593
+msgid "ThirstyAffiliates Reports"
+msgstr "ThirstyAffiliates-rapporter"
+
+#: Models/Stats_Reporting.php:563
+msgid "Total clicks on affiliate links over a given period."
+msgstr "Totalt antal klick på partnerlänkar under en viss period."
+
+#: Models/Stats_Reporting.php:434
+msgid "Selected affiliate link is invalid"
+msgstr "Den valda partnerlänken är ogiltig"
+
+#: Models/Settings.php:1984
+msgid "Invalid global settings string"
+msgstr "Ogiltig global inställningssträng"
+
+#: Models/Settings.php:1960
+msgid "Settings successfully imported"
+msgstr "Inställningarna har importerats"
+
+#: Models/Settings.php:1702
+msgid "Copy"
+msgstr "Kopiera"
+
+#: Models/Settings.php:1623
+msgid "Migrate"
+msgstr "Migrera"
+
+#: Models/Settings.php:1613
+msgid "Another application is currently processing the database. Please wait for this to complete."
+msgstr "En annan applikation behandlar för närvarande databasen. Vänta tills detta är slutfört."
+
+#: Models/Settings.php:1489
+msgid "Key"
+msgstr "Nyckel"
+
+#: Models/Settings.php:980
+msgid "Save Changes"
+msgstr "Spara ändringarna"
+
+#: Models/Settings.php:762 Models/Settings.php:837
+msgid "ThirstyAffiliates Settings"
+msgstr "Inställningar för ThirstyAffiliates"
+
+#: Models/Settings.php:634
+msgid "Migrate old ThirstyAffiliates version 2 data to new version 3 data model."
+msgstr "Migrera gamla ThirstyAffiliates version 2-data till ny version 3-datamodell."
+
+#: Models/Settings.php:632
+msgid "Migrate Old Data"
+msgstr "Migrera gamla data"
+
+#: Models/Settings.php:627
+msgid "Other Utilities"
+msgstr "Andra verktyg"
+
+#: Models/Settings.php:615
+msgid "Learn & grow your affiliate marketing – covering increasing sales, generating traffic, optimising your affiliate marketing, interviews & case studies."
+msgstr "Lär dig och få din marknadsföring att växa - öka försäljningen, generera trafik, optimera din partnermarknadsföring, intervjuer och fallstudier."
+
+#: Models/Settings.php:614
+msgid "ThirstyAffiliates Blog"
+msgstr "ThirstyAffiliates blogg"
+
+#: Models/Settings.php:611
+msgid "Our Blog"
+msgstr "Vår blogg"
+
+#: Models/Settings.php:606
+msgid "Guides, troubleshooting, FAQ and more."
+msgstr "Guider, felsökning, vanliga frågor och mer."
+
+#: Models/Settings.php:602
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: Models/Settings.php:597 Models/Settings.php:605
+msgid "Knowledge Base"
+msgstr "Kunskapsbas"
+
+#: Models/Settings.php:588
+msgid "Export Global Settings"
+msgstr "Exportera globala inställningar"
+
+#: Models/Settings.php:571
+msgid "Uncloak Links is a feature to allow uncloaking of specific links on your site. It replaces the cloaked url with the actual destination url which is important for compatibility with some affiliate program with stricter terms (such as Amazon Associates). Once enabled, you will see a new Uncloak Link checkbox on the affiliate link edit screen. It also introduces a new setting under the Links tab for uncloaking whole categories.<br><br><b>Warning : </b>For this feature to work, the <strong>Link Fixer</strong> module needs to be turned on."
+msgstr "Avdölj länkar är en funktion som gör det möjligt att avdölja specifika länkar på din webbplats. Den ersätter den dolda url-adressen med den faktiska destinationsadressen, vilket är viktigt för kompatibilitet med vissa partnerprogram med striktare villkor (som Amazon Associates). När den är aktiverad ser du en ny kryssruta som heter Dolda länkar på redigeringsskärmen för partnerlänken. Det introducerar också en ny inställning under fliken Länkar för att avdölja hela kategorier. <br><br><b>Varning:</b> För att den här funktionen ska fungera måste modulen <strong>Länkfixare</strong> vara på."
+
+#: Models/Settings.php:570
+msgid "Uncloak Links"
+msgstr "Avdölj länkar"
+
+#: Models/Settings.php:563
+msgid "Link Fixer is a tiny piece of javascript code that runs on the frontend of your site to fix any outdated/broken affiliate links it detects. It's cache-friendly and runs after page load so it doesn't affect the rendering of content. Changed the settings on your site recently? Enabling Link Fixer means you don't need to update all your previously inserted affiliate links one by one – your visitors will never see an out of date affiliate link again."
+msgstr "Länkfixaren är en liten bit av javascript-kod som körs på frontend på din webbplats för att fixa alla föråldrade eller trasiga partnerlänkar den upptäcker. Det är cachevänligt och körs efter sidladdning så det påverkar inte innehållet. Har du ändrat inställningarna på din webbplats nyligen? Att aktivera länkfixaren innebär att du inte behöver uppdatera alla dina tidigare infogade partnerlänkar en efter en - dina besökare kommer aldrig att se en föråldrad partnerlänk igen."
+
+#: Models/Settings.php:562
+msgid "Link Fixer"
+msgstr "Länkfixare"
+
+#: Models/Settings.php:555
+msgid "When enabled, ThirstyAffiliates will collect click statistics information about visitors that click on your affiliate links. Also adds a new Reports section."
+msgstr "När det är aktiverat kommer ThirstyAffiliates att samla in klickstatistikinformation om besökare som klickar på dina partnerlänkar. Lägger också till en nyrapportsektion."
+
+#: Models/Settings.php:554
+msgid "Statistics"
+msgstr "Statistik"
+
+#: Models/Settings.php:540
+msgid "The links assigned to the selected category will be uncloaked."
+msgstr "Länkarna tilldelade den valda kategorin kommer att vara avdolda."
+
+#: Models/Settings.php:539
+msgid "Select Category to Uncloak"
+msgstr "Välj kategori för att avdölja"
+
+#: Models/Settings.php:533
+msgid "Links are automatically output with a title html attribute (by default this shows the title of the affiliate link).<br>This option disables the output of the title attribute on your links."
+msgstr "Länkar matas ut automatiskt med ett titel-html-attribut (som standard visar det titeln på partnerlänken). <br>Detta alternativ inaktiverar utgången från titelattributet på dina länkar."
+
+#: Models/Settings.php:532
+msgid "Disable title attribute on link insertion?"
+msgstr "Inaktivera titelattribut vid länkinsättning?"
+
+#: Models/Settings.php:526
+msgid "To help with styling a CSS class called \"thirstylink\" is added links on insertion.<br>Likewise the \"thirstylinkimg\" class is added to images when using the image insertion type. This option disables the addition these CSS classes."
+msgstr "För att hjälpa till med styling läggs en CSS-klass som kallas \"thirstylink\" till länkar vid infogning. <br>På samma sätt läggs klassen \"thirstylinkimg\" till bilder när du använder bildinsättningstypen. Det här alternativet inaktiverar tillägget av dessa CSS-klasser."
+
+#: Models/Settings.php:525
+msgid "Disable ThirstyAffiliates CSS classes?"
+msgstr "Inaktivera ThirstyAffiliates CSS-klasser?"
+
+#: Models/Settings.php:511
+msgid "Additional rel attribute tags"
+msgstr "Ytterligare etiketter för rel-attribut"
+
+#: Models/Settings.php:490
+msgid "Enabling this option will pass all of the query strings present after the cloaked url to the destination url automatically when redirecting."
+msgstr "Aktivering av det här alternativet kommer att överföra alla query-strängar som finns efter den dolda url:en till destinationsadressen automatiskt vid omdirigering."
+
+#: Models/Settings.php:489
+msgid "Pass query strings to destination url?"
+msgstr "Skicka query-strängar till destinationsadressen?"
+
+#: Models/Settings.php:468
+msgid "Make links open in a new browser tab by default."
+msgstr "Öppna länkar i en ny webbläsarflik som standard."
+
+#: Models/Settings.php:446
+msgid "Add the nofollow attribute to links so search engines don't index them."
+msgstr "Lägg till nofollow-attributet till länkar så att sökmotorer inte indexerar dem."
+
+#: Models/Settings.php:422
+msgid "Shows the primary selected category in the url. eg. %s/recommends/<strong>link-category</strong>/your-affiliate-link-name.<br><br><b>Warning :</b> Changing this setting after you've used links in a post could break those links. Be careful!"
+msgstr "Visar den primärt valda kategorin i url-adressen. t.ex. %s/rekommenderar/<strong>länkkategori</strong>/partners-länknamn. <br><br><b>Varning:</b> Att ändra den här inställningen efter att du har använt länkar i ett inlägg kan bryta dessa länkar. Var försiktig!"
+
+#: Models/Settings.php:421
+msgid "Link Category in URL?"
+msgstr "Länka kategori i URL?"
+
+#: Models/Settings.php:415
+msgid "Enter your preferred link prefix."
+msgstr "Ange ditt önskade prefix för länk."
+
+#: Models/Settings.php:414
+msgid "Custom Link Prefix"
+msgstr "Anpassat länkprefix"
+
+#: Models/Settings.php:386
+msgid "The prefix that comes before your cloaked link's slug. <br>eg. %s/<strong>recommends</strong>/your-affiliate-link-name.<br><br><b>Warning :</b> Changing this setting after you've used links in a post could break those links. Be careful!"
+msgstr "Prefixet som kommer framför din dolda länks permalänk. <br>T.ex. %s/<strong>rekommenderar</strong>/partners-länknamn. <br><br><b>Varning:</b> Att ändra den här inställningen efter att du har använt länkar i ett inlägg kan bryta dessa länkar. Var försiktig!"
+
+#: Models/Settings.php:385
+msgid "Link Prefix"
+msgstr "Länkprefix"
+
+#: Models/Settings.php:315
+msgid "If links are including categories in the URL then by default ThirstyAffiliates will add an \"uncategorized\" category to apply to non-categorised links during save. If you disable this, it allows you to have some links with categories in the URL and some without."
+msgstr "Om länkar inkluderar kategorier i URL: en lägger ThirstyAffiliates som standard till kategorin \"okategoriserad\" som tillämpas på icke-kategoriserade länkar vid sparning. Om du inaktiverar detta tillåter det att du har några länkar med kategorier i URL: n och några utan."
+
+#: Models/Settings.php:308
+msgid "Shortcode"
+msgstr "Kortkod"
+
+#: Models/Settings.php:307
+msgid "Link"
+msgstr "Länk"
+
+#: Models/Settings.php:303
+msgid "Determines the default link type when inserting a link using the quick search."
+msgstr "Anger standardlänktyp när du infogar en länk med snabbsökning."
+
+#: Models/Settings.php:302
+msgid "Default Link Insertion Type"
+msgstr "Standardtyp för länkinfogning"
+
+#: Models/Settings.php:293
+msgid "Links to knowledge base and other utilities."
+msgstr "Länkar till kunskapsbasen och andra verktyg."
+
+#: Models/Settings.php:292
+msgid "Help"
+msgstr "Hjälp"
+
+#: Models/Settings.php:289
+msgid "Import and Export global ThirstyAffiliates plugin settings from one site to another."
+msgstr "Importera och exportera globala inställningar från ThirstyAffiliates från en webbplats till en annan."
+
+#: Models/Settings.php:288
+msgid "Import/Export"
+msgstr "Importera/exportera"
+
+#: Models/Settings.php:285
+msgid "This section allows you to turn certain parts of ThirstyAffiliates on or off. Below are the individual modules and features of the plugin that can be controlled."
+msgstr "Denna sektion låter dig aktivera eller inaktivera delar av ThirstyAffiliates. Nedan visas de enskilda modulerna och funktionerna som kan kontrolleras."
+
+#: Models/Settings.php:284
+msgid "Modules"
+msgstr "Moduler"
+
+#: Models/Settings.php:281
+msgid "Settings that specifically affect the behaviour & appearance of your affiliate links."
+msgstr "Inställningar som specifikt påverkar beteendet och utseendet på dina partnerlänkar."
+
+#: Models/Settings.php:280
+msgid "Link Appearance"
+msgstr "Länkutseende"
+
+#: Models/Settings.php:277
+msgid "Settings that change the general behaviour of ThirstyAffiliates."
+msgstr "Inställningar som ändrar det allmänna beteendet hos ThirstyAffiliates."
+
+#: Models/Settings.php:276 views/reports/link-performance-report.php:39
+#: views/reports/link-performance-report.php:80
+msgid "General"
+msgstr "Allmänt"
+
+#: Models/Notifications.php:721 Models/Script_Loader.php:239
+msgid "Close"
+msgstr "Stäng"
+
+#: Models/Script_Loader.php:238
+msgid "Next"
+msgstr "Nästa"
+
+#: Models/Script_Loader.php:237
+msgid "Previous"
+msgstr "Föregående"
+
+#: Models/Script_Loader.php:309
+msgid "Type to search affiliate link"
+msgstr "Skriv för att söka partnerlänk"
+
+#: Models/Script_Loader.php:173
+msgid "Are you sure you want to migrate your ThirstyAffiliates data to version 3 format?"
+msgstr "Är du säker på att du vill migrera din ThirstyAffiliates-data till version 3-formatet?"
+
+#: Models/Script_Loader.php:172
+msgid "Failed to do data migration"
+msgstr "Det gick inte att migrera data"
+
+#: Models/Script_Loader.php:160
+msgid "Failed to copy settings string"
+msgstr "Det gick inte att kopiera inställningssträngen"
+
+#: Models/Script_Loader.php:159
+msgid "Settings string copied"
+msgstr "Inställningssträngen kopierad"
+
+#: Models/Script_Loader.php:158
+msgid "Please input settings string"
+msgstr "Ange inställningssträngen"
+
+#: Models/Script_Loader.php:147
+msgid "Please provide a value for \"Custom Link Prefix\" option"
+msgstr "Ange ett värde för alternativet \"Anpassat länkprefix\""
+
+#: Models/Migration.php:292
+msgid "Data Migration Complete!"
+msgstr "Datamigrering slutförd!"
+
+#: Models/Migration.php:286
+msgid "Unauthorized operation. Only authorized accounts can do data migration."
+msgstr "Obehörig operation. Endast godkända konton kan göra migrering av data."
+
+#: Models/Migration.php:284
+msgid "Invalid AJAX Call."
+msgstr "Ogiltigt AJAX-anrop."
+
+#: Models/Link_Picker.php:304
+msgid "Insert image"
+msgstr "Infoga bild"
+
+#: Models/Link_Picker.php:302
+msgid "Insert link"
+msgstr "Infoga länk"
+
+#: Models/Link_Picker.php:286
+msgid "No images found"
+msgstr "Inga bilder hittade"
+
+#: Models/Link_Picker.php:271
+msgid "Select image:"
+msgstr "Välj bild:"
+
+#: Models/Affiliate_Links_CPT.php:958 Models/Affiliate_Links_CPT.php:987
+#: Models/Affiliate_Link_Attachment.php:134
+#: Models/Affiliate_Link_Attachment.php:211
+#: Models/Affiliate_Link_Attachment.php:316 Models/Guided_Tour.php:317
+#: Models/Link_Picker.php:426 Models/Link_Picker.php:565
+#: Models/Marketing.php:266 Models/Marketing.php:418 Models/Marketing.php:477
+#: Models/Migration.php:288 Models/Settings.php:1950 Models/Settings.php:2129
+msgid "Security Check Failed"
+msgstr "Säkerhetskontroll misslyckades"
+
+#: Models/Guided_Tour.php:256
+msgid "Check out the current Pro add-on features"
+msgstr "Kolla in funktionerna i Pro-versionen"
+
+#: Models/Guided_Tour.php:230
+msgid ""
+"<h3>Need some help with ThirstyAffiliates?</h3>\n"
+"                                   <p>We have a growing knowledge base filled with guides, troubleshooting and FAQ.</p>\n"
+"                                   <p>Our blog is also very active with lots of interesting affiliate marketing topics to help you grow your affiliate marketing empire.</p>"
+msgstr ""
+"<h3>Behöver du hjälp med ThirstyAffiliates?</h3>\n"
+"                                   <p>Vi har en växande kunskapsguide med guider, felsökning och vanliga frågor.</p>\n"
+"                                   <p>Vår blogg är också aktiv med flera spännande marknadsföringstips för att hjälpa dig växa!</p>"
+
+#: Models/Guided_Tour.php:211
+msgid ""
+"<h3>We built ThirstyAffiliates to be flexible and as such, you can shut down the parts of ThirstyAffiliates that aren’t being used. This can make the plugin faster.</h3>\n"
+"                                   <p>If you have the Pro add-on each Pro module will show in here as well.</p>"
+msgstr ""
+"<h3>Vi har byggt ThirstyAffiliates att vara precis så flexibelt som du vill, med möjlighet att inaktivera delar av tillägget som inte används.</h3>\n"
+"                                   <p>Detta gör naturligtvis att din webbplats laddar snabbare. Har du dessutom pro-versionen visas pro-modulerna här också.</p>"
+
+#: Models/Guided_Tour.php:190
+msgid ""
+"<h3>ThirstyAffiliates has a number of settings that change the way it works, behaves and how your links appear.</h3>\n"
+"                                   <p>Here are the General settings which are for changing the way you work with ThirstyAffiliates in the backend.</p>"
+msgstr ""
+"<h3>ThirstyAffiliates har ett antal inställningar som ändrar hur tillägget fungerar, beter sig och hur länkar visas.</h3>\n"
+"                                   <p>Här är de generella inställningarna som reglerar hur du jobbar med ThirstyAffiliates i backend.</p>"
+
+#: Models/Settings.php:1952
+msgid "Required parameter not passed"
+msgstr "Obligatorisk parameter har inte skickats vidare"
+
+#: Models/Guided_Tour.php:151
+msgid ""
+"<h3>Congratulations, you just activated ThirstyAffiliates!</h3>\n"
+"                               <p>Would you like to take a tour of the plugin features? It takes less than a minute and you'll then know exactly how to use the plugin.</p>"
+msgstr ""
+"<h3>Grattis! Du har nu aktiverat ThirstyAffiliates!</h3>\n"
+"                               <p>Skulle du vilja ta en rundtur i tilläggets funktioner? Det tar mindre än en minut och visar exakt hur du ska använda tillägget.</p>"
+
+#: Models/Affiliate_Links_CPT.php:714
+msgid "Link Destination"
+msgstr "Länkdestination"
+
+#: Models/Guided_Tour.php:220
+msgid ""
+"<h3>Setting up multiple sites with all running ThirstyAffiliates?</h3>\n"
+"                                   <p>We’ve made it super simple to configure your additional sites by being able to import and export ThirstyAffiliate settings.</p>\n"
+"                                   <p>Just copy the Export section and paste it into the Import section on your other site and ThirstyAffiliates will be automatically configured the same way.</p>"
+msgstr ""
+"<h3>Sätter du upp flera webbplatser som använder ThirstyAffiliates?</h3>\n"
+"                                   <p>Vi har gjort det ännu lättare att konfigurera ytterligare webbplatser genom att du kan exportera och importera inställningar för ThirstyAffiliates.</p>\n"
+"                                   <p>Kopiera bara sektionen i export och klistra in den i import på din andra webbplats, så kommer den nya webbplatsen automatiskt att konfigureras på samma sätt.</p>"
+
+#: Models/Guided_Tour.php:177
+msgid ""
+"<h3>Affiliate links can be added to your posts easily by clicking on the “TA” button on your editor.</h3>\n"
+"                               <p>This works identically to the WordPress link tool, but only searches for affiliate links.</p>\n"
+"                               <p>Give it a try by typing in some text, highlighting it, then clicking the “TA” button.</p>\n"
+"                               <p>If you need to you can click the cog icon for an advanced search view which is handy for doing more advanced searches and for inserting images pre-wrapped with your affiliate link or via a shortcode instead.</p>"
+msgstr ""
+"<h3>Partnerlänkar kan läggas till i dina inlägg enkelt genom att klicka på knappen \"TA\" i din editor.</h3>\n"
+"                               <p>Detta fungerar på samma sätt som WordPress motsvarande verktyg, men den söker enbart efter partnerlänkar.</p>\n"
+"                               <p>Testa genom att skriva in lite text, markera den och klicka på knappen \"TA\".</p>\n"
+"                               <p>Om du behöver kan du klicka på kugghjulet för en avancerad sökvy, som kan vara praktisk när t.ex. bilder skall ha partnerlänk.</p>"
+
+#: Models/Guided_Tour.php:160
+msgid ""
+"<h3>ThirstyAffiliates helps you manage affiliate links that you are given from the various affiliate programs you are a member of.</h3>\n"
+"                               <p>It lets you hide long, and often confusing looking, affiliate link URLs behind another URL called a redirect. When your visitors click on that new URL they are automatically redirected to your affiliate link.</p>\n"
+"                               <p>This is helpful for five reasons:</p>\n"
+"                               <ol><li>AESTHETICS: Affiliate links are often long and ugly as mentioned and this can look off putting to visitors. ThirstyAffiliates redirects make them shorter and more attractive to click on like \"http://example.com/recommends/some-product-name\"</li>\n"
+"                               <li>PROTECTION: It hides the affiliate code, so malicious software (malware) cannot sniff out the affiliate code for common affiliate programs and replace it with their own code instead. In this way, it protects your commissions.</li>\n"
+"                               <li>CONVENIENCE: If the affiliate program ever changes the link code you’ll only have ONE place to change it on your blog, rather than going through all your content and changing every instance of the link.</li>\n"
+"                               <li>CATEGORIZATION: You categorize your affiliate links into logical groups which can make managing them much simpler.</li>\n"
+"                               <li>STATISTICS: Finally, because your visitors are travelling via a ThirstyAffiliates redirect, the plugin can provide you with statistics on what is being clicked.</li></ol>\n"
+"                               <p>You can now create an “Affiliate Link” in this new section in your dashboard. This view shows you all the affiliate links you are managing with ThirstyAffiliates.</p>"
+msgstr ""
+"<h3>ThirstyAffiliates hjälper dig hantera partnerlänkar som kommer från olika partnerprogram du är medlem i.</h3>\n"
+"                               <p>Det låter dig dölja långa och ofta förvirrande länkar bakom en annan länk. När besökare klickar på din länk omdirigeras de automatiskt till partnerlänken.</p>\n"
+"                               <p>Detta är tacksamt av fem anledningar:</p>\n"
+"                               <ol><li>ESTETIK: Partnerlänkar är ofta långa, fula och kan se skumma ut för dina besökare. ThirstyAffiliates gör om länken till något mer lättläst och mer attratiktivt, som exempel \"http://exempel.se/rekommenderar/ett-produktnamn\". </li>\n"
+"                               <li>SKYDD: Det döljer din partnerkod så att skadlig programvara inte kan sniffa upp partnerkoden för partnerprogram och ersätter den med egen kod. På så vis skyddas din provision.</li>\n"
+"                               <li>BEKVÄMT: Om partnerprogrammet någonsin förändras, och koden ändras, behöver du bara uppdatera den på ett ställe.</li>\n"
+"                               <li>KATEGORISERING: Du kan kategorisera dina länkar i logiska grupper vilket gör dem mycket lättare att hantera!</li>\n"
+"                               <li>STATISTIK: Eftersom dina besökare vidarebefordras via en omdirigering i ThirstyAffiliates kan du få statistik på vad som faktiskt konverteras och inte.</li></ol>\n"
+"                               <p>Du kan nu skapa en \"Partnerlänk\" i denna nya sektion i din kontrollpanel. Denna vy visar dig alla partnerlänkar som du hanterar med ThirstyAffiliates.</p>"
+
+#: Models/Affiliate_Links_CPT.php:713
+msgid "Cloaked URL"
+msgstr "Dold URL"
+
+#: Models/Affiliate_Links_CPT.php:398
+msgid "Link Options"
+msgstr "Länkalternativ"
+
+#: Models/Affiliate_Links_CPT.php:391
+msgid "Save Affiliate Link"
+msgstr "Spara partnerlänk"
+
+#: Models/Affiliate_Links_CPT.php:374
+msgid "Attach Images"
+msgstr "Bifoga bilder"
+
+#: Models/Affiliate_Links_CPT.php:367
+msgid "URLs"
+msgstr "URL:er"
+
+#: Models/Affiliate_Links_CPT.php:292
+msgid "Category list navigation"
+msgstr "Navigation för kategorilista"
+
+#: Models/Affiliate_Links_CPT.php:291
+msgid "Category list"
+msgstr "Kategorilista"
+
+#: Models/Affiliate_Links_CPT.php:290
+msgid "No items"
+msgstr "Inga objekt"
+
+#: Models/Affiliate_Links_CPT.php:289
+msgid "Not Found"
+msgstr "Hittades inte"
+
+#: Models/Affiliate_Links_CPT.php:288
+msgid "Search Categories"
+msgstr "Sök kategorier"
+
+#: Models/Affiliate_Links_CPT.php:287
+msgid "Popular Categories"
+msgstr "Populära kategorier"
+
+#: Models/Affiliate_Links_CPT.php:286
+msgid "Choose from the most used"
+msgstr "Välj bland de mest använda"
+
+#: Models/Affiliate_Links_CPT.php:285
+msgid "Add or remove items"
+msgstr "Lägg till eller ta bort objekt"
+
+#: Models/Affiliate_Links_CPT.php:284
+msgid "Separate items with commas"
+msgstr "Separera objekt med komma"
+
+#: Models/Affiliate_Links_CPT.php:283
+msgid "View Category"
+msgstr "Visa kategori"
+
+#: Models/Affiliate_Links_CPT.php:282
+msgid "Update Category"
+msgstr "Uppdatera kategori"
+
+#: Models/Affiliate_Links_CPT.php:281
+msgid "Edit Category"
+msgstr "Redigera kategori"
+
+#: Models/Affiliate_Links_CPT.php:280
+msgid "Add New Category"
+msgstr "Lägg till ny kategori"
+
+#: Models/Affiliate_Links_CPT.php:279
+msgid "New Category Name"
+msgstr "Nytt kategorinamn"
+
+#: Models/Affiliate_Links_CPT.php:278
+msgid "Parent Category:"
+msgstr "Överordnad kategori:"
+
+#: Models/Affiliate_Links_CPT.php:277
+msgid "Parent Category"
+msgstr "Överordnad kategori"
+
+#: Models/Affiliate_Links_CPT.php:276
+#: views/linkpicker/advance-link-picker.php:23
+msgid "All Categories"
+msgstr "Alla kategorier"
+
+#: Models/Affiliate_Links_CPT.php:208
+msgid "Update Affiliate Link"
+msgstr "Uppdatera partnerlänk"
+
+#: Models/Affiliate_Links_CPT.php:206
+msgid "New Affiliate Link"
+msgstr "Ny partnerlänk"
+
+#: Models/Affiliate_Links_CPT.php:202
+msgid "Parent Affiliate Link"
+msgstr "Överordnad partnerlänk"
+
+#: Models/Affiliate_Link_Attachment.php:249
+msgid "Invalid attachment id to remove from an affiliate link"
+msgstr "Ogiltigt id för bilaga att ta bort från partnerlänk"
+
+#: Models/Affiliate_Link_Attachment.php:222
+msgid "Attachment successfully removed from attachment"
+msgstr "Bilagan har tagits bort"
+
+#: Models/Affiliate_Link_Attachment.php:184
+msgid "Invalid attachment ids to attach to an affiliate link"
+msgstr "Ogiltiga id för bilagor att bifoga en partnerlänk"
+
+#: Models/Affiliate_Link_Attachment.php:159
+msgid "Attachments successfully added to the affiliate link"
+msgstr "Bilagor har lagts till i partnerlänken"
+
+#: Models/Affiliate_Links_CPT.php:954 Models/Affiliate_Links_CPT.php:983
+#: Models/Affiliate_Link_Attachment.php:130
+#: Models/Affiliate_Link_Attachment.php:207
+#: Models/Affiliate_Link_Attachment.php:312 Models/Guided_Tour.php:313
+#: Models/Link_Fixer.php:241 Models/Link_Fixer.php:243
+#: Models/Link_Picker.php:340 Models/Link_Picker.php:422
+#: Models/Link_Picker.php:561 Models/Marketing.php:262 Models/Marketing.php:414
+#: Models/Marketing.php:473 Models/Settings.php:1946 Models/Settings.php:2127
+#: Models/Stats_Reporting.php:416 Models/Stats_Reporting.php:464
+msgid "Invalid AJAX call"
+msgstr "Ogiltigt AJAX-anrop"
+
+#: Models/Affiliate_Link.php:611
+msgid "Unable to save affiliate link as there are no changes registered on the object yet."
+msgstr "Det går inte att spara partnerlänken eftersom det ännu inte finns några registrerade ändringar på objektet."
+
+#: Helpers/Plugin_Constants.php:151
+msgid "307 Temporary (alternative)"
+msgstr "307 Tillfälligt (alternativ)"
+
+#: Helpers/Plugin_Constants.php:150
+msgid "302 Temporary"
+msgstr "302 Tillfällig"
+
+#: Helpers/Plugin_Constants.php:149
+msgid "301 Permanent"
+msgstr "301 Permanent"
+
+#: Models/Settings.php:1490
+msgid "Value"
+msgstr "Värde"
+
+#. Description of the plugin
+msgid "ThirstyAffiliates is a revolution in affiliate link management. Collect, collate and store your affiliate links for use in your posts and pages."
+msgstr "ThirstyAffiliates revolutionerar sättet i att hantera partnerlänkar. Samla, sortera och spara dina länkar för att lätt kunna infoga dem i inlägg och på sidor."
+
+#: Models/Affiliate_Links_CPT.php:711
+msgid "Link ID"
+msgstr "Länk-ID"
+
+#: views/linkpicker/quick-add-affiliate-link.php:91
+msgid "Add Link & Insert Into Post"
+msgstr "Lägg till länk och infoga i inlägg"
+
+#: views/linkpicker/quick-add-affiliate-link.php:88
+msgid "Add Link"
+msgstr "﻿Lägg till länk"
+
+#: Models/Affiliate_Links_CPT.php:712
+msgid "Redirect Type"
+msgstr "Typ av omdirigering"
+
+#: views/linkpicker/quick-add-affiliate-link.php:52
+msgid "No follow this link?"
+msgstr "No-follow på denna länk?"
+
+#: views/linkpicker/quick-add-affiliate-link.php:29
+msgid "http:// or https:// is required"
+msgstr "http: // eller https: // krävs"
+
+#: Models/Link_Picker.php:303
+msgid "Insert shortcode"
+msgstr "Infoga kortkod"
+
+#: Models/Script_Loader.php:308
+msgid "Open quick add affiliate link dialog"
+msgstr "Öppna dialogen lägg till partnerlänk snabbt"
+
+#: Models/Script_Loader.php:307
+msgid "Open the ThirstyAffiliates link picker"
+msgstr "Öppna länkväljaren i ThirstyAffiliates"
+
+#: views/cpt/view-attach-images-metabox-external-image.php:4
+#: views/cpt/view-attach-images-metabox-single-image.php:4
+msgid "Remove This Image"
+msgstr "Ta bort denna bild"
+
+#: views/cpt/view-attach-images-metabox.php:13
+#: views/cpt/view-attach-images-metabox.php:20
+msgid "Upload/Insert"
+msgstr "Ladda upp/infoga"
+
+#: views/cpt/view-attach-images-metabox.php:12
+msgid "Add To Affiliate Link"
+msgstr "Lägg till i partnerlänk"
+
+#: views/cpt/view-attach-images-metabox.php:11
+msgid "Add Image To Affiliate Link"
+msgstr "Lägg till bild i partnerlänk"
+
+#: views/cpt/view-link-options-metabox.php:20
+msgid "Opens links in a new window when clicked on."
+msgstr "Öppnar länkar i ett nytt fönster när de klickas på."
+
+#: views/cpt/view-link-options-metabox.php:8
+msgid "Adds the rel=\"nofollow\" tag so search engines don't pass link juice."
+msgstr "Lägger till taggen rel=\"nofollow\" för sökmotorer."
+
+#: views/cpt/view-urls-metabox.php:20
+msgid "Visit Link"
+msgstr "Besök länk"
+
+#: views/cpt/view-urls-metabox.php:15
+msgid "Cloaked URL:"
+msgstr "Dold URL:"
+
+#: views/cpt/view-urls-metabox.php:7
+#: views/linkpicker/quick-add-affiliate-link.php:26
+msgid "Destination URL:"
+msgstr "Destination URL:"
+
+#: Models/Affiliate_Links_CPT.php:335
+msgid "Link ID:"
+msgstr "Länk-ID:"
+
+#: views/linkpicker/quick-add-affiliate-link.php:19
+msgid "Link Name:"
+msgstr "Länknamn:"
+
+#: views/cpt/view-save-affiliate-link-metabox.php:12
+msgid "Move to Trash"
+msgstr "Flytta till papperskorg"
+
+#: views/cpt/view-save-affiliate-link-metabox.php:5
+msgid "Save Link"
+msgstr "Spara länk"
+
+#: views/cpt/view-link-options-metabox.php:58
+msgid "Override the default redirection type for this link."
+msgstr "Åsidosätta omdirigering som är standard för denna länk."
+
+#: Models/Affiliate_Links_CPT.php:216
+msgid "ThirstyAffiliates affiliate links"
+msgstr "ThirstyAffiliates partnerlänkar"
+
+#: Models/Affiliate_Links_CPT.php:205
+msgid "Add Affiliate Link"
+msgstr "Lägg till partnerlänk"
+
+#: Models/Affiliate_Links_CPT.php:211
+msgid "No Affiliate Links found in Trash"
+msgstr "Inga partnerlänkar hittades i papperskorgen"
+
+#: Models/Link_Picker.php:325
+msgid "No affiliate links found"
+msgstr "Inga partnerlänkar hittades"
+
+#: Models/Affiliate_Links_CPT.php:209
+msgid "Search Affiliate Links"
+msgstr "Sök partnerlänkar"
+
+#: Models/Affiliate_Links_CPT.php:204
+msgid "View Affiliate Link"
+msgstr "Visa partnerlänk"
+
+#: Models/Affiliate_Links_CPT.php:207
+msgid "Edit Affiliate Link"
+msgstr "Redigera partnerlänk"
+
+#: Models/Affiliate_Links_CPT.php:200
+#: js/app/gutenberg_support/src/formats/ta-link/index.js:24
+#: js/app/gutenberg_support/src/formats/ta-link/index.js:169
+msgid "Affiliate Link"
+msgstr "Partnerlänk"
+
+#: Models/Affiliate_Links_CPT.php:199 Models/Affiliate_Links_CPT.php:203
+#: Models/Affiliate_Links_CPT.php:215
+msgid "Affiliate Links"
+msgstr "Partnerlänkar"
+
+#: Models/Affiliate_Links_CPT.php:274
+msgid "Link Category"
+msgstr "Länkkategori"
+
+#: Models/Affiliate_Links_CPT.php:273 Models/Affiliate_Links_CPT.php:275
+#: views/linkpicker/quick-add-affiliate-link.php:74
+msgid "Link Categories"
+msgstr "Länkkategorier"
+
+#: Models/Shortcodes.php:264
+msgid "SHORTCODE ERROR: ThirstyAffiliates did not detect a valid link id, please check your short code!"
+msgstr "FEL I KORTKOD: ThirstyAffiliates upptäckte inte ett giltigt länk-id, kontrollera din kortkod!"
+
+#: Models/Settings.php:581
+msgid "Import Global Settings"
+msgstr "Importera globala inställningar"
+
+#: Models/Settings.php:1739
+msgid "Import Settings"
+msgstr "Importera inställningar"
+
+#: Models/Settings.php:512
+msgid "Allows you to add extra tags into the rel= attribute when links are inserted."
+msgstr "Gör att du kan lägga till extra taggar i rel= -attributet när länkar infogas."
+
+#: Models/Settings.php:329
+msgid "Hide the ThirstyAffiliates buttons on the Text editor."
+msgstr "Dölj ThirstyAffiliates-knapparna i textredigeraren."
+
+#: Models/Settings.php:328
+msgid "Disable buttons on the Text/Quicktags editor?"
+msgstr "Inaktivera knappar i text/snabbtagg-redigeraren?"
+
+#: Models/Settings.php:322
+msgid "Hide the ThirstyAffiliates buttons on the Visual editor."
+msgstr "Dölj knapparna ThirstyAffiliates i den visuella editorn."
+
+#: Models/Settings.php:321
+msgid "Disable buttons on the Visual editor?"
+msgstr "Inaktivera knappar i visuella editorn?"
+
+#: Models/Settings.php:467
+msgid "Open links in new window?"
+msgstr "Öppna länkar i nytt fönster?"
+
+#: Models/Settings.php:437
+msgid "This is the type of redirect ThirstyAffiliates will use to redirect the user to your affiliate link."
+msgstr "Det här är typen av omdirigering som ThirstyAffiliates kommer att använda för att skicka användaren till din partnerlänk."
+
+#: Models/Settings.php:314
+msgid "Disable \"uncategorized\" category on save?"
+msgstr "Inaktivera kategorin \"okategoriserad\" vid sparning?"
+
+#: views/reports/link-performance-report.php:15
+msgid "Custom"
+msgstr "Anpassad"
+
+#: views/linkpicker/advance-link-picker.php:35
+msgid "Fetching..."
+msgstr "Hämtar …"
+
+#: views/linkpicker/advance-link-picker.php:18
+msgid "Please enter 3 or more characters..."
+msgstr "Ange 3 eller fler tecken …"
+
+#: views/linkpicker/advance-link-picker.php:45
+msgid "Searching..."
+msgstr "Söker …"
+
+#: views/cpt/view-urls-metabox.php:33
+msgid "Category to show in slug:"
+msgstr "Kategori att visa i slug:"
+
+#: views/cpt/view-urls-metabox.php:19
+msgid "Edit slug"
+msgstr "Redigera slug"
+
+#: views/cpt/view-save-affiliate-link-metabox.php:10
+msgid "Delete Permanently"
+msgstr "Ta bort permanent"
+
+#: views/cpt/view-link-options-metabox.php:19
+#: views/linkpicker/quick-add-affiliate-link.php:63
+msgid "Open this link in new window?"
+msgstr "Öppna denna länk i nytt fönster?"
+
+#: Models/Settings.php:1626
+msgid "Migrating data. Please wait..."
+msgstr "Migrerar data. Vänta …"
+
+#: Models/Settings.php:583
+msgid "Paste settings string here..."
+msgstr "Klistra in inställningssträngen här …"
+
+#: Models/Settings.php:460 Models/Settings.php:482 Models/Settings.php:504
+#: Models/Settings.php:545
+msgid "Select category..."
+msgstr "Välj kategori …"
+
+#: Models/Script_Loader.php:240
+msgid "Start Tour"
+msgstr "Starta rundtur"

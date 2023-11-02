@@ -1,0 +1,1683 @@
+# Translation of Plugins - Easy Table of Contents - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Easy Table of Contents - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-03 09:04:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Easy Table of Contents - Stable (latest release)\n"
+
+#: includes/class.widget-toc-sticky.php:549
+msgid "Scroll Max Height"
+msgstr "捲動時的最高高度"
+
+#: includes/class.widget-toc-sticky.php:543
+msgid "Navigation Scroll Bar"
+msgstr "導覽捲動列"
+
+#: includes/class.widget-toc-sticky.php:529
+msgid "Fixed Top Position"
+msgstr "與頁面頂端的固定距離"
+
+#: includes/class.widget-toc-sticky.php:523
+#: includes/class.widget-toc-sticky.php:537
+#: includes/class.widget-toc-sticky.php:557
+msgid "none"
+msgstr "不設定單位"
+
+#: includes/class.widget-toc-sticky.php:522
+#: includes/class.widget-toc-sticky.php:536
+#: includes/class.widget-toc-sticky.php:556
+msgid "em"
+msgstr "em"
+
+#: includes/class.widget-toc-sticky.php:521
+#: includes/class.widget-toc-sticky.php:535
+#: includes/class.widget-toc-sticky.php:555
+msgid "%"
+msgstr "%"
+
+#: includes/class.widget-toc-sticky.php:520
+#: includes/class.widget-toc-sticky.php:534
+#: includes/class.widget-toc-sticky.php:554
+msgid "px"
+msgstr "px"
+
+#: includes/class.widget-toc-sticky.php:518
+#: includes/class.widget-toc-sticky.php:533
+#: includes/class.widget-toc-sticky.php:553
+msgid "pt"
+msgstr "pt"
+
+#: includes/class.widget-toc-sticky.php:514
+msgid "Sidebar Width"
+msgstr "資訊欄寬度"
+
+#: includes/class.widget-toc-sticky.php:509
+msgid "Scroll Fixed Position"
+msgstr "捲動時的固定位置"
+
+#: includes/class.widget-toc-sticky.php:504
+msgid "Advanced Options"
+msgstr "進階設定"
+
+#: includes/class.widget-toc-sticky.php:31
+msgid "Sticky Sidebar Table of Contents"
+msgstr "資訊欄固定位置內容目錄"
+
+#: easy-table-of-contents.php:985
+msgid "%s: Widget class not found. Make sure this widget exists and the class name is correct"
+msgstr "%s: 找不到小工具類別。請確定小工具存在且類別名稱正確。"
+
+#: includes/inc.admin-options-page.php:675
+msgid "Black Friday, Cyber Monday, Christmas &amp; New year are the only times we offer discounts this big."
+msgstr "我們只會在黑色星期五、網購星期一、聖誕節及元旦提供這種超值優惠。"
+
+#: includes/inc.admin-options-page.php:674
+msgid "Get This Offer Now"
+msgstr "立即取得這項優惠"
+
+#: includes/inc.admin-options-page.php:673
+msgid "Upgrade the PRO version during this festive season and get our biggest discount of all time on New Purchases, Renewals &amp; Upgrades"
+msgstr "在這個節慶季節升級至 PRO 版，無論是全新訂購、續訂或升級，都能獲得我們推出以來最大的折扣。"
+
+#: includes/inc.admin-options-page.php:672
+msgid "Easy TOC PRO"
+msgstr "Easy TOC PRO"
+
+#: includes/inc.admin-options-page.php:672
+msgid "40% OFF on"
+msgstr "6 折優惠 -"
+
+#: includes/inc.admin-options-page.php:667
+msgid "40% OFF - Limited Time Only"
+msgstr "6 折優惠 - 限時提供"
+
+#: includes/inc.admin-options-page.php:171
+msgid "Reset"
+msgstr "重設"
+
+#: includes/class.options.php:1678
+msgid "Security Alert: nonce not verified!"
+msgstr "安全性警告: 單次驗證碼未驗證。"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://tocwp.com/"
+msgstr "https://tocwp.com/"
+
+#: includes/inc.admin-options-page.php:653
+msgid "Contact a Human"
+msgstr "聯絡真人技術支援"
+
+#: includes/inc.admin-options-page.php:651
+msgid "All the plans are year-to-year which are subscribed annually."
+msgstr "全部方案均採年度約期授權。"
+
+#: includes/inc.admin-options-page.php:650
+msgid "I have other pre-sale questions, can you help?"
+msgstr "是否提供售前服務以解決某些疑問？"
+
+#: includes/inc.admin-options-page.php:644
+msgid "Yes, you will get updates for all the premium plugins until your subscription is active."
+msgstr "是。啟用約期授權後，付費外掛便會獲得後續更新。"
+
+#: includes/inc.admin-options-page.php:643
+msgid "Do I get updates for the premium plugin?"
+msgstr "付費外掛是否會獲得更新？"
+
+#: includes/inc.admin-options-page.php:640
+msgid "You are fully protected by our 100% Money-Back Guarantee Unconditional. If during the next 14 days you experience an issue that makes the plugin unusable, and we are unable to resolve it, we’ll happily offer a full refund."
+msgstr "使用者會受到我們提供的無條件全額退款的保障。如果在購買約期授權後 14 天內遇到問題導致外掛無法使用，且我們無法解決的話，我們非常樂意全額退款。"
+
+#: includes/inc.admin-options-page.php:639
+msgid "Do you offer refunds?"
+msgstr "購買約期授權後是否提供退款？"
+
+#: includes/inc.admin-options-page.php:636
+msgid "Yes. You can upgrade your plan by contacting us."
+msgstr "是。聯絡我們便可以升級方案。"
+
+#: includes/inc.admin-options-page.php:635
+msgid "Can I change my plan later on?"
+msgstr "是否可以在購買授權方案後變更方案？"
+
+#: includes/inc.admin-options-page.php:632
+msgid "Yes. You can cancel your membership by contacting us."
+msgstr "是。聯絡我們便可以取消約期授權。"
+
+#: includes/inc.admin-options-page.php:631
+msgid "Can I cancel my membership at any time?"
+msgstr "是否能隨時取消約期授權？"
+
+#: includes/inc.admin-options-page.php:624
+msgid "Yes, you can use the plugins, but you will not get future updates for those plugins."
+msgstr "是。約期授權到期後可以繼續使用這個外掛，但是無法獲得外掛的後續更新。"
+
+#: includes/inc.admin-options-page.php:623
+msgid "Can I use the plugins after my subscription is expired?"
+msgstr "約期授權到期後，是否能繼續使用這個外掛？"
+
+#: includes/inc.admin-options-page.php:620
+msgid "Yes! Top-notch customer support for our paid customers is key for a quality product, so we’ll do our very best to resolve any issues you encounter via our support page."
+msgstr "是。為付費客戶提供一流客戶技術支援，是優質產品的關鍵所在，因此我們會透過技術支援頁面，盡全力解決任何使用者遇到的問題。"
+
+#: includes/inc.admin-options-page.php:619
+msgid "Do you offer support if I need help?"
+msgstr "是否提供技術支援？"
+
+#: includes/inc.admin-options-page.php:616
+msgid "We accepts PayPal and Credit Card payments."
+msgstr "我們接受 PayPal 及信用卡付款。"
+
+#: includes/inc.admin-options-page.php:615
+msgid "What payment methods are accepted?"
+msgstr "接受哪些付款方式？"
+
+#: includes/inc.admin-options-page.php:612
+msgid "All the plans are year-to-year which are subscribed annually except for lifetime plan."
+msgstr "除了 Lifetime 方案之外，全部方案均採年度約期授權。"
+
+#: includes/inc.admin-options-page.php:611
+msgid "What's the time span for your contracts?"
+msgstr "每個約期授權方案的有效授權期限有多長？"
+
+#: includes/inc.admin-options-page.php:608
+msgid "No. There are no setup fees on any of our plans"
+msgstr "否。任何付費方案均不包含設定費用。"
+
+#: includes/inc.admin-options-page.php:607
+msgid "Is there a setup fee?"
+msgstr "是否包含設定費用？"
+
+#: includes/inc.admin-options-page.php:602
+msgid "Frequently Asked Questions"
+msgstr "常見問題集"
+
+#: includes/inc.admin-options-page.php:598
+msgid "Read The Reviews"
+msgstr "查看使用者評論"
+
+#: includes/inc.admin-options-page.php:596
+msgid "More than 300k Websites, Blogs &amp; E-Commerce shops are powered by our easy table of contents plugin making it the #1 Independent TOC plugin in WordPress."
+msgstr "超過 30 萬個網站、部落格及電子商務線上商店使用 Easy Table of Contents，讓這個外掛成為 WordPress 領域中首屈一指的內容目錄外掛。"
+
+#: includes/inc.admin-options-page.php:595
+msgid "Used by more than 3,00,000+ Users!"
+msgstr "超過 30 萬名使用者採用！"
+
+#: includes/inc.admin-options-page.php:586
+msgid "Lifetime License"
+msgstr "終身授權"
+
+#: includes/inc.admin-options-page.php:585
+msgid "Unlimited E-mail support"
+msgstr "不限次數電子郵件支援"
+
+#: includes/inc.admin-options-page.php:579
+msgid "LIFETIME"
+msgstr "LIFETIME"
+
+#: includes/inc.admin-options-page.php:572
+#: includes/inc.admin-options-page.php:587
+msgid "UNLIMITED"
+msgstr "極為節省"
+
+#: includes/inc.admin-options-page.php:570
+msgid "E-mail support"
+msgstr "電子郵件技術支援"
+
+#: includes/inc.admin-options-page.php:569
+#: includes/inc.admin-options-page.php:584
+msgid "Unlimited Sites"
+msgstr "不限數量網站授權"
+
+#: includes/inc.admin-options-page.php:567
+#: includes/inc.admin-options-page.php:582
+msgid "(Save $199)"
+msgstr "(節省美金 119 元)"
+
+#: includes/inc.admin-options-page.php:564
+msgid "AGENCY"
+msgstr "AGENCY"
+
+#: includes/inc.admin-options-page.php:557
+msgid "Save 90%"
+msgstr "節省 90%"
+
+#: includes/inc.admin-options-page.php:554
+msgid "25 Site License"
+msgstr "25 個網站授權"
+
+#: includes/inc.admin-options-page.php:552
+msgid "(Save $119)"
+msgstr "(節省美金 119 元)"
+
+#: includes/inc.admin-options-page.php:549
+msgid "FREELANCER"
+msgstr "FREELANCER"
+
+#: includes/inc.admin-options-page.php:542
+msgid "Save 83%"
+msgstr "節省 83%"
+
+#: includes/inc.admin-options-page.php:539
+msgid "10 Site License"
+msgstr "10 個網站授權"
+
+#: includes/inc.admin-options-page.php:537
+msgid "(Save $99)"
+msgstr "(節省美金 99 元)"
+
+#: includes/inc.admin-options-page.php:534
+msgid "WEBMASTER"
+msgstr "WEBMASTER"
+
+#: includes/inc.admin-options-page.php:528
+msgid "RECOMMENDED"
+msgstr "建議購買"
+
+#: includes/inc.admin-options-page.php:526
+msgid "Save 78%"
+msgstr "節省 78%"
+
+#: includes/inc.admin-options-page.php:523
+msgid "3 Site License"
+msgstr "3 個網站授權"
+
+#: includes/inc.admin-options-page.php:521
+msgid "(Save $79)"
+msgstr "(節省美金 79 元)"
+
+#: includes/inc.admin-options-page.php:518
+msgid "MULTIPLE"
+msgstr "MULTIPLE"
+
+#: includes/inc.admin-options-page.php:512
+#: includes/inc.admin-options-page.php:527
+#: includes/inc.admin-options-page.php:543
+#: includes/inc.admin-options-page.php:558
+#: includes/inc.admin-options-page.php:573
+#: includes/inc.admin-options-page.php:588
+msgid "Buy Now"
+msgstr "立即購買"
+
+#: includes/inc.admin-options-page.php:511
+msgid "Pro Features"
+msgstr "Pro 版功能"
+
+#: includes/inc.admin-options-page.php:510
+#: includes/inc.admin-options-page.php:525
+#: includes/inc.admin-options-page.php:541
+#: includes/inc.admin-options-page.php:556
+#: includes/inc.admin-options-page.php:571
+msgid "1 year Updates"
+msgstr "1 年期更新"
+
+#: includes/inc.admin-options-page.php:508
+msgid "1 Site License"
+msgstr "1 個網站授權"
+
+#: includes/inc.admin-options-page.php:507
+#: includes/inc.admin-options-page.php:522
+#: includes/inc.admin-options-page.php:538
+#: includes/inc.admin-options-page.php:553
+#: includes/inc.admin-options-page.php:568
+#: includes/inc.admin-options-page.php:583
+msgid "Billed Annually"
+msgstr "年度付款"
+
+#: includes/inc.admin-options-page.php:506
+msgid "(Save $59)"
+msgstr "(節省美金 59 元)"
+
+#: includes/inc.admin-options-page.php:503
+msgid "PERSONAL"
+msgstr "PERSONAL"
+
+#: includes/inc.admin-options-page.php:497
+msgid "Choose your plan and upgrade in minutes!"
+msgstr "選取適合的授權方案並快速升級！"
+
+#: includes/inc.admin-options-page.php:496
+msgid "Let's Upgrade Your Easy Table of Contents"
+msgstr "立即升級 Easy Table of Contents"
+
+#: includes/inc.admin-options-page.php:488
+msgid "Upgrade to Pro"
+msgstr "升級至 Pro 版"
+
+#: includes/inc.admin-options-page.php:484
+msgid "We create tutorials for every possible feature and keep it updated for you."
+msgstr "我們建立了適合大家的教學課程，並會持續更新相關內容。"
+
+#: includes/inc.admin-options-page.php:476
+msgid "We're continuously updating our premium features and releasing them."
+msgstr "我們會持續更新並發佈付費外掛的新功能。"
+
+#: includes/inc.admin-options-page.php:474
+msgid "Continuous Updates"
+msgstr "持續更新"
+
+#: includes/inc.admin-options-page.php:468
+msgid "Generates a table of contents with your existing setup and makes them AMP automatically."
+msgstr "使用現有的設定產生內容目錄，並自動使其與 AMP 相容。"
+
+#: includes/inc.admin-options-page.php:466
+msgid "Full AMP Support"
+msgstr "完整 AMP 支援"
+
+#: includes/inc.admin-options-page.php:458
+msgid "Users can faster find the content they want with sticky"
+msgstr "使用者可以透過固定位置內容目錄更快找到他們需要的內容。"
+
+#: includes/inc.admin-options-page.php:456
+msgid "Fixed/Sticky TOC"
+msgstr "固定式內容目錄"
+
+#: includes/inc.admin-options-page.php:431
+msgid "PRO"
+msgstr "PRO"
+
+#: includes/inc.admin-options-page.php:418
+msgid "FREE"
+msgstr "免費版"
+
+#: includes/inc.admin-options-page.php:379
+msgid "Support the innovation & development by upgrading to PRO "
+msgstr "透過升級至 Pro 版支持創新及開發工作"
+
+#: includes/inc.admin-options-page.php:378
+msgid "Delivering a good user experience means a lot to us, so we try our best to reply each and every question."
+msgstr "提供良好的使用者體驗對我們來說非常重要，因此我們會盡力回覆每個問題。"
+
+#: includes/inc.admin-options-page.php:369
+#: includes/inc.admin-options-page.php:375
+msgid "Developer"
+msgstr "開發者"
+
+#: includes/inc.admin-options-page.php:363
+msgid "Lead Dev"
+msgstr "首席開發者"
+
+#: includes/inc.admin-options-page.php:357
+msgid "We strive to provide the best TOC in the world."
+msgstr "我們致力於提供內容目錄最佳解決方案。"
+
+#: includes/inc.admin-options-page.php:356
+msgid "Vision & Mission"
+msgstr "願景及使命"
+
+#: includes/inc.admin-options-page.php:342
+msgid "Some Text or Element here "
+msgstr "在這裡加入文字內容或元素"
+
+#: includes/inc.admin-options-page.php:339
+msgid "Get this following code and paste into your theme\\'s function.php file:"
+msgstr "使用以下程式碼並在目前使用的佈景主題的 function.php 檔案中貼上:"
+
+#: includes/inc.admin-options-page.php:337
+msgid "Example: adding a span tag before the `Easy Table of Contents`"
+msgstr "範例: 在 Easy Table of Contents 產生的內容目錄前方加入 span 標籤"
+
+#: includes/inc.admin-options-page.php:332
+msgid "ez_toc_after_widget"
+msgstr "ez_toc_after_widget"
+
+#: includes/inc.admin-options-page.php:330
+msgid "ez_toc_after_widget_container"
+msgstr "ez_toc_after_widget_container"
+
+#: includes/inc.admin-options-page.php:327
+msgid "ez_toc_before_widget"
+msgstr "ez_toc_before_widget"
+
+#: includes/inc.admin-options-page.php:325
+msgid "ez_toc_before_widget_container"
+msgstr "ez_toc_before_widget_container"
+
+#: includes/inc.admin-options-page.php:322
+msgid "ez_toc_sticky_toggle_after"
+msgstr "ez_toc_sticky_toggle_after"
+
+#: includes/inc.admin-options-page.php:319
+msgid "ez_toc_sticky_toggle_before"
+msgstr "ez_toc_sticky_toggle_before"
+
+#: includes/inc.admin-options-page.php:316
+msgid "ez_toc_after"
+msgstr "ez_toc_after"
+
+#: includes/inc.admin-options-page.php:314
+msgid "ez_toc_before"
+msgstr "ez_toc_before"
+
+#: includes/inc.admin-options-page.php:312
+msgid "Actions:"
+msgstr "動作:"
+
+#: includes/inc.admin-options-page.php:310
+msgid "Developer can use these below hooks for customization of this plugin:"
+msgstr "開發者可以使用以下勾點自訂這個外掛:"
+
+#: includes/inc.admin-options-page.php:309
+msgid "Hooks"
+msgstr "勾點"
+
+#: includes/inc.admin-options-page.php:307
+msgid "This plugin has been designed for easiest way & best features for the users & also as well as for the developers, any developer follow the below advanced instructions:"
+msgstr "這個外掛是要為使用者及開發者提供最簡單的方法及優異的功能。如有需要，開發者可以依照以下進階指南進行額外處理:"
+
+#: includes/inc.admin-options-page.php:299
+msgid "Use the following shortcode within your content to have the table of contents display where you wish to:"
+msgstr "在內容中使用以下所列短代碼，便能在需要的位置插入內容目錄:"
+
+#: includes/inc.admin-options-page.php:295
+msgid " for more documentation of `Easy Table of Contents`"
+msgstr " 以進一步了解 Easy Table of Contents 的相關資訊。"
+
+#: includes/inc.admin-options-page.php:295
+msgid "More Documentation"
+msgstr "(更詳盡的線上說明)"
+
+#: includes/inc.admin-options-page.php:295
+msgid "You can visit this link "
+msgstr "使用者可以前往這個連結 "
+
+#: includes/inc.admin-options-page.php:294
+msgid "4. MORE DOCUMENTATION:"
+msgstr "4. 更詳盡的線上說明"
+
+#: includes/inc.admin-options-page.php:291
+msgid "You can also choose Custom Theme colors of `Easy Table of Contents`. according to your requirements"
+msgstr "可以依據需求選取內容目錄的自訂外觀樣式色彩。"
+
+#: includes/inc.admin-options-page.php:289
+msgid "You can also choose Theme color of `Easy Table of Contents` on Theme Options section according to your choice."
+msgstr "在 [外觀樣式選項] 中的 [外觀樣式] 可設定內容目錄的色彩。"
+
+#: includes/inc.admin-options-page.php:287
+msgid "You can also set Font Option of `Easy Table of Contents` according to your needs."
+msgstr "可以依據需求設定內容目錄的字型選項。"
+
+#: includes/inc.admin-options-page.php:285
+msgid "You can also choose Alignment of `Easy Table of Contents`."
+msgstr "內容目錄可設定對齊方式。"
+
+#: includes/inc.admin-options-page.php:283
+msgid "You can change width of `Easy Table of Contents` from select Fixed or Relative sizes or you select custom width then it will be showing custom width option for enter manually width."
+msgstr "內容目錄寬度可設定為固定寬度或相對寬度，或手動自訂寬度，讓內容目錄顯示手動設定的寬度。"
+
+#: includes/inc.admin-options-page.php:281
+msgid "Go to tab Settings &gt; Appearance for design customization."
+msgstr "前往 [設定]&rarr;[內容目錄外觀] 以自訂內容目錄外觀。"
+
+#: includes/inc.admin-options-page.php:278
+msgid "3. DESIGN CUSTOMIZATION"
+msgstr "3. 自訂內容目錄外觀"
+
+#: includes/inc.admin-options-page.php:276
+msgid "You have to choose post types on tab General &gt; Enable Support section then `Easy Table of Contents` editor options would be shown to choose settings for particular post type."
+msgstr "網站管理員必須在 [一般設定]&rarr;[需要啟用內容目錄的內容類型] 的區段中選取所需的內容類型，Easy Table of Contents 的相關設定才會在這些選取的內容類型的編輯器中供使用者設定。"
+
+#: includes/inc.admin-options-page.php:273
+msgid "Using Insert table of contents option on editor of any post type."
+msgstr "在任何內容類型的內容編輯器中使用內容目錄相關設定。"
+
+#: includes/inc.admin-options-page.php:271
+msgid "Using shortcode, you can copy shortcode and paste the shortcode on editor of any post type."
+msgstr "使用短代碼。使用者可以複製短代碼，並在任何內容類型的內容編輯器中貼上短代碼。"
+
+#: includes/inc.admin-options-page.php:268
+msgid "There are two ways for manual adding & display `Easy Table of Contents`:"
+msgstr "Easy Table of Contents 提供 2 個新增及顯示內容目錄的方式:"
+
+#: includes/inc.admin-options-page.php:267
+msgid "2. MANUALLY"
+msgstr "2. 手動插入內容目錄"
+
+#: includes/inc.admin-options-page.php:265
+msgid "After Auto Insert, the Position option for choosing where you want to display the `Easy Table of Contents`."
+msgstr "在 [需要自動插入內容目錄的內容類型] 下方的 [顯示位置] 設定中選取要顯示內容目錄的位置。"
+
+#: includes/inc.admin-options-page.php:261
+msgid "Go to the tab Settings &gt; General section, check Auto Insert"
+msgstr "前往 [設定]&rarr;[一般設定] 區段，啟用 [需要自動插入內容目錄的內容類型]。"
+
+#: includes/inc.admin-options-page.php:259
+msgid "1. AUTOMATICALLY"
+msgstr "1. 自動插入內容目錄"
+
+#: includes/inc.admin-options-page.php:258
+msgid "You can check how to use `Easy Table of Contents`, follow the basic details below."
+msgstr "請參考以下基本詳細步驟，便能了解 Easy Table of Contents 的使用方式。"
+
+#: includes/inc.admin-options-page.php:240
+msgid "( Avg Response within 48-72 hrs)"
+msgstr "(平均 48 至 72 小時內回覆)"
+
+#: includes/inc.admin-options-page.php:240
+msgid "Free"
+msgstr "免費"
+
+#: includes/inc.admin-options-page.php:237
+msgid "(Response within 24 hrs)"
+msgstr "(24 小時內回覆)"
+
+#: includes/inc.admin-options-page.php:237
+msgid "Paid"
+msgstr "付費"
+
+#: includes/inc.admin-options-page.php:236
+msgid "Select Customer Type"
+msgstr "選取客戶類型"
+
+#: includes/inc.admin-options-page.php:233
+msgid "Type"
+msgstr "客戶類型"
+
+#: includes/inc.admin-options-page.php:218
+msgid "Query"
+msgstr "問題"
+
+#: includes/inc.admin-options-page.php:213
+msgid "Enter your Email"
+msgstr "輸入電子郵件地址"
+
+#: includes/inc.admin-options-page.php:209
+msgid "Email"
+msgstr "電子郵件地址"
+
+#: includes/inc.admin-options-page.php:196
+#: includes/inc.admin-options-page.php:306
+msgid "Hooks (for Developers)"
+msgstr "勾點 (針對開發者)"
+
+#: includes/inc.admin-options-page.php:192
+#: includes/inc.admin-options-page.php:482
+msgid "Documentation"
+msgstr "線上說明"
+
+#: includes/inc.admin-options-page.php:185
+#: includes/inc.admin-options-page.php:257
+msgid "How to Use"
+msgstr "使用方式"
+
+#: includes/inc.admin-options-page.php:181
+#: includes/inc.admin-options-page.php:201
+msgid "Technical Support"
+msgstr "技術支援"
+
+#: includes/inc.admin-options-page.php:75
+#: includes/inc.admin-options-page.php:139
+#: includes/inc.admin-options-page.php:189
+#: includes/inc.admin-options-page.php:298
+msgid "Shortcode"
+msgstr "短代碼"
+
+#: includes/inc.admin-options-page.php:69
+msgid "No Thanks, I will stick with FREE version for now."
+msgstr "不用了，謝謝。我想繼續使用免費版本。"
+
+#: includes/inc.admin-options-page.php:63
+msgid "YES! I want to Support by UPGRADING."
+msgstr "好的，我想透過升級支持外掛開發工作"
+
+#: includes/inc.admin-options-page.php:60
+msgid "Please support us by Upgrading to Premium version."
+msgstr "請升級至 Premium 版以支持我們繼續開發外掛。"
+
+#: includes/inc.admin-options-page.php:59
+msgid "We strive to create the best TOC solution in WordPress. Our dedicated development team does continuous development and innovation to make sure we are able to meet your demand."
+msgstr "我們努力不懈的開發 WordPress 內容目錄最佳解決方案。我們專業的開發團隊不斷的開發外及創新，以符合使用者對我們的期待。"
+
+#: includes/inc.admin-options-page.php:58
+msgid "Thank YOU for using Easy Table of Content."
+msgstr "感謝採用 Easy Table of Contents！"
+
+#: includes/inc.admin-options-page.php:48
+msgid "License"
+msgstr "使用授權"
+
+#: includes/inc.admin-options-page.php:27
+msgid "Help & Support"
+msgstr "線上說明及技術支援"
+
+#: includes/inc.admin-options-page.php:23
+msgid "Free vs PRO"
+msgstr "版本比較"
+
+#: includes/inc.admin-options-page.php:9
+msgid "Welcome"
+msgstr "感謝使用"
+
+#: includes/class.options.php:837
+msgid "Urdu"
+msgstr "烏都文"
+
+#: includes/class.options.php:836
+msgid "Hangul Consonant"
+msgstr "韓文 (子音)"
+
+#: includes/class.options.php:835
+msgid "Hangul"
+msgstr "韓文"
+
+#: includes/class.options.php:834
+msgid "Traditional Chinese Informal"
+msgstr "繁體中文 (口語)"
+
+#: includes/class.options.php:833
+msgid "Traditional Chinese Formal"
+msgstr "繁體中文 (正式)"
+
+#: includes/class.options.php:832
+msgid "Tibetan"
+msgstr "藏文"
+
+#: includes/class.options.php:831
+msgid "Thai"
+msgstr "泰文"
+
+#: includes/class.options.php:830
+msgid "Telugu"
+msgstr "特拉古文"
+
+#: includes/class.options.php:829
+msgid "Tamil"
+msgstr "坦米爾文"
+
+#: includes/class.options.php:828
+msgid "Simplified Chinese Informal"
+msgstr "簡體中文 (口語)"
+
+#: includes/class.options.php:827
+msgid "Simplified Chinese Formal"
+msgstr "簡體中文 (正式)"
+
+#: includes/class.options.php:826
+msgid "Persian"
+msgstr "波斯文"
+
+#: includes/class.options.php:825
+msgid "Oriya"
+msgstr "歐利亞文"
+
+#: includes/class.options.php:824
+msgid "Myanmar"
+msgstr "緬甸"
+
+#: includes/class.options.php:823
+msgid "Mongolian"
+msgstr "蒙古文"
+
+#: includes/class.options.php:822
+msgid "Malayalam"
+msgstr "馬來亞拉姆文"
+
+#: includes/class.options.php:821
+msgid "Laotian"
+msgstr "寮文"
+
+#: includes/class.options.php:820
+msgid "Korean Hanja Informal"
+msgstr "韓國漢字 (口語)"
+
+#: includes/class.options.php:819
+msgid "Korean Hanja Formal"
+msgstr "韓國漢字 (正式)"
+
+#: includes/class.options.php:818
+msgid "Korean Hangul Formal"
+msgstr "韓國韓文 (正式)"
+
+#: includes/class.options.php:817
+msgid "Katakana-Iroha"
+msgstr "日文片假名 (伊呂波歌)"
+
+#: includes/class.options.php:816
+msgid "Katakana"
+msgstr "日文片假名"
+
+#: includes/class.options.php:815
+msgid "Kannada"
+msgstr "坎那達文"
+
+#: includes/class.options.php:814
+msgid "Japanese Informal"
+msgstr "日文 (口語)"
+
+#: includes/class.options.php:813
+msgid "Japanese Formal"
+msgstr "日文 (正式)"
+
+#: includes/class.options.php:812
+msgid "Hiragana-Iroha"
+msgstr "日文平假名 (伊呂波歌)"
+
+#: includes/class.options.php:811
+msgid "Hiragana"
+msgstr "日文平假名"
+
+#: includes/class.options.php:810
+msgid "Hebrew"
+msgstr "希伯來文"
+
+#: includes/class.options.php:809
+msgid "Gurmukhi"
+msgstr "果魯穆奇文"
+
+#: includes/class.options.php:808
+msgid "Gujarati"
+msgstr "古吉拉特文"
+
+#: includes/class.options.php:807
+msgid "Georgian"
+msgstr "喬治亞文"
+
+#: includes/class.options.php:806
+msgid "Ethiopic"
+msgstr "衣索比亞文"
+
+#: includes/class.options.php:805
+msgid "Hindi (Devanagari)"
+msgstr "印度文 (梵文字母)"
+
+#: includes/class.options.php:804
+msgid "CJK Ideographic/trad-chinese-informal"
+msgstr "中日韓表意字元/繁體中文 (口語)"
+
+#: includes/class.options.php:803
+msgid "Heavenly Stem"
+msgstr "天干"
+
+#: includes/class.options.php:802
+msgid "Cambodian/Khmer"
+msgstr "柬埔寨文/高棉文"
+
+#: includes/class.options.php:801
+msgid "Bengali"
+msgstr "孟加拉文"
+
+#: includes/class.options.php:800
+msgid "Arabic"
+msgstr "阿拉伯文"
+
+#: includes/class.options.php:799
+msgid "Lower Armenian"
+msgstr "小寫亞美尼亞文"
+
+#: includes/class.options.php:798
+msgid "Armenian"
+msgstr "亞美尼亞文"
+
+#: includes/class.options.php:797
+msgid "Lower Alpha/Latin"
+msgstr "小寫拉丁字元"
+
+#: includes/class.options.php:796
+msgid "Upper Alpha/Latin"
+msgstr "大寫拉丁字元"
+
+#: includes/class.options.php:795
+msgid "Lower Greek"
+msgstr "小寫希臘字母"
+
+#: includes/class.options.php:793
+msgid "Lower Roman"
+msgstr "小寫羅馬數字"
+
+#: includes/class.options.php:792
+msgid "Upper Roman"
+msgstr "大寫羅馬數字"
+
+#: includes/class.options.php:779
+msgid "CJK Decimal"
+msgstr "中日韓文小數"
+
+#: includes/class.options.php:778
+msgid "Decimal Leading Zero"
+msgstr "以零開頭小數"
+
+#: includes/class.options.php:763
+msgid "Disclosure Closed"
+msgstr "向右箭號"
+
+#: includes/class.options.php:762
+msgid "Disclosure Open"
+msgstr "向下箭號"
+
+#: includes/class.options.php:761
+msgid "Earthly Branch"
+msgstr "地支"
+
+#: includes/class.options.php:759
+msgid "Square"
+msgstr "正方形"
+
+#: includes/class.options.php:758
+msgid "Circle"
+msgstr "圓圈"
+
+#: includes/class.options.php:723
+msgid "You can add `Easy Table of Contents` without using shortcode from `Auto Insert` option in General Setting so then there is no need to add shortcode while post, page or any post type editing."
+msgstr "請在 [一般設定] 的 [需要自動插入內容目錄的內容類型] 進行設定，便可以在不須插入短代碼的狀況下，在文章、頁面或任何內容類型中加入內容目錄。"
+
+#: includes/class.options.php:694
+msgid "You can use the following shortcode to `Easy Table of Contents` display in your particular post or page:<br/><input type=\"text\" id=\"ez-toc-clipboard-apply\" value=\"[ez-toc]\" disabled />&nbsp;<span class=\"ez-toc-tooltip\"><button type=\"button\"  onclick=\"ez_toc_clipboard('ez-toc-clipboard-apply', 'ez-toc-myTooltip', this, event)\" onmouseout=\"ez_toc_outFunc('ez-toc-myTooltip', this, event)\"><span class=\"ez-toc-tooltiptext ez-toc-myTooltip\">Copy to clipboard</span>Copy shortcode  </button></span>"
+msgstr "請使用以下短代碼將 Easy Table of Contents 提供的內容目錄顯示於指定的文章或頁面:<br/><input type=\"text\" id=\"ez-toc-clipboard-apply\" value=\"[ez-toc]\" disabled />&nbsp;<span class=\"ez-toc-tooltip\"><button type=\"button\" onclick=\"ez_toc_clipboard('ez-toc-clipboard-apply', 'ez-toc-myTooltip', this, event)\" onmouseout=\"ez_toc_outFunc('ez-toc-myTooltip', this, event)\"><span class=\"ez-toc-tooltiptext ez-toc-myTooltip\">複製到剪貼簿</span>複製短代碼</button></span>"
+
+#: includes/class.options.php:693
+msgid "Manual Adding the shortcode"
+msgstr "手動加入短代碼"
+
+#: includes/class.options.php:545
+msgid "Right to Left (RTL)"
+msgstr "從右至左 (RTL)"
+
+#: includes/class.options.php:544
+msgid "Left to Right (LTR)"
+msgstr "從左至右 (LTR)"
+
+#: includes/class.options.php:540
+msgid "Heading Text Direction"
+msgstr "標題文字方向"
+
+#: includes/class.options.php:345
+msgid "Enter sticky toggle open button text here.."
+msgstr "請輸入開闔式固定位置內容目錄開啟按鈕文字..."
+
+#: includes/class.options.php:341
+msgid "Open Button Text"
+msgstr "[開啟] 按鈕文字"
+
+#: includes/class.options.php:337
+msgid "Enter sticky toggle custom height here.."
+msgstr "請輸入開闔式固定位置內容目錄高度..."
+
+#: includes/class.options.php:333
+msgid "Custom Height"
+msgstr "自訂高度"
+
+#: includes/class.options.php:322
+msgid "Height"
+msgstr "高度"
+
+#: includes/class.options.php:318
+msgid "Enter sticky toggle custom width here.."
+msgstr "請輸入開闔式固定位置內容目錄寬度..."
+
+#: includes/class.options.php:307 includes/class.options.php:326
+msgid "Auto"
+msgstr "自動"
+
+#: includes/class.options.php:296
+msgid "On/Off"
+msgstr "啟用/停用"
+
+#: includes/class.options.php:286
+msgid "Sticky Toggle Options"
+msgstr "開闔式固定位置內容目錄選項"
+
+#: includes/class.options.php:193
+msgid "After first paragraph"
+msgstr "內文第一個段落後"
+
+#: includes/newsletter.php:81
+msgid "No Thanks"
+msgstr "不用了，謝謝"
+
+#: includes/newsletter.php:45
+msgid "before others and some best resources on Easy TOC in a single email? - Free just for users of Easy TOC!"
+msgstr "發佈更新，並且取得 Easy Table of Contents 的最佳資源？僅有 Easy Table of Contents 使用者可以取得。"
+
+#: includes/newsletter.php:45
+msgid " Easy TOC "
+msgstr " Easy Table of Contents "
+
+#: includes/newsletter.php:45
+msgid "Do you want the latest update on"
+msgstr "你是否想要透過電子郵件，好比別人更早知道"
+
+#: includes/newsletter.php:44
+msgid "Thank You for using Easy TOC!"
+msgstr "感謝採用 Easy Table of Contents！"
+
+#: includes/deactivate-feedback.php:34
+msgid "Don't deactivate"
+msgstr "繼續使用"
+
+#: includes/deactivate-feedback.php:33
+msgid "Only Deactivate"
+msgstr "僅停用"
+
+#: includes/deactivate-feedback.php:32
+msgid "Submit & Deactivate"
+msgstr "送出並停用"
+
+#: includes/deactivate-feedback.php:21
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "如果願意，煩請告知停用外掛的原因:"
+
+#: includes/deactivate-feedback.php:12
+msgid "Please specify, if possible"
+msgstr "如果願意的話，請具體說明原因"
+
+#: includes/deactivate-feedback.php:11
+msgid "Other reason"
+msgstr "其他原因"
+
+#: includes/deactivate-feedback.php:9
+msgid "I switched to another plugin"
+msgstr "改為採用其他外掛"
+
+#: includes/deactivate-feedback.php:8
+msgid "Can we help? Please describe your problem"
+msgstr "請說明發生的問題，我們可以提供協助。"
+
+#: includes/deactivate-feedback.php:7
+msgid "Technical Issue"
+msgstr "技術性問題"
+
+#: includes/deactivate-feedback.php:5
+msgid "I miss a feature"
+msgstr "缺少想要的功能"
+
+#: includes/deactivate-feedback.php:4
+msgid "I stopped showing TOC on my site"
+msgstr "這個網站的內容不再需要顯示內容目錄"
+
+#: includes/deactivate-feedback.php:3
+msgid "It is only temporary"
+msgstr "暫時停用"
+
+#: includes/class.options.php:674
+msgid "Remove ':' from TOC Title"
+msgstr "從內容目錄標題中移除 <code>:</code>"
+
+#: includes/class.post.php:1321
+msgid "Table of Content"
+msgstr "內容目錄"
+
+#: includes/class.options.php:585
+msgid "Improve your  website performance by inlining your CSS."
+msgstr "透過內嵌 CSS 改善網站效能"
+
+#: includes/class.options.php:584
+msgid "Inline CSS"
+msgstr "內嵌 CSS"
+
+#: includes/class.options.php:471
+msgid "Theme Options"
+msgstr "外觀樣式選項"
+
+#: includes/class.options.php:464
+msgid "Child Font Size"
+msgstr "子字型大小"
+
+#: includes/class.options.php:426
+msgid "Font Option"
+msgstr "字型選項"
+
+#: includes/class.options.php:760
+msgid "Hyphen"
+msgstr "連字號"
+
+#: includes/class.options.php:757
+msgid "Disc"
+msgstr "圓點"
+
+#: includes/inc.admin-options-page.php:449
+msgid "Easily create TOC in Elementor with the widget without the need any coding or shortcode."
+msgstr "不需要任何編寫程式碼的能力或使用短代碼，直接使用 Elementor 小工具輕鬆建立內容目錄。"
+
+#: includes/inc.admin-options-page.php:447
+msgid "Elementor Widget"
+msgstr "Elementor 小工具"
+
+#: includes/inc.admin-options-page.php:441
+msgid "Easily create TOC in Gutenberg block without the need any coding or shortcode."
+msgstr "不需要任何編寫程式碼的能力或使用短代碼，直接使用區塊編輯器區塊輕鬆建立內容目錄。"
+
+#: includes/inc.admin-options-page.php:439
+msgid "Gutenberg Block"
+msgstr "區塊編輯器區塊"
+
+#: includes/inc.admin-options-page.php:433
+msgid "Everything in Free, and:"
+msgstr "免費版的全部功能，再加上以下功能:"
+
+#: includes/inc.admin-options-page.php:426
+msgid "We're constantly expanding the plugin and make it more useful. We have wide variety of features which will fit any use-case."
+msgstr "我們不斷擴充外掛功能，並讓它更加實用。"
+
+#: includes/inc.admin-options-page.php:425
+msgid "50+ Features"
+msgstr "超過 50 個功能"
+
+#: includes/inc.admin-options-page.php:422
+msgid "We take bug reports and feature requests seriously. We’re continiously developing &amp; improve this product for last 2 years with passion and love."
+msgstr "我們認真審視程式碼錯誤報告及功能要求。我們這 2 年一直用熱情及真心持續開發並改進這個產品。"
+
+#: includes/inc.admin-options-page.php:421
+msgid "Continious Development"
+msgstr "持續開發"
+
+#: includes/inc.admin-options-page.php:414
+msgid "See what you'll get with the professional version"
+msgstr "了解 Pro 版提供的功能"
+
+#: includes/inc.admin-options-page.php:413
+msgid "Compare Pro vs. Free Version"
+msgstr "版本比較"
+
+#: includes/inc.admin-options-page.php:408
+msgid "Get private ticketing help from our full-time technical staff & developers who helps you with the technical issues."
+msgstr "付費版使用者可以從我們全職技術人員及開發者處，獲得解決技術問題的說明。"
+
+#: includes/inc.admin-options-page.php:407
+#: includes/inc.admin-options-page.php:509
+#: includes/inc.admin-options-page.php:524
+#: includes/inc.admin-options-page.php:540
+#: includes/inc.admin-options-page.php:555
+msgid "Tech Support"
+msgstr "技術支援"
+
+#: includes/inc.admin-options-page.php:404
+msgid "We are planning to continiously build premium features and release them. We have a roadmap and we listen to our customers to turn their feedback into reality."
+msgstr "我們計畫持續開發及發佈付費版功能。我們會依照開發藍圖繼續開發，並聆聽使用者的意見回覆，並實現這些意見回覆中的要求。"
+
+#: includes/inc.admin-options-page.php:403
+msgid "Continuous Innovation"
+msgstr "持續創新"
+
+#: includes/inc.admin-options-page.php:400
+msgid "Easy TOC Pro will enhances your website table of contents and takes it to a next level to help you reach more engagement and personalization with your users."
+msgstr "Easy TOC Pro 能加強網站內容目錄功能，並讓這個功能更上一層樓，協助網站與使用者得到更多參與度及個人化。"
+
+#: includes/inc.admin-options-page.php:399
+msgid "Premium Features"
+msgstr "付費版本功能"
+
+#: includes/inc.admin-options-page.php:394
+msgid "Purchase Now"
+msgstr "立即購買"
+
+#: includes/inc.admin-options-page.php:393
+msgid "Take your Table of Contents to the NEXT Level!"
+msgstr "讓內容目錄的功能更上一層樓！"
+
+#: includes/inc.admin-options-page.php:392
+msgid "UPGRADE to PRO Version"
+msgstr "升級至 Pro 版"
+
+#: includes/inc.admin-options-page.php:247
+msgid "Send Support Request"
+msgstr "傳送技術支援要求"
+
+#: includes/inc.admin-options-page.php:203
+msgid "You can also contact us from "
+msgstr "也可以透過右列網址聯絡我們，網址: "
+
+#: includes/inc.admin-options-page.php:202
+msgid "We are dedicated to provide Technical support & Help to our users. Use the below form for sending your questions."
+msgstr "我們致力於為使用者提供技術支援及協助，請使用以下表單傳送問題。"
+
+#: includes/inc.admin-options-page.php:155
+msgid "PRO Settings"
+msgstr "Pro 版設定"
+
+#: includes/class.options.php:420
+msgid "Center"
+msgstr "置中對齊"
+
+#: includes/class.options.php:413
+msgid "Alignment"
+msgstr "對齊方式"
+
+#: includes/class.options.php:279
+msgid "Pure CSS"
+msgstr "Pure CSS"
+
+#: includes/class.options.php:278
+msgid "JavaScript (default)"
+msgstr "JavaScript (預設)"
+
+#: includes/class.options.php:274
+msgid "TOC Loading Method"
+msgstr "內容目錄載入方法"
+
+#: includes/class.admin.php:82
+msgid " Website"
+msgstr " 官方網站"
+
+#: includes/class.admin.php:81
+msgid " Upgrade"
+msgstr " 升級"
+
+#: includes/class.admin.php:80
+msgid " Support"
+msgstr " 技術支援"
+
+#: includes/inc.admin-options-page.php:252
+msgid "Message not sent. please check your network connection"
+msgstr "訊息未傳送。請檢查網站的網路連線。"
+
+#: includes/inc.admin-options-page.php:251
+msgid "Message sent successfully, Please wait we will get back to you shortly"
+msgstr "訊息已成功傳送，我們會儘快回覆，請耐心等候。"
+
+#. Author of the plugin
+msgid "Magazine3"
+msgstr "Magazine3"
+
+#: includes/class.options.php:642
+msgid "This provides the same function as the Smooth Scroll Offset option above but applied when the user is visiting your site on a mobile device."
+msgstr "這項設定與 [平滑捲動偏移量] 相同，但設定值僅會套用至行動版網站。"
+
+#: includes/class.options.php:641
+msgid "Mobile Smooth Scroll Offset"
+msgstr "行動版平滑捲動偏移量"
+
+#: includes/class.options.php:451
+msgid "Heavy"
+msgstr "超粗體"
+
+#: includes/class.options.php:450
+msgid "Extra Bold"
+msgstr "特粗體"
+
+#: includes/class.options.php:449
+msgid "Bold"
+msgstr "粗體"
+
+#: includes/class.options.php:448
+msgid "Semi Bold"
+msgstr "半粗體"
+
+#: includes/class.options.php:447
+msgid "Medium"
+msgstr "中型"
+
+#: includes/class.options.php:446
+msgid "Normal"
+msgstr "標準"
+
+#: includes/class.options.php:445
+msgid "Light"
+msgstr "細體"
+
+#: includes/class.options.php:444
+msgid "Extra Light"
+msgstr "特細體"
+
+#: includes/class.options.php:443
+msgid "Thin"
+msgstr "超細體"
+
+#: includes/class.options.php:439
+msgid "Title Font Weight"
+msgstr "標題字型粗細"
+
+#: includes/class.options.php:432
+msgid "Title Font Size"
+msgstr "標題字型大小"
+
+#. Description of the plugin
+msgid "Adds a user friendly and fully automatic way to create and display a table of contents generated from the page content."
+msgstr "使用全自動及對使用者便利的方式，從頁面/文章的內容中產生並顯示內容目錄。"
+
+#. Plugin Name of the plugin
+msgid "Easy Table of Contents"
+msgstr "Easy Table of Contents"
+
+#: includes/inc.admin-options-page.php:75
+#: includes/inc.admin-options-page.php:120
+msgid "Advanced"
+msgstr "進階設定"
+
+#: includes/inc.admin-options-page.php:75
+#: includes/inc.admin-options-page.php:101
+msgid "Appearance"
+msgstr "內容目錄外觀"
+
+#: includes/inc.admin-options-page.php:75
+#: includes/inc.admin-options-page.php:83
+msgid "General"
+msgstr "一般設定"
+
+#: includes/class.widget-toc.php:377
+msgid "If you choose to affix the widget, do not add any other widgets on the sidebar. Also, make sure you have only one instance Table of Contents widget on the page."
+msgstr "如果要將 [內容目錄] 小工具釘選在資訊欄上的固定位置，請不要在同一個資訊欄使用其他小工具，且同一個頁面中只能有一個 [內容目錄] 小工具執行實體。"
+
+#: includes/class.widget-toc.php:373
+msgid "Affix or pin the widget."
+msgstr "將小工具釘選在資訊欄上的固定位置"
+
+#: includes/class.widget-toc-sticky.php:499 includes/class.widget-toc.php:365
+msgid "Active Section Highlight Color:"
+msgstr "閱讀區域醒目提示色彩:"
+
+#: includes/class.widget-toc-sticky.php:492 includes/class.widget-toc.php:358
+msgid "Title"
+msgstr "標題"
+
+#: includes/class.widget-toc-sticky.php:26 includes/class.widget-toc.php:22
+msgid "Display the table of contents."
+msgstr "用來顯示內容目錄的小工具。"
+
+#: includes/class.options.php:1087
+msgid "The callback function used for the <strong>%s</strong> setting is missing."
+msgstr "遺漏用於 <strong>%s</strong> 設定的回呼函式。"
+
+#: includes/class.options.php:668
+msgid "Eg: .widget-area or #sidebar"
+msgstr "範例: <code>.widget-area</code> 或 <code>#sidebar</code>"
+
+#: includes/class.options.php:667
+msgid "Since every theme is different, this can not be determined automatically. If you are unsure how to find the sidebar's class or id, please ask the theme's support persons."
+msgstr "由於每個佈景主題的 CSS 樣式不盡相同，因此這個外掛無法自動偵測所需資訊。如果不了解如何找到目前使用的佈景主題的資訊欄 class 或 id，請聯絡佈景主題開發者。"
+
+#: includes/class.options.php:666
+msgid "To enable the option to affix or pin the Table of Contents widget enter the theme's sidebar class or id."
+msgstr "如需啟用這項功能，請輸入使用中的佈景主題的資訊欄 CSS 的 class 或 id，便能將 [內容目錄] 小工具釘選在資訊欄上的固定位置。"
+
+#: includes/class.options.php:665
+msgid "Widget Affix Selector"
+msgstr "小工具釘選選擇器"
+
+#: includes/class.options.php:659
+msgid "Eg: i, toc_index, index, _"
+msgstr "範例: <code>i</code>、<code>toc_index</code>、<code>index</code>、<code>_</code>"
+
+#: includes/class.options.php:658
+msgid "This option normally applies to content written in character sets other than ASCII."
+msgstr "這項設定會自動套用至<code>不是</code>以 ASCII 字元集撰寫的網站內容。"
+
+#: includes/class.options.php:657
+msgid "Anchor targets are restricted to alphanumeric characters as per HTML specification (see readme for more detail). The default anchor prefix will be used when no characters qualify. When left blank, a number will be used instead."
+msgstr "這個外掛所產生的錨點目標遵循 HTML 規範，因此只能使用數字或英文字母 (參閱 Readme 以進一步了解)。如果標題中不包含字母可用字元，便會使用預設錨點前置詞；如果欄位留空，則會使用數字作為錨點前置詞。"
+
+#: includes/class.options.php:656
+msgid "Default Anchor Prefix"
+msgstr "預設錨點前置詞"
+
+#: includes/class.options.php:651
+msgid "Eg: /wiki/, /corporate/annual-reports/"
+msgstr "範例: <code>/wiki/</code>、<code>/corporate/annual-reports/</code>"
+
+#: includes/class.options.php:650
+msgid "Restrict generation of the table of contents to pages that match the required path. This path is from the root of your site and always begins with a forward slash."
+msgstr "僅有符合上方設定欄位中指定路徑的頁面，才會產生內容目錄；指定路徑從網站根目錄起始，且必須以斜線 <code>/</code> 開始。"
+
+#: includes/class.options.php:649
+msgid "Limit Path"
+msgstr "限制路徑"
+
+#: includes/class.options.php:634
+msgid "If you have a consistent menu across the top of your site, you can adjust the top offset to stop the headings from appearing underneath the top menu. A setting of 30 accommodates the WordPress admin bar. This setting only has an effect after you have enabled Smooth Scroll option."
+msgstr "如果網站最上方有固定選單，調整偏移量便能防止內容標題顯示黏附於選單下面。建議值 30 可容納 WordPress 管理選單。在上方啟用 [平滑捲動] 後，這項設定才會生效。"
+
+#: includes/class.options.php:633
+msgid "Smooth Scroll Offset"
+msgstr "平滑捲動偏移量"
+
+#: includes/class.options.php:578
+msgid "Prevent the loading the core CSS styles. When selected, the appearance options from above will be ignored."
+msgstr "防止載入這個外掛的 CSS 樣式。啟用這項設定後，上方的 [內容目錄外觀] 中的設定均不會生效"
+
+#: includes/class.options.php:577
+msgid "CSS"
+msgstr "停用 CSS"
+
+#: includes/class.options.php:571
+msgid "Show the table of contents for qualifying items on the homepage."
+msgstr "啟用這項設定後，首頁中符合條件的項目便會顯示為內容目錄"
+
+#: includes/class.options.php:570
+msgid "Homepage"
+msgstr "首頁顯示內容目錄"
+
+#: includes/class.options.php:564
+msgid "Use - rather than _ in anchors."
+msgstr "啟用這項設定後，在錨點中會使用連字號 <code>-</code>，而不使用底線 <code>_</code>"
+
+#: includes/class.options.php:563
+msgid "Hyphenate"
+msgstr "使用連字號"
+
+#: includes/class.options.php:557
+msgid "Ensure anchors are in lowercase."
+msgstr "啟用這項設定後，便能確保全部錨點為小寫"
+
+#: includes/class.options.php:556
+msgid "Lowercase"
+msgstr "錨點小寫"
+
+#: includes/class.options.php:533
+msgid "Link Visited Color"
+msgstr "已點擊連結色彩"
+
+#: includes/class.options.php:526
+msgid "Link Hover Color"
+msgstr "游標暫留連結色彩"
+
+#: includes/class.options.php:519
+msgid "Link Color"
+msgstr "連結色彩"
+
+#: includes/class.options.php:512
+msgid "Title Color"
+msgstr "標題色彩"
+
+#: includes/class.options.php:505
+msgid "Border Color"
+msgstr "框線色彩"
+
+#: includes/class.options.php:498
+msgid "Background Color"
+msgstr "背景色彩"
+
+#: includes/class.options.php:493
+msgid "For the following settings to apply, select the Custom Theme option."
+msgstr "請先將 [外觀樣式] 設定為 [自訂]，以下設定才會生效。"
+
+#: includes/class.options.php:492
+msgid "Custom Theme"
+msgstr "自訂外觀樣式"
+
+#: includes/class.options.php:485
+msgid "Transparent"
+msgstr "透明"
+
+#: includes/class.options.php:484
+msgid "Black"
+msgstr "黑色"
+
+#: includes/class.options.php:483
+msgid "White"
+msgstr "白色"
+
+#: includes/class.options.php:482
+msgid "Light Blue"
+msgstr "淺藍色"
+
+#: includes/class.options.php:481
+msgid "Grey"
+msgstr "灰色"
+
+#: includes/class.options.php:478
+msgid "The theme is only applied to the table of contents which is auto inserted into the post. The Table of Contents widget will inherit the theme widget styles."
+msgstr "外觀樣式僅會套用至已自動插入內容目錄的內容類型，而 [內容目錄] 小工具的樣式則會繼承目前使用的佈景主題的小工具樣式。"
+
+#: includes/class.options.php:477
+msgid "Theme"
+msgstr "外觀樣式"
+
+#: includes/class.options.php:457
+msgid "Font Size"
+msgstr "字型大小"
+
+#: includes/class.options.php:419
+msgid "Right"
+msgstr "靠右對齊"
+
+#: includes/class.options.php:418
+msgid "Left"
+msgstr "靠左對齊"
+
+#: includes/class.options.php:417
+msgid "None (Default)"
+msgstr "無 (預設)"
+
+#: includes/class.options.php:407
+msgid "Select the User Defined option from the Width option to utilitze the custom width."
+msgstr "<br/>在上方 [寬度] 下拉式選單中選取 [使用者自訂] 後，這項設定才會生效。"
+
+#: includes/class.options.php:314 includes/class.options.php:406
+msgid "Custom Width"
+msgstr "自訂寬度"
+
+#: includes/class.options.php:308 includes/class.options.php:327
+#: includes/class.options.php:398
+msgid "User Defined"
+msgstr "使用者自訂"
+
+#: includes/class.options.php:396 includes/class.options.php:486
+msgid "Custom"
+msgstr "自訂"
+
+#: includes/class.options.php:384
+msgid "Relative"
+msgstr "相對寬度"
+
+#: includes/class.options.php:370
+msgid "Fixed"
+msgstr "固定寬度"
+
+#: includes/class.options.php:303 includes/class.options.php:365
+msgid "Width"
+msgstr "寬度"
+
+#: includes/class.options.php:267
+msgid "Smooth Scroll"
+msgstr "平滑捲動"
+
+#: includes/class.options.php:756
+msgid "None"
+msgstr "無"
+
+#: includes/class.options.php:764
+msgid "Numeric"
+msgstr "整數"
+
+#: includes/class.options.php:777
+msgid "Decimal (default)"
+msgstr "小數 (預設)"
+
+#: includes/class.options.php:259
+msgid "Counter"
+msgstr "標題層級編號"
+
+#: includes/class.options.php:252
+msgid "Show as Hierarchy"
+msgstr "顯示內容目錄層級"
+
+#: includes/class.options.php:246
+msgid "Initially hide the table of contents."
+msgstr "預設隱藏內容目錄"
+
+#: includes/class.options.php:245
+msgid "Initial View"
+msgstr "預設顯示方式"
+
+#: includes/class.options.php:225
+msgid "Allow the user to toggle the visibility of the table of contents."
+msgstr "開放使用者切換顯示/隱藏內容目錄"
+
+#: includes/class.options.php:224
+msgid "Toggle View"
+msgstr "顯示/隱藏內容目錄"
+
+#: includes/class.options.php:220
+msgid "Contents"
+msgstr "內容目錄"
+
+#: includes/class.options.php:218
+msgid "Eg: Contents, Table of Contents, Page Contents"
+msgstr "範例: 內容、內容目錄、頁面內容"
+
+#: includes/class.options.php:217
+msgid "Header Label"
+msgstr "標題標籤"
+
+#: includes/class.options.php:211
+msgid "Show header text above the table of contents."
+msgstr "在內容目錄上方顯示標題標籤"
+
+#: includes/class.options.php:210
+msgid "Display Header Label"
+msgstr "顯示標題標籤"
+
+#: includes/class.options.php:203
+msgid "or more headings are present"
+msgstr "個 (含) 以上的標題在內文中出現時"
+
+#: includes/class.options.php:202
+msgid "Show when"
+msgstr "顯示條件"
+
+#: includes/class.options.php:195
+msgid "Bottom"
+msgstr "內文最下方"
+
+#: includes/class.options.php:194
+msgid "Top"
+msgstr "內文最上方"
+
+#: includes/class.options.php:192
+msgid "After first heading"
+msgstr "內文第一個標題後"
+
+#: includes/class.options.php:191
+msgid "Before first heading (default)"
+msgstr "內文第一個標題前 (預設)"
+
+#: includes/class.options.php:188
+msgid "Choose where where you want to display the table of contents."
+msgstr "<br/>設定內容目錄的顯示位置。"
+
+#: includes/class.options.php:187
+msgid "Position"
+msgstr "顯示位置"
+
+#: includes/class.options.php:180 includes/inc.admin-options-page.php:264
+msgid "NOTE: The table of contents will only be automatically inserted on post types for which it has been enabled."
+msgstr "注意事項: 內容目錄僅會自動插入至已啟用內容目錄功能的內容類型。"
+
+#: includes/class.options.php:179 includes/inc.admin-options-page.php:263
+msgid "Select the post types which will have the table of contents automatically inserted."
+msgstr "在上方選取的內容類型會自動插入內容目錄。"
+
+#: includes/class.options.php:178 includes/class.options.php:722
+msgid "Auto Insert"
+msgstr "需要自動插入內容目錄的內容類型"
+
+#: includes/class.options.php:171
+msgid "Select the post types to enable the support for table of contents."
+msgstr "在上方選取的內容類型會自動啟用內容目錄功能。"
+
+#: includes/class.options.php:170
+msgid "Enable Support"
+msgstr "需要啟用內容目錄的內容類型"
+
+#: includes/class.admin.php:472 includes/class.options.php:628
+msgid "<strong>Note:</strong> This is not case sensitive."
+msgstr "<strong>注意:</strong> 字元<strong>不</strong>區分大小寫。"
+
+#: includes/class.admin.php:470 includes/class.options.php:626
+msgid "<code>Apple Tree|Oranges|Yellow Bananas</code> Ignore headings that are exactly \"Apple Tree\", \"Oranges\" or \"Yellow Bananas\"."
+msgstr "<code>蘋果樹|橘子|香蕉</code> 內容目錄會排除與<strong>「蘋果樹」</strong>、<strong>「橘子」</strong>或<strong>「香蕉」</strong>完全相符的標題"
+
+#: includes/class.admin.php:469 includes/class.options.php:625
+msgid "<code>*Fruit Diet*</code> Ignore headings with \"Fruit Diet\" somewhere in the heading."
+msgstr "<code>*水果飲食*</code> 內容目錄會排除文字中包含<strong>「水果飲食」</strong>的標題"
+
+#: includes/class.admin.php:468 includes/class.options.php:624
+msgid "<code>Fruit*</code> Ignore headings starting with \"Fruit\"."
+msgstr "<code>水果*</code> 內容目錄會排除以<strong>「水果」</strong>開頭的標題"
+
+#: includes/class.admin.php:449 includes/class.options.php:614
+msgid "Specify headings to be excluded from appearing in the table of contents. Separate multiple headings with a pipe <code>|</code>. Use an asterisk <code>*</code> as a wildcard to match other text."
+msgstr "這項設定能指定要在內容目錄中排除的標題。如有多個標題需要排除，請以直立線符號 (豎線) <code>|</code> 分隔。<br/>排除標題時使用星號 <code>*</code> 作為萬用字元，便能排除更多條件相符的標題。"
+
+#: includes/class.admin.php:443 includes/class.options.php:613
+msgid "Exclude Headings"
+msgstr "排除的標題"
+
+#: includes/class.admin.php:436
+msgid "<strong>Note:</strong> This is case sensitive."
+msgstr "<strong>注意事項:</strong> 字元區分大小寫。"
+
+#: includes/class.admin.php:434
+msgid "<code>Level [1.1]|Alternate TOC Header</code> Replaces Level [1.1] in the table of contents with Alternate TOC Header."
+msgstr "<code>神奇寶貝|寶可夢</code> 內容目錄會以替代標題「寶可夢」取代原始標題「神奇寶貝」"
+
+#: includes/class.admin.php:432 includes/class.admin.php:466
+#: includes/class.options.php:622
+msgid "Examples:"
+msgstr "範例:"
+
+#: includes/class.admin.php:415
+msgid "Specify alternate table of contents header string. Add the header to be replaced and the alternate header on a single line separated with a pipe <code>|</code>. Put each additional original and alternate header on its own line."
+msgstr "這項設定能指定內容目錄替代標題文字，請以直立線符號 (豎線) <code>|</code> 分隔要進行取代的標題及替代標題；如有多個標題需要取代，請每一行輸入一組原始標題及替代標題。"
+
+#: includes/class.admin.php:409
+msgid "Alternate Headings"
+msgstr "替代標題"
+
+#: includes/class.admin.php:399 includes/class.options.php:607
+msgid "Heading 6 (h6)"
+msgstr "標題 6 (h6)"
+
+#: includes/class.admin.php:398 includes/class.options.php:606
+msgid "Heading 5 (h5)"
+msgstr "標題 5 (h5)"
+
+#: includes/class.admin.php:397 includes/class.options.php:605
+msgid "Heading 4 (h4)"
+msgstr "標題 4 (h4)"
+
+#: includes/class.admin.php:396 includes/class.options.php:604
+msgid "Heading 3 (h3)"
+msgstr "標題 3 (h3)"
+
+#: includes/class.admin.php:395 includes/class.options.php:603
+msgid "Heading 2 (h2)"
+msgstr "標題 2 (h2)"
+
+#: includes/class.admin.php:394 includes/class.options.php:602
+msgid "Heading 1 (h1)"
+msgstr "標題 1 (h1)"
+
+#: includes/class.admin.php:392 includes/class.options.php:599
+msgid "Select the heading to consider when generating the table of contents. Deselecting a heading will exclude it."
+msgstr "在上方選取的標題層級便會納入內容目錄中，而未選取的標題層級則會予以排除。"
+
+#: includes/class.admin.php:386 includes/class.options.php:598
+msgid "Headings:"
+msgstr "標題層級"
+
+#: includes/class.admin.php:377
+msgid "Using the advanced options below will override the global advanced settings."
+msgstr "一旦在個別內容編輯頁面中的 [進階設定] 進行設定，在該內容頁面中便會忽略全域進階設定，而是套用這些個別設定。"
+
+#: includes/class.admin.php:375
+msgid "NOTE:"
+msgstr "注意事項:"
+
+#: includes/class.admin.php:368
+msgid "Advanced:"
+msgstr "進階設定:"
+
+#: includes/class.admin.php:356
+msgid "Insert table of contents."
+msgstr "插入內容目錄"
+
+#: includes/class.admin.php:345
+msgid "Disable the automatic insertion of the table of contents."
+msgstr "停用自動插入內容目錄功能"
+
+#: includes/class.admin.php:249 includes/class.admin.php:250
+#: includes/class.admin.php:302 includes/class.widget-toc.php:27
+#: includes/inc.functions.php:111
+msgid "Table of Contents"
+msgstr "內容目錄"
+
+#: includes/class.admin.php:79 includes/inc.admin-options-page.php:11
+msgid "Settings"
+msgstr "設定"

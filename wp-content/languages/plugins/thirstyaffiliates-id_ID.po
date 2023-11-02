@@ -1,0 +1,211 @@
+# Translation of Plugins - ThirstyAffiliates Affiliate Link Manager - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - ThirstyAffiliates Affiliate Link Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-05 16:09:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - ThirstyAffiliates Affiliate Link Manager - Stable (latest release)\n"
+
+#: Models/Notifications.php:598 Models/Notifications.php:663
+msgid "Dismiss"
+msgstr "Abaikan"
+
+#: Models/Settings.php:1661
+msgid "Follow us on Twitter"
+msgstr "Ikuti kami di Twitter"
+
+#: Models/Settings.php:1657
+msgid "Like us on Facebook"
+msgstr "Sukai kami di Facebook"
+
+#: Models/Settings.php:1668
+msgid "Join Our Affiliate Program"
+msgstr "Gabung dengan Program Afiliasi Kami"
+
+#: Models/Affiliate_Links_CPT.php:274
+msgid "Link Category"
+msgstr "Kategori Link"
+
+#: Models/Affiliate_Links_CPT.php:199 Models/Affiliate_Links_CPT.php:203
+#: Models/Affiliate_Links_CPT.php:215
+msgid "Affiliate Links"
+msgstr "Link Afiliasi"
+
+#: Models/Affiliate_Links_CPT.php:200
+#: js/app/gutenberg_support/src/formats/ta-link/index.js:24
+#: js/app/gutenberg_support/src/formats/ta-link/index.js:169
+msgid "Affiliate Link"
+msgstr "Link Afiliasi"
+
+#: Models/Affiliate_Links_CPT.php:207
+msgid "Edit Affiliate Link"
+msgstr "Edit Link Afiliasi"
+
+#: Models/Affiliate_Links_CPT.php:204
+msgid "View Affiliate Link"
+msgstr "Lihat Link Afiliasi"
+
+#: Models/Affiliate_Links_CPT.php:209
+msgid "Search Affiliate Links"
+msgstr "Cari Link Afiliasi"
+
+#: Models/Affiliate_Links_CPT.php:216
+msgid "ThirstyAffiliates affiliate links"
+msgstr "Link afiliasi ThirstyAffiliates "
+
+#: views/cpt/view-save-affiliate-link-metabox.php:4
+#: views/cpt/view-urls-metabox.php:25
+msgid "Save"
+msgstr "Simpan "
+
+#: views/cpt/view-save-affiliate-link-metabox.php:5
+msgid "Save Link"
+msgstr "Simpan Link"
+
+#: views/cpt/view-save-affiliate-link-metabox.php:10
+msgid "Delete Permanently"
+msgstr "Hapus Permanen"
+
+#: views/cpt/view-save-affiliate-link-metabox.php:12
+msgid "Move to Trash"
+msgstr "Pindahkan ke Tempat Sampah"
+
+#: views/linkpicker/quick-add-affiliate-link.php:19
+msgid "Link Name:"
+msgstr "Nama Link:"
+
+#: Models/Affiliate_Links_CPT.php:335
+msgid "Link ID:"
+msgstr "ID Link:"
+
+#: views/cpt/view-urls-metabox.php:7
+#: views/linkpicker/quick-add-affiliate-link.php:26
+msgid "Destination URL:"
+msgstr "URL Tujuan:"
+
+#: views/cpt/view-urls-metabox.php:15
+msgid "Cloaked URL:"
+msgstr "URL yang Disembunyikan:"
+
+#: views/cpt/view-urls-metabox.php:20
+msgid "Visit Link"
+msgstr "Kunjungi Link"
+
+#: views/cpt/view-link-options-metabox.php:19
+#: views/linkpicker/quick-add-affiliate-link.php:63
+msgid "Open this link in new window?"
+msgstr "Buka link ini di jendela baru?"
+
+#: views/cpt/view-attach-images-metabox.php:11
+msgid "Add Image To Affiliate Link"
+msgstr "Tambahkan Gambar ke Link Afiliasi"
+
+#: views/cpt/view-attach-images-metabox.php:12
+msgid "Add To Affiliate Link"
+msgstr "Tambahkan ke Link Afiliasi"
+
+#: views/cpt/view-attach-images-metabox.php:13
+#: views/cpt/view-attach-images-metabox.php:20
+msgid "Upload/Insert"
+msgstr "Upload/Sisipkan"
+
+#: views/cpt/view-attach-images-metabox-external-image.php:4
+#: views/cpt/view-attach-images-metabox-single-image.php:4
+msgid "Remove This Image"
+msgstr "Hapus Gambar Ini"
+
+#: Models/Script_Loader.php:307
+msgid "Open the ThirstyAffiliates link picker"
+msgstr "Buka pemilih link ThirstyAffiliates"
+
+#: Models/Script_Loader.php:308
+msgid "Open quick add affiliate link dialog"
+msgstr "Buka dialog tambahkan cepat link afiliasi"
+
+#: views/linkpicker/quick-add-affiliate-link.php:29
+msgid "http:// or https:// is required"
+msgstr "http:// atau https:// diperlukan"
+
+#: views/linkpicker/quick-add-affiliate-link.php:52
+msgid "No follow this link?"
+msgstr "No follow link ini?"
+
+#: Models/Affiliate_Links_CPT.php:712
+msgid "Redirect Type"
+msgstr "Jenis Pengalihan"
+
+#: views/linkpicker/quick-add-affiliate-link.php:88
+msgid "Add Link"
+msgstr "Tambahkan Link"
+
+#: Models/Affiliate_Links_CPT.php:711
+msgid "Link ID"
+msgstr "ID Link"
+
+#: Models/Bootstrap.php:394 Models/Settings.php:763
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: views/reports/link-performance-report.php:15
+msgid "Custom"
+msgstr "Sesuaikan"
+
+#: Models/Settings.php:314
+msgid "Disable \"uncategorized\" category on save?"
+msgstr "Nonaktifkan kategori \"tanpa kategori\" saat menyimpan?"
+
+#: Models/Settings.php:437
+msgid "This is the type of redirect ThirstyAffiliates will use to redirect the user to your affiliate link."
+msgstr ""
+"ThirstyAdminPage.php:159\n"
+"Ini adalah jenis pengalihan yang akan digunakan ThirstyAffiliates untuk mengalihkan pengguna ke link afiliasi Anda."
+
+#: Models/Settings.php:467
+msgid "Open links in new window?"
+msgstr "Buka link di jendela baru?"
+
+#: Models/Settings.php:321
+msgid "Disable buttons on the Visual editor?"
+msgstr "Nonaktifkan tombol pada editor Visual?"
+
+#: Models/Settings.php:322
+msgid "Hide the ThirstyAffiliates buttons on the Visual editor."
+msgstr "Sembunyikan tombol ThirstyAffiliates pada editor Visual."
+
+#: Models/Settings.php:328
+msgid "Disable buttons on the Text/Quicktags editor?"
+msgstr "Nonaktifkan tombol pada editor Teks/Quicktags?"
+
+#: Models/Settings.php:329
+msgid "Hide the ThirstyAffiliates buttons on the Text editor."
+msgstr "Sembunyikan tombol ThirstyAffiliates pada editor Teks."
+
+#: Models/Settings.php:512
+msgid "Allows you to add extra tags into the rel= attribute when links are inserted."
+msgstr ""
+"ThirstyAdminPage.php:270\n"
+"Memampukan Anda untuk menambahkan tag tambahan ke rel= attribute saat link disisipkan."
+
+#: Models/Settings.php:1739
+msgid "Import Settings"
+msgstr "Pengaturan Impor"
+
+#: Models/Settings.php:581
+msgid "Import Global Settings"
+msgstr "Pengaturan Global Impor"
+
+#: Models/Shortcodes.php:264
+msgid "SHORTCODE ERROR: ThirstyAffiliates did not detect a valid link id, please check your short code!"
+msgstr ""
+"ThirstyShortcode.php:86\n"
+"EROR SHORTCODE: ThirstyAffiliates tidak mendeteksi id link yang valid. Harap periksa short code Anda!"
+
+#: Models/Affiliate_Links_CPT.php:273 Models/Affiliate_Links_CPT.php:275
+#: views/linkpicker/quick-add-affiliate-link.php:74
+msgid "Link Categories"
+msgstr "Kategori Link"

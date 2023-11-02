@@ -1,0 +1,501 @@
+# Translation of Plugins - ThirstyAffiliates Affiliate Link Manager - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - ThirstyAffiliates Affiliate Link Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-05 16:09:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - ThirstyAffiliates Affiliate Link Manager - Stable (latest release)\n"
+
+#: Models/Notifications.php:598 Models/Notifications.php:663
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: Models/Settings.php:854
+msgid "Pro Features →"
+msgstr "Recursos Pro \t"
+
+#: Models/Stats_Reporting.php:561
+msgid "Link Overview"
+msgstr "Visão geral do link"
+
+#: Models/Stats_Reporting.php:562
+msgid "Link Overview Report"
+msgstr "Relatório de visão geral do link"
+
+#: Models/Affiliate_Links_CPT.php:558
+msgid "No results found."
+msgstr "Nenhum resultado foi encontrado."
+
+#: views/cpt/view-inserted-link-scanner-metabox.php:12
+msgid "ID"
+msgstr "ID"
+
+#: views/cpt/view-inserted-link-scanner-metabox.php:13
+msgid "Title"
+msgstr "Título"
+
+#: views/cpt/view-inserted-link-scanner-metabox.php:14
+msgid "Post Type"
+msgstr "Tipo de post"
+
+#: views/cpt/view-inserted-link-scanner-metabox.php:4
+msgid "Start Scan"
+msgstr "Começar a varredura"
+
+#: views/linkpicker/quick-add-affiliate-link.php:76
+msgid "Select categories..."
+msgstr "Selecione as categorias..."
+
+#: Models/Settings.php:1661
+msgid "Follow us on Twitter"
+msgstr "Siga-nos no Twitter"
+
+#: Models/Settings.php:1657
+msgid "Like us on Facebook"
+msgstr "Curta-nos no Facebook"
+
+#: Models/Settings.php:1668
+msgid "Join Our Affiliate Program"
+msgstr "Junte-se ao Nosso Programa de Afiliados"
+
+#: Models/Settings.php:1669
+msgid "(up to 30% commisions)"
+msgstr "(até 30% em comissões)"
+
+#: Models/Settings.php:620
+msgid "Join the Community"
+msgstr "Participe da comunidade"
+
+#: Models/Settings.php:1490
+msgid "Value"
+msgstr "Valor"
+
+#. Plugin Name of the plugin
+#: Models/Affiliate_Links_CPT.php:201
+msgid "ThirstyAffiliates"
+msgstr "ThirstyAffiliates"
+
+#: Models/Affiliate_Links_CPT.php:711
+msgid "Link ID"
+msgstr "ID do Link"
+
+#: views/linkpicker/quick-add-affiliate-link.php:88
+msgid "Add Link"
+msgstr "Adicionar link"
+
+#: Models/Affiliate_Links_CPT.php:712
+msgid "Redirect Type"
+msgstr "Tipo de Redirecionamento"
+
+#: views/linkpicker/quick-add-affiliate-link.php:52
+msgid "No follow this link?"
+msgstr "No follow neste link?"
+
+#: views/linkpicker/quick-add-affiliate-link.php:29
+msgid "http:// or https:// is required"
+msgstr "http:// ou https:// é obrigatório"
+
+#: Models/Script_Loader.php:308
+msgid "Open quick add affiliate link dialog"
+msgstr "Abrir o dialogo da adição rápida para link de afiliados"
+
+#: Models/Script_Loader.php:307
+msgid "Open the ThirstyAffiliates link picker"
+msgstr "Abrir o ThirstyAffiliates seletor de Link"
+
+#: views/cpt/view-attach-images-metabox.php:13
+#: views/cpt/view-attach-images-metabox.php:20
+msgid "Upload/Insert"
+msgstr "Upload/Inserir"
+
+#: views/cpt/view-link-options-metabox.php:19
+#: views/linkpicker/quick-add-affiliate-link.php:63
+msgid "Open this link in new window?"
+msgstr "Abrir este link em uma nova janela?"
+
+#: Models/Affiliate_Links_CPT.php:335
+msgid "Link ID:"
+msgstr "ID do Link:"
+
+#: views/cpt/view-save-affiliate-link-metabox.php:12
+msgid "Move to Trash"
+msgstr "Mover para o Lixo"
+
+#: views/cpt/view-save-affiliate-link-metabox.php:10
+msgid "Delete Permanently"
+msgstr "Deletar Permanentemente"
+
+#: views/cpt/view-save-affiliate-link-metabox.php:5
+msgid "Save Link"
+msgstr "Salvar Link"
+
+#: views/cpt/view-save-affiliate-link-metabox.php:4
+#: views/cpt/view-urls-metabox.php:25
+msgid "Save"
+msgstr "Salvar"
+
+#: Models/Affiliate_Links_CPT.php:216
+msgid "ThirstyAffiliates affiliate links"
+msgstr "Links de Afiliados ThirstyAffiliates"
+
+#: Models/Affiliate_Links_CPT.php:209
+msgid "Search Affiliate Links"
+msgstr "Buscar Link de Afiliado"
+
+#: Models/Affiliate_Links_CPT.php:204
+msgid "View Affiliate Link"
+msgstr "Ver Link de Afiliado"
+
+#: Models/Affiliate_Links_CPT.php:207
+msgid "Edit Affiliate Link"
+msgstr "Editar Link de Afiliado"
+
+#: Models/Affiliate_Links_CPT.php:200
+#: js/app/gutenberg_support/src/formats/ta-link/index.js:24
+#: js/app/gutenberg_support/src/formats/ta-link/index.js:169
+msgid "Affiliate Link"
+msgstr "Link de Afiliado"
+
+#: Models/Affiliate_Links_CPT.php:199 Models/Affiliate_Links_CPT.php:203
+#: Models/Affiliate_Links_CPT.php:215
+msgid "Affiliate Links"
+msgstr "Link de Afiliados"
+
+#: Models/Affiliate_Links_CPT.php:274
+msgid "Link Category"
+msgstr "Categoria do Link"
+
+#: Models/Affiliate_Links_CPT.php:273 Models/Affiliate_Links_CPT.php:275
+#: views/linkpicker/quick-add-affiliate-link.php:74
+msgid "Link Categories"
+msgstr "Categorias do Link"
+
+#: Models/Settings.php:581
+msgid "Import Global Settings"
+msgstr "Importar Configurações Globais"
+
+#: Models/Settings.php:1739
+msgid "Import Settings"
+msgstr "Configurações de Importação"
+
+#: Models/Settings.php:512
+msgid "Allows you to add extra tags into the rel= attribute when links are inserted."
+msgstr "Permite que você adicione tags extras no atributo rel= quando os links são inseridos."
+
+#: Models/Settings.php:329
+msgid "Hide the ThirstyAffiliates buttons on the Text editor."
+msgstr "Esconder o botão da ThirstyAffiliates no Editor Visual."
+
+#: Models/Settings.php:328
+msgid "Disable buttons on the Text/Quicktags editor?"
+msgstr "Desativar botões no editor de texto/quicktags?"
+
+#: Models/Settings.php:322
+msgid "Hide the ThirstyAffiliates buttons on the Visual editor."
+msgstr "Esconder os botões da ThirstyAffiliates do Editor Visual."
+
+#: Models/Settings.php:321
+msgid "Disable buttons on the Visual editor?"
+msgstr "Desativar botões no Editor Visual?"
+
+#: Models/Settings.php:467
+msgid "Open links in new window?"
+msgstr "Abrir links em uma nova janela?"
+
+#: Models/Settings.php:437
+msgid "This is the type of redirect ThirstyAffiliates will use to redirect the user to your affiliate link."
+msgstr "Este é o tipo de redirecionamento que ThirstyAffiliates irá usar para redirecionar o usuário para o seu link de afiliado."
+
+#: Models/Settings.php:314
+msgid "Disable \"uncategorized\" category on save?"
+msgstr "Desabilitar a categoria \"sem categoria\" quando salvar?"
+
+#: views/reports/link-performance-report.php:15
+msgid "Custom"
+msgstr "Personalizado"
+
+#: Models/Bootstrap.php:394 Models/Settings.php:763
+msgid "Settings"
+msgstr "Configurações"
+
+#. Plugin URI of the plugin
+msgid "http://thirstyaffiliates.com/"
+msgstr "http://thirstyaffiliates.com/"
+
+#: Helpers/Plugin_Constants.php:149
+msgid "301 Permanent"
+msgstr "301 Permanente"
+
+#: Helpers/Plugin_Constants.php:150
+msgid "302 Temporary"
+msgstr "302 Temporário"
+
+#: Helpers/Plugin_Constants.php:151
+msgid "307 Temporary (alternative)"
+msgstr "307 Temporário (alternativo)"
+
+#. Description of the plugin
+msgid "ThirstyAffiliates is a revolution in affiliate link management. Collect, collate and store your affiliate links for use in your posts and pages."
+msgstr "ThirstyAffiliates é uma revolução no gerenciamento de links afiliados. Colecione, agrupe e armazenar seus links de afiliados para usar em seus posts e páginas."
+
+#: Models/Affiliate_Links_CPT.php:276
+#: views/linkpicker/advance-link-picker.php:23
+msgid "All Categories"
+msgstr "Todas as categorias"
+
+#: Models/Affiliate_Links_CPT.php:277
+msgid "Parent Category"
+msgstr "Categoria ascendente"
+
+#: Models/Affiliate_Links_CPT.php:278
+msgid "Parent Category:"
+msgstr "Categoria ascendente:"
+
+#: Models/Affiliate_Links_CPT.php:279
+msgid "New Category Name"
+msgstr "Nome da nova categoria de produto"
+
+#: Models/Affiliate_Links_CPT.php:280
+msgid "Add New Category"
+msgstr "Adicionar nova categoria"
+
+#: Models/Affiliate_Links_CPT.php:283
+msgid "View Category"
+msgstr "Ver categoria"
+
+#: Models/Affiliate_Links_CPT.php:287
+msgid "Popular Categories"
+msgstr "Categorias populares"
+
+#: Models/Affiliate_Links_CPT.php:288
+msgid "Search Categories"
+msgstr "Pesquisar categorias"
+
+#: Models/Affiliate_Links_CPT.php:289
+msgid "Not Found"
+msgstr "Não encontrado"
+
+#: Models/Affiliate_Links_CPT.php:290
+msgid "No items"
+msgstr "Nenhum item"
+
+#: Models/Link_Picker.php:302
+msgid "Insert link"
+msgstr "Inserir link"
+
+#: Models/Link_Picker.php:304
+msgid "Insert image"
+msgstr "Inserir imagem"
+
+#: Models/Script_Loader.php:237
+msgid "Previous"
+msgstr "Anterior"
+
+#: Models/Script_Loader.php:238
+msgid "Next"
+msgstr "Próximo"
+
+#: Models/Notifications.php:721 Models/Script_Loader.php:239
+msgid "Close"
+msgstr "Fechar"
+
+#: Models/Settings.php:1489
+msgid "Key"
+msgstr "Chave"
+
+#: Models/Settings.php:1623
+msgid "Migrate"
+msgstr "Migrar"
+
+#: Models/Settings.php:1702
+msgid "Copy"
+msgstr "Copiar"
+
+#: Models/Settings.php:268 views/cpt/view-link-options-metabox.php:12
+#: views/cpt/view-link-options-metabox.php:24
+#: views/cpt/view-link-options-metabox.php:36
+#: views/cpt/view-link-options-metabox.php:49
+#: views/linkpicker/quick-add-affiliate-link.php:56
+#: views/linkpicker/quick-add-affiliate-link.php:67
+msgid "Yes"
+msgstr "Sìm"
+
+#: Models/Settings.php:276 views/reports/link-performance-report.php:39
+#: views/reports/link-performance-report.php:80
+msgid "General"
+msgstr "Geral"
+
+#: Models/Settings.php:284
+msgid "Modules"
+msgstr "Módulos"
+
+#: Models/Settings.php:288
+msgid "Import/Export"
+msgstr "Importar/Exportar"
+
+#: Models/Settings.php:292
+msgid "Help"
+msgstr "Help"
+
+#: Models/Settings.php:307
+msgid "Link"
+msgstr "Link"
+
+#: Models/Settings.php:308
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: Models/Settings.php:554
+msgid "Statistics"
+msgstr "Estatísticas"
+
+#: Models/Settings.php:597 Models/Settings.php:605
+msgid "Knowledge Base"
+msgstr "Base de conhecimento"
+
+#: Models/Settings.php:602
+msgid "Documentation"
+msgstr "Documentação"
+
+#: Models/Settings.php:980
+msgid "Save Changes"
+msgstr "Salvar modificações"
+
+#: Models/Shortcodes.php:264
+msgid "SHORTCODE ERROR: ThirstyAffiliates did not detect a valid link id, please check your short code!"
+msgstr "ERRO DE SHORTCODE: ThirstyAffiliates não conseguiu detectar um ID válido para o link, verifique seu shortcode!"
+
+#: Models/Stats_Reporting.php:593
+msgid "ThirstyAffiliates Reports"
+msgstr "Relatórios do ThirstyAffiliates"
+
+#: Models/Stats_Reporting.php:594
+msgid "Reports"
+msgstr "Relatórios"
+
+#: Models/Stats_Reporting.php:673
+msgid "Year"
+msgstr "Ano"
+
+#: Models/Stats_Reporting.php:674
+msgid "Last Month"
+msgstr "Último Mês"
+
+#: Models/Stats_Reporting.php:675
+msgid "This Month"
+msgstr "Esse mês"
+
+#: Models/Stats_Reporting.php:676
+msgid "Last 7 Days"
+msgstr "Últimos 7 dias"
+
+#: thirstyaffiliates.php:224
+msgid "Activate this plugin"
+msgstr "Ativar esse plugin"
+
+#: thirstyaffiliates.php:224
+msgid "Click here to activate &rarr;"
+msgstr "Clique aqui para ativar &rarr;"
+
+#: thirstyaffiliates.php:235
+msgid "<b>ThirstyAffiliates</b> plugin missing dependency.<br/>"
+msgstr "Dependência ausente do plugin <b>ThirstyAffiliates</b>.<br/>"
+
+#: views/cpt/view-attach-images-metabox-external-image.php:4
+#: views/cpt/view-attach-images-metabox-single-image.php:4
+msgid "Remove This Image"
+msgstr "Remover essa imagem"
+
+#: views/cpt/view-attach-images-metabox.php:12
+msgid "Add To Affiliate Link"
+msgstr "Adicionar para link de afiliado"
+
+#: views/cpt/view-attach-images-metabox.php:11
+msgid "Add Image To Affiliate Link"
+msgstr "Adicionar Imagem no link de afiliado"
+
+#: views/cpt/view-link-options-metabox.php:11
+#: views/cpt/view-link-options-metabox.php:23
+#: views/cpt/view-link-options-metabox.php:35
+#: views/cpt/view-link-options-metabox.php:48
+#: views/cpt/view-link-options-metabox.php:62
+#: views/linkpicker/quick-add-affiliate-link.php:40
+#: views/linkpicker/quick-add-affiliate-link.php:55
+#: views/linkpicker/quick-add-affiliate-link.php:66
+msgid "Global (%s)"
+msgstr "Global (%s)"
+
+#: views/cpt/view-urls-metabox.php:15
+msgid "Cloaked URL:"
+msgstr "URL camuflado:"
+
+#: views/cpt/view-urls-metabox.php:19
+msgid "Edit slug"
+msgstr "Editar slug"
+
+#: views/cpt/view-urls-metabox.php:20
+msgid "Visit Link"
+msgstr "Visitar link"
+
+#: views/cpt/view-urls-metabox.php:37
+msgid "Default"
+msgstr "Padrão"
+
+#: views/cpt/view-urls-metabox.php:7
+#: views/linkpicker/quick-add-affiliate-link.php:26
+msgid "Destination URL:"
+msgstr "URL de destino:"
+
+#: views/linkpicker/advance-link-picker.php:35
+msgid "Fetching..."
+msgstr "Obtendo ..."
+
+#: views/linkpicker/advance-link-picker.php:36
+msgid "Load more"
+msgstr "Carregar mais"
+
+#: views/linkpicker/advance-link-picker.php:45
+msgid "Searching..."
+msgstr "Procurando..."
+
+#: views/linkpicker/quick-add-affiliate-link.php:19
+msgid "Link Name:"
+msgstr "Nome do link:"
+
+#: views/linkpicker/quick-add-affiliate-link.php:36
+msgid "Redirect Type:"
+msgstr "Tipo de redirecionamento:"
+
+#: views/linkpicker/quick-add-affiliate-link.php:91
+msgid "Add Link & Insert Into Post"
+msgstr "Adicionar link e inserir no post"
+
+#: views/reports/link-performance-report.php:23
+msgid "Go"
+msgstr "Ir"
+
+#: views/reports/link-performance-report.php:41
+#: views/reports/link-performance-report.php:81
+msgid "All links"
+msgstr "Todos os links"
+
+#: views/reports/link-performance-report.php:48
+msgid "Fetch report for specific link:"
+msgstr "Obter relatório para um link específico:"
+
+#: views/reports/link-performance-report.php:50
+msgid "Search affiliate link"
+msgstr "Pesquisar link de afiliado"
+
+#: views/reports/link-performance-report.php:62
+msgid "Fetch Report"
+msgstr "Obter relatório"
+
+#: views/reports/link-performance-report.php:84
+msgid "Clicks: "
+msgstr "Cliques: "

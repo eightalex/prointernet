@@ -1,0 +1,10 @@
+{
+    "name": "wpshop/wp-settings-component",
+    "type": "library",
+    "description": "Settings component for Wordpress",
+    "autoload": {
+        "psr-4": {
+            "Wpshop\\SettingApi\\": "src"
+        }
+    }
+}

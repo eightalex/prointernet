@@ -1,0 +1,656 @@
+# Translation of Plugins - Google XML Sitemaps - Stable (latest release) in Danish
+# This file is distributed under the same license as the Plugins - Google XML Sitemaps - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-17 09:32:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - Google XML Sitemaps - Stable (latest release)\n"
+
+#: sitemap.php:95
+msgid "Unfortunately this release of Google XML Sitemaps requires at least PHP %4$s. You are using PHP %2$s, which is out-dated and insecure. Please ask your web host to update your PHP installation or go to <a href=\"%1$s\">active plugins</a> and deactivate the Google XML Sitemaps plugin to hide this message. You can download an older version of this plugin from the <a href=\"%3$s\">plugin website</a>."
+msgstr "Desværre kræver denne version af Google XML Sitemaps mindst PHP %4$s. Du bruger PHP %2$s, som er forældet og usikker. Bed din webhotel udbyder om, at opdatere din PHP-installation eller gå til <a href=\"%1$s\">aktivet plugins</a> og deaktivere Google XML Sitemaps-plugin for at skjule denne meddelelse. Du kan downloade en ældre version af dette plugin fra <a href=\"%3$s\">plugin-webstedet</a> ."
+
+#: sitemap.php:95
+msgid "Your PHP version is too old for XML Sitemaps."
+msgstr "Din PHP-version er for gammel til XML-sitemaps."
+
+#: sitemap.php:85
+msgid "Unfortunately this release of Google XML Sitemaps requires at least WordPress %4$s. You are using Wordpress %2$s, which is out-dated and insecure. Please upgrade or go to <a href=\"%1$s\">active plugins</a> and deactivate the Google XML Sitemaps plugin to hide this message. You can download an older version of this plugin from the <a href=\"%3$s\">plugin website</a>."
+msgstr "Desværre kræver denne version af Google XML Sitemaps mindst WordPress %4$s. Du bruger WordPress %2$s, som er forældet og usikkert. Opgrader eller gå til <a href=\"%1$s\">aktivet plugins,</a> og deaktiver Google XML Sitemaps-plugin for at skjule denne meddelelse. Du kan downloade en ældre version af dette plugin fra <a href=\"%3$s\">plugin-webstedet</a>."
+
+#: sitemap.php:85
+msgid "Your WordPress version is too old for XML Sitemaps."
+msgstr "Din WordPress-version er for gammel til XML-sitemaps."
+
+#: sitemap-ui.php:1269
+msgid "Reset options"
+msgstr "Nulstil indstillinger"
+
+#: sitemap-ui.php:1268
+msgid "Update options"
+msgstr "Opdater indstillinger"
+
+#: sitemap-ui.php:1243
+msgid "Archives"
+msgstr "Arkiver"
+
+#: sitemap-ui.php:1225
+msgid "Minimum post priority (Even if auto calculation is enabled)"
+msgstr "Minimum indlægs prioritet (Selvom auto-udregn er aktiveret)"
+
+#: sitemap-ui.php:1219
+msgid "Posts (If auto calculation is disabled)"
+msgstr "Indlæg (Hvis auto-udregn er deaktiveret)"
+
+#: sitemap-ui.php:1208
+msgid "Priorities"
+msgstr "Prioriteter"
+
+#: sitemap-ui.php:1200 sitemap-ui.php:1257
+msgid "Author pages"
+msgstr "Forfatter sider"
+
+#: sitemap-ui.php:1193 sitemap-ui.php:1250
+msgid "Tag pages"
+msgstr "Tag sider"
+
+#: sitemap-ui.php:1186
+msgid "Older archives (Changes only if you edit an old post)"
+msgstr "Ældre arkiver (Ændre sig kun hvis du redigere et gammelt indlæg"
+
+#: sitemap-ui.php:1180
+msgid "The current archive of this month (Should be the same like your homepage)"
+msgstr "Arkivet for denne måned (Burde være den som på din hjemmeside)"
+
+#: sitemap-ui.php:1174 sitemap-ui.php:1237
+msgid "Categories"
+msgstr "Kategorier"
+
+#: sitemap-ui.php:1168 sitemap-ui.php:1231
+msgid "Static pages"
+msgstr "Statiske sider"
+
+#: sitemap-ui.php:1162
+msgid "Posts"
+msgstr "Indlæg"
+
+#: sitemap-ui.php:1156 sitemap-ui.php:1213
+msgid "Homepage"
+msgstr "Hjemmeside"
+
+#: sitemap-ui.php:1150
+msgid "Please note that the value of this tag is considered a hint and not a command. Even though search engine crawlers consider this information when making decisions, they may crawl pages marked \"hourly\" less frequently than that, and they may crawl pages marked \"yearly\" more frequently than that. It is also likely that crawlers will periodically crawl pages marked \"never\" so that they can handle unexpected changes to those pages."
+msgstr "Bemærk venligst at værdien af dette \"tag\" anses for at være et hint og ikke en kommando. Selvom søgemaskine crawlers tager denne information i betrægtning, kan de crawle sider markeret \"pr. time\" færre gange og sider markeret \"årlig\" oftere. Det er også sandsynligt at crawlere periodisk vil crawle sider makeret \"aldrig\", så de kan håndtere uforventet ændringer på disse sider."
+
+#: sitemap-ui.php:1146
+msgid "Change frequencies"
+msgstr "Ændre frekvenser"
+
+#: sitemap-ui.php:1140
+msgid "Child posts won't be excluded automatically!"
+msgstr "Underliggende indlæg udelukkes ikke automatisk!"
+
+#: sitemap-ui.php:1138
+msgid "List of IDs, separated by comma"
+msgstr "Liste over ID'er, adskilt med komma"
+
+#: sitemap-ui.php:1138
+msgid "Exclude the following posts or pages:"
+msgstr "Udeluk følgende indlæg eller sider:"
+
+#: sitemap-ui.php:1136
+msgid "Exclude posts"
+msgstr "Udeluk indlæg"
+
+#: sitemap-ui.php:1128
+msgid "Excluded categories"
+msgstr "Udeluk kategorier"
+
+#: sitemap-ui.php:1126
+msgid "Excluded items"
+msgstr "Udelukket elementer"
+
+#: sitemap-ui.php:1119
+msgid "This is highly recommended and helps the search engines to know when your content has changed. This option affects <i>all</i> sitemap entries."
+msgstr "Dette anbefales stærkt og hjælper søgemaskinerne med at vide, hvornår dit indhold er ændret. Denne indstilling påvirker <i>alle</i> sitemap-poster."
+
+#: sitemap-ui.php:1117
+msgid "Include the last modification time."
+msgstr "Inkluder den seneste ændringsdato."
+
+#: sitemap-ui.php:1112
+msgid "Further options"
+msgstr "Flere muligheder"
+
+#: sitemap-ui.php:1100
+msgid "Include custom post type %s"
+msgstr "Inkluderer brugerdefineret indlægstype %s"
+
+#: sitemap-ui.php:1089
+msgid "Custom post types"
+msgstr "Brugerdefineret indlægstyper"
+
+#: sitemap-ui.php:1071
+msgid "Include taxonomy pages for %s"
+msgstr "Inkluderer taksonomi sider for %s"
+
+#: sitemap-ui.php:1060
+msgid "Custom taxonomies"
+msgstr "Brugerdefinerede taksonomier"
+
+#: sitemap-ui.php:1046
+msgid "Include tag pages"
+msgstr "Inkluder tag sider"
+
+#: sitemap-ui.php:1039
+msgid "Include author pages"
+msgstr "Inkluder forfatter sider"
+
+#: sitemap-ui.php:1033
+msgid "Include archives"
+msgstr "Inkluder arkiver"
+
+#: sitemap-ui.php:1027
+msgid "Include categories"
+msgstr "Inkluder kategorier"
+
+#: sitemap-ui.php:1021
+msgid "Include static pages"
+msgstr "Inkluder statiske sider"
+
+#: sitemap-ui.php:1015
+msgid "Include posts"
+msgstr "Inkluder indlæg"
+
+#: sitemap-ui.php:1009
+msgid "Include homepage"
+msgstr "Inkluder hjemmeside"
+
+#: sitemap-ui.php:1004
+msgid "WordPress standard content"
+msgstr "WordPress standard indhold"
+
+#: sitemap-ui.php:1003
+msgid "Sitemap Content"
+msgstr "Sitemap indhold"
+
+#: sitemap-ui.php:992
+msgid "All posts will have the same priority which is defined in &quot;Priorities&quot;"
+msgstr "Alle indlæg vil have den samme prioritet som er defineret under &quot;Prioritet&quot;"
+
+#: sitemap-ui.php:992
+msgid "Do not use automatic priority calculation"
+msgstr "Brug ikke automatisk prioritets udregning"
+
+#: sitemap-ui.php:990
+msgid "Please select how the priority of each post should be calculated:"
+msgstr "Vælg venligst hvordan prioriteten af hver enkelt indlæg skal udregnes:"
+
+#: sitemap-ui.php:988
+msgid "Post Priority"
+msgstr "Indlægs prioritet"
+
+#: sitemap-ui.php:982
+msgid "Add new page"
+msgstr "Tilføj ny side"
+
+#: sitemap-ui.php:977
+msgid "No pages defined."
+msgstr "Der er ingen sider defineret."
+
+#: sitemap-ui.php:972
+msgid "#"
+msgstr "#"
+
+#: sitemap-ui.php:970
+msgid "Change Frequency"
+msgstr "Skift frekvens"
+
+#: sitemap-ui.php:936
+msgid "Enter the date of the last change as YYYY-MM-DD (2005-12-31 for example) (optional)."
+msgstr "Indtast datoen for den sidste ændret, som YYYY-MM-DD (F.eks. 2005-12-31) (Valgfri)"
+
+#: sitemap-ui.php:935 sitemap-ui.php:971
+msgid "Last Changed"
+msgstr "Ændret sidst"
+
+#: sitemap-ui.php:933
+msgid "Choose the priority of the page relative to the other pages. For example, your homepage might have a higher priority than your imprint."
+msgstr "Vælg sidens prioritet i forhold til de andre sider."
+
+#: sitemap-ui.php:932 sitemap-ui.php:969
+msgid "Priority"
+msgstr "Prioritet"
+
+#: sitemap-ui.php:930
+msgid "Enter the URL to the page. Examples: http://www.foo.com/index.html or www.foo.com/home "
+msgstr "Indtast URL til siden. Eksempel: http://www.foo.com/index.html eller www.foo.com/home "
+
+#: sitemap-ui.php:929 sitemap-ui.php:968
+msgid "URL to the page"
+msgstr "URL til siden"
+
+#: sitemap-ui.php:927
+msgid "If your blog is in a subdirectory and you want to add pages which are NOT in the blog directory or beneath, you MUST place your sitemap file in the root directory (Look at the &quot;Location of your sitemap file&quot; section on this page)!"
+msgstr "Hvis din blog er i en undermappe og du vil tilføje sider, der IKKE findes i blog mappen eller i en undermappe, SKAL du placere din sitemap-fil i rodkataloget (Se &quot;placeringen af din sitemap fil&quot; afsnittet på denne side)!"
+
+#: sitemap-ui.php:926 sitemap-ui.php:1140 sitemap-ui.php:1149
+msgid "Note"
+msgstr "Note"
+
+#: sitemap-ui.php:924
+msgid "Here you can specify files or URLs which should be included in the sitemap, but do not belong to your Blog/WordPress.<br />For example, if your domain is www.foo.com and your blog is located on www.foo.com/blog you might want to include your homepage at www.foo.com"
+msgstr "Her kan du specificere filer og URLs, der skal inkluderes i dit sitemap, som ikke tilhører din side.<br/>F.eks. hvis dit domæne er www.minside.dk og din side er placeret i en under mappe (www.minside.dk/blog), så vil du måske inkludere www.minside.dk"
+
+#: sitemap-ui.php:921
+msgid "Additional pages"
+msgstr "Ekstra sider"
+
+#: sitemap-ui.php:912
+msgid "Allow anonymous statistics (no personal information)"
+msgstr "Tillad anonym statistik (ingen personlige oplysninger)"
+
+#: sitemap-ui.php:906
+msgid "(The required PHP XSL Module is not installed)"
+msgstr "(Det påkrævet PHP XSL modul er ikke installeret)"
+
+#: sitemap-ui.php:906
+msgid "Include sitemap in HTML format"
+msgstr "Inkluder sitemap i HTML format"
+
+#: sitemap-ui.php:901
+msgid "Use this if your blog is in a sub-directory, but you want the sitemap be located in the root. Requires .htaccess modification."
+msgstr "Brug dette, hvis din blog er i en undermappe, men du vil have, at sitemap'en er placeret i roden. Kræver .htaccess-ændring."
+
+#: sitemap-ui.php:900
+msgid "Override the base URL of the sitemap:"
+msgstr "Overskriv base URL'en for sitemap'en:"
+
+#: sitemap-ui.php:897
+msgid "Use default"
+msgstr "Brug standard"
+
+#: sitemap-ui.php:897
+msgid "Full or relative URL to your .xsl file"
+msgstr "Fuld eller relativ URL til din .xsl fil"
+
+#: sitemap-ui.php:896
+msgid "Include a XSLT stylesheet:"
+msgstr "Inkluderer et XSLT stylesheet:"
+
+#: sitemap-ui.php:892
+msgid "Disable this option if you get garbled content or encoding errors in your sitemap."
+msgstr "Deaktiver denne indstilling, hvis du får forvirret indhold eller kodningsfejl i dit sitemap."
+
+#: sitemap-ui.php:890
+msgid "Try to automatically compress the sitemap if the requesting client supports it."
+msgstr "Prøv at komprimere sitemap automatisk, hvis den anmodende klient understøtter det."
+
+#: sitemap-ui.php:885
+msgid "in seconds, e.g. \"60\" or \"0\" for unlimited"
+msgstr "i sekunder, f.eks. \"60\" eller \"0\" for ubegrænset"
+
+#: sitemap-ui.php:885
+msgid "Try to increase the execution time limit to:"
+msgstr "Prøv at forøg eksekverings tids begrænsningen til:"
+
+#: sitemap-ui.php:882
+msgid "e.g. \"4M\", \"16M\""
+msgstr "f.eks. \"4M\", \"16M\""
+
+#: sitemap-ui.php:882
+msgid "Try to increase the memory limit to:"
+msgstr "Prøv at forøg hukommelses begrænsningen til:"
+
+#: sitemap-ui.php:879
+msgid "Advanced options:"
+msgstr "Avancerede indstillinger:"
+
+#: sitemap-ui.php:875
+msgid "The virtual robots.txt generated by WordPress is used. A real robots.txt file must NOT exist in the blog directory!"
+msgstr "Den virtuelle robots.txt, der genereres af WordPress anvendes. En ægte robots.txt-fil må IKKE findes i blog mappen!"
+
+#: sitemap-ui.php:871
+msgid "Add sitemap URL to the virtual robots.txt file."
+msgstr "Tilføj sitemap-URL til den virtuelle robots.txt-fil."
+
+#: sitemap-ui.php:866
+msgid "No registration required, but you can join the <a href=\"%s\">Bing Webmaster Tools</a> to check crawling statistics."
+msgstr "Registrering kræves ikke, men du kan tilmelde dig <a href=\"%s\">Bing Webmaster Tools</a> for, at kontrollere gennemsøgnings statistikker."
+
+#: sitemap-ui.php:865
+msgid "Notify Bing (formerly MSN Live Search) about updates of your Blog"
+msgstr "Informerer Bing (tidligere MSN Live Søg) om opdateringer af din blog"
+
+#: sitemap-ui.php:861
+msgid "No registration required, but you can join the <a href=\"%s\">Google Webmaster Tools</a> to check crawling statistics."
+msgstr "Registrering er ikke påkrævet, men du kan tilmelde dig <a href=\"%s\">Google Webmaster Tools</a> for at tjekke \"crawling\" statistikker."
+
+#: sitemap-ui.php:860
+msgid "Notify Google about updates of your Blog"
+msgstr "Informer Google om opdateringer på din blog"
+
+#: sitemap-ui.php:856 sitemap-ui.php:879 sitemap-ui.php:901 sitemap-ui.php:913
+msgid "Learn more"
+msgstr "Lær mere"
+
+#: sitemap-ui.php:856
+msgid "Update notification:"
+msgstr "Opdaterings meddelelser:"
+
+#: sitemap-ui.php:854
+msgid "Basic Options"
+msgstr "Basis indstillinger"
+
+#: sitemap-ui.php:838
+msgid "Since you are using Nginx as your web-server, please configure the following rewrite rules in case you get 404 Not Found errors for your sitemap:"
+msgstr "Da du bruger Nginx som din webserver, skal du konfigurere følgende omskrivningsregler, hvis du får 404 Not Found-fejl til dit sitemap:"
+
+#: sitemap-ui.php:837
+msgid "Webserver Configuration"
+msgstr "Webserver-konfiguration"
+
+#: sitemap-ui.php:829
+msgid "If you like the plugin, please <a target=\"_blank\" href=\"%s\">rate it 5 stars</a> or <a href=\"%s\">donate</a> via PayPal! I'm supporting this plugin since over 9 years! Thanks a lot! :)"
+msgstr "Hvis du kan lide plugin, bedes du <a target=\"_blank\" href=\"%s\">bedømme det 5 stjerner</a> eller <a href=\"%s\">donere</a> via PayPal! Jeg har udviklet på dette plugin i over 9 år! Mange tak! :)"
+
+#: sitemap-ui.php:825
+msgid "If you encounter any problems with your sitemap you can use the <a href=\"%d\">debug function</a> to get more information."
+msgstr "Hvis du støder på problemer under processen, kan du bruge <a href=\"%d\">debug funktionen</a> for at få flere informationer."
+
+#: sitemap-ui.php:813
+msgid "There was a problem while notifying %name%. <a href=\"%s\" target=\"_blank\">View result</a>"
+msgstr "Der var et problem med, at underrette %name%. <a href=\"%s\" target=\"_blank\">Se resultat</a>"
+
+#: sitemap-ui.php:810
+msgid "It took %time% seconds to notify %name%, maybe you want to disable this feature to reduce the building time."
+msgstr "Det tog %time% sekunder at informerer %name%, måske skulle du deaktivere denne funktion for at reducerer tiden."
+
+#: sitemap-ui.php:807
+msgid "%s was <b>successfully notified</b> about changes."
+msgstr "%s blev <b>informeret korrekt</b> om ændringerne."
+
+#: sitemap-ui.php:798
+msgid "Search engines haven't been notified yet. Write a post to let them know about your sitemap."
+msgstr "Søgemaskiner er ikke blevet underrettet endnu. Skriv en note for at fortælle dem om dit sitemap."
+
+#: sitemap-ui.php:795
+msgid "The URL to your sitemap index file is: <a href=\"%s\">%s</a>."
+msgstr "URL-adressen til din sitemap-indeks fil er: <a href=\"%s\">%s</a>."
+
+#: sitemap-ui.php:792
+msgid "There is still a sitemap.xml or sitemap.xml.gz file in your blog directory. Please delete them as no static files are used anymore or <a href=\"%s\">try to delete them automatically</a>."
+msgstr "Der er stadig en sitemap.xml eller sitemap.xml.gz-fil i din blogmappe. Slet dem, da der ikke bruges statiske filer mere, eller <a href=\"%s\">prøv at slette dem automatisk</a>."
+
+#: sitemap-ui.php:781
+msgid "Enable"
+msgstr "Aktiver"
+
+#: sitemap-ui.php:781
+msgid "Support Topics have been disabled. Enable them to see useful information regarding this plugin. No Ads or Spam!"
+msgstr "Support emner er deaktiveret. Aktiver dem for at se nyttige oplysninger om dette plugin. Ingen annoncer eller spam!"
+
+#: sitemap-ui.php:778
+msgid "No support topics available or an error occurred while fetching them."
+msgstr "Der var ingen tilgængelige support emner eller der opstod en fejl under hentning af dem."
+
+#: sitemap-ui.php:760
+msgid "Disable"
+msgstr "Deaktiver"
+
+#: sitemap-ui.php:756
+msgid "Recent Support Topics / News"
+msgstr "Seneste support emner / nyheder"
+
+#: sitemap-ui.php:749
+msgid "Result of the last ping, started on %date%."
+msgstr "Resultat af den sidste ping, startet den %date%."
+
+#: sitemap-ui.php:745
+msgid "Search engines haven't been notified yet"
+msgstr "Søgemaskiner er ikke blevet underrettet endnu"
+
+#: sitemap-ui.php:725
+msgid "Thanks for your support!"
+msgstr "Tak for din support!"
+
+#: sitemap-ui.php:722
+msgid "Hide this list"
+msgstr "Skjul denne liste"
+
+#: sitemap-ui.php:720
+msgid "List of the donors"
+msgstr "Liste over donationsgivere"
+
+#: sitemap-ui.php:717
+msgid "Recent Donations:"
+msgstr "Seneste donationer:"
+
+#: sitemap-ui.php:714
+msgid "My Sitemaps FAQ"
+msgstr "Dette Sitemaps FAQ"
+
+#: sitemap-ui.php:713
+msgid "Official Sitemaps FAQ"
+msgstr "Officiel Sitemap FAQ"
+
+#: sitemap-ui.php:712
+msgid "Sitemaps Protocol"
+msgstr "Sitemap protocol"
+
+#: sitemap-ui.php:710
+msgid "Webmaster Center Blog"
+msgstr "Webmaster Center Blog"
+
+#: sitemap-ui.php:707
+msgid "Search Blog"
+msgstr "Search Blog"
+
+#: sitemap-ui.php:705
+msgid "Webmaster Blog"
+msgstr "Webmaster Blog"
+
+#: sitemap-ui.php:704 sitemap-ui.php:709
+msgid "Webmaster Tools"
+msgstr "Webmaster Tools"
+
+#: sitemap-ui.php:703
+msgid "Sitemap Resources:"
+msgstr "Sitemap ressourcer:"
+
+#: sitemap-ui.php:700
+msgid "translator_url"
+msgstr "translator_url"
+
+#: sitemap-ui.php:700
+msgid "translator_name"
+msgstr "translator_name"
+
+#: sitemap-ui.php:699
+msgid "My Amazon Wish List"
+msgstr "Min Amazon ønskeliste"
+
+#: sitemap-ui.php:698
+msgid "Donate with PayPal"
+msgstr "Donere via PayPal"
+
+#: sitemap-ui.php:696
+msgid "Report a Bug"
+msgstr "Rapporter en fejl"
+
+#: sitemap-ui.php:695
+msgid "Support Forum"
+msgstr "Support forum"
+
+#: sitemap-ui.php:694
+msgid "Notify List"
+msgstr "Informer liste"
+
+#: sitemap-ui.php:693
+msgid "Help / FAQ"
+msgstr "Hjælp / OSS"
+
+#: sitemap-ui.php:692
+msgid "Suggest a Feature"
+msgstr "Foreslå en funktion"
+
+#: sitemap-ui.php:691
+msgid "Plugin Homepage"
+msgstr "Plugin hjemmeside"
+
+#: sitemap-ui.php:690
+msgid "About this Plugin:"
+msgstr "Om dette plugin:"
+
+#: sitemap-ui.php:675
+msgid "Your blog is currently blocking search engines! Visit the <a href=\"%s\">Reading Settings</a> to change this."
+msgstr "Din blog blokerer i øjeblikket søgemaskiner! Besøg <a href=\"%s\">privatlivsindstillingerne</a> for at ændre dette."
+
+#: sitemap-ui.php:526
+msgid "Don't show this anymore"
+msgstr "Vis ikke dette igen"
+
+#: sitemap-ui.php:526
+msgid "Thanks for using this plugin! You've installed this plugin some time ago. If it works and your are satisfied, why not <a href=\"%s\">rate it</a> and <a href=\"%s\">recommend it</a> to others? :-)"
+msgstr "Tak fordi du bruger dette plugin! Du har installeret dette plugin for nogen tid siden. Hvis det fungerer, og du er tilfreds, hvorfor ikke <a href=\"%s\">bedømme det</a> og <a href=\"%s\">anbefale det</a> til andre? :-)"
+
+#: sitemap-ui.php:519
+msgid "No thanks, please don't bug me anymore!"
+msgstr "Nej tak, lad venligst være med at forstyrre mig igen!"
+
+#: sitemap-ui.php:519
+msgid "Sure, but I already did!"
+msgstr "Ja, men det har jeg allerede gjort!"
+
+#: sitemap-ui.php:519
+msgid "Thanks for using this plugin! You've installed this plugin over a month ago. If it works and you are satisfied with the results, isn't it worth at least a few dollar? <a href=\"%s\">Donations</a> help me to continue support and development of this <i>free</i> software! <a href=\"%s\">Sure, no problem!</a>"
+msgstr "Tak fordi du bruger dette plugin! Du har installeret dette plugin for over en måned siden. Hvis det fungerer, og du er tilfreds med resultaterne, er det da ikke mindst et par kroner værd? <a href=\"%s\">Donationer</a> hjælper mig med at fortsætte support og udvikling af dette <i>gratis</i> software! <a href=\"%s\">Ja, intet problem!</a>"
+
+#: sitemap-ui.php:513
+msgid "Hide this notice"
+msgstr "Skjul denne meddelelse"
+
+#: sitemap-ui.php:513
+msgid "Thank you very much for your donation. You help me to continue support and development of this plugin and other free software!"
+msgstr "Mange tak for din donation. Du hjælper mig med at fortsætte support og udvikling af dette plugin og andet gratis software!"
+
+#: sitemap-ui.php:470
+msgid "Ping was executed, please see below for the result."
+msgstr "Ping blev udført, se venligst nedenfor for resultatet."
+
+#: sitemap-ui.php:453
+msgid "All done!"
+msgstr "Færdig!"
+
+#: sitemap-ui.php:431
+msgid "The plugin is notifying the selected search engines about your main sitemap and all sub-sitemaps. This might take a minute or two."
+msgstr "Plugin underretter de valgte søgemaskiner om dit primære sitemap og alle underliggende-sitemaps. Dette kan tage et minut eller to."
+
+#: sitemap-ui.php:430
+msgid "Notify Search Engines about all sitemaps"
+msgstr "Underret søgemaskiner om alle sitemaps"
+
+#: sitemap-ui.php:393
+msgid "The old files were successfully deleted."
+msgstr "De gamle filer blev slettet."
+
+#: sitemap-ui.php:391
+msgid "The old files could NOT be deleted. Please use an FTP program and delete them by yourself."
+msgstr "De gamle filer kunne IKKE slettes. Brug venligst et FTP-program og slet dem selv."
+
+#: sitemap-ui.php:381
+msgid "The default configuration was restored."
+msgstr "Standard indstillingerne er gendannet."
+
+#: sitemap-ui.php:373
+msgid "Error while saving pages"
+msgstr "Der opstod en fejl da siderne skulle gemmes"
+
+#: sitemap-ui.php:372
+msgid "Pages saved"
+msgstr "Sider gemt"
+
+#: sitemap-ui.php:369
+msgid "Error while saving options"
+msgstr "Der forekom en fejl da indstilingerne skulle gemmes"
+
+#: sitemap-ui.php:368
+msgid "Configuration updated"
+msgstr "Indstillingerne blev opdateret"
+
+#: sitemap-ui.php:181 sitemap-ui.php:671
+msgid "XML Sitemap Generator for WordPress"
+msgstr "XML-Sitemap Generator til Wordpress"
+
+#: sitemap-loader.php:236
+msgid "Donate"
+msgstr "Doner"
+
+#: sitemap-loader.php:235
+msgid "Support"
+msgstr "Support"
+
+#: sitemap-loader.php:234
+msgid "FAQ"
+msgstr "OSS"
+
+#: sitemap-loader.php:233
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: sitemap-loader.php:206
+msgid "XML-Sitemap"
+msgstr "XML-Sitemap"
+
+#: sitemap-loader.php:206
+msgid "XML-Sitemap Generator"
+msgstr "XML-Sitemap Generator"
+
+#: sitemap-core.php:784
+msgid "Never"
+msgstr "Aldrig"
+
+#: sitemap-core.php:783
+msgid "Yearly"
+msgstr "Årlig"
+
+#: sitemap-core.php:782
+msgid "Monthly"
+msgstr "Månedlig"
+
+#: sitemap-core.php:781
+msgid "Weekly"
+msgstr "Ugentlig"
+
+#: sitemap-core.php:780
+msgid "Daily"
+msgstr "Daglig"
+
+#: sitemap-core.php:779
+msgid "Hourly"
+msgstr "Hver time"
+
+#: sitemap-core.php:778
+msgid "Always"
+msgstr "Altid"
+
+#: sitemap-core.php:618
+msgid "Uses the average comment count to calculate the priority"
+msgstr "Bruger det gennemsnitlige antal kommentarer til at udregne prioriteten"
+
+#: sitemap-core.php:608
+msgid "Comment Average"
+msgstr "Kommentar gennemsnit"
+
+#: sitemap-core.php:557
+msgid "Uses the number of comments of the post to calculate the priority"
+msgstr "Brug antallet af kommentarer til indlægget til at udregne prioriteten"
+
+#: sitemap-core.php:547
+msgid "Comment Count"
+msgstr "Antal kommentar"

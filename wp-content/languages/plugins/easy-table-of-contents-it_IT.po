@@ -1,0 +1,532 @@
+# Translation of Plugins - Easy Table of Contents - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - Easy Table of Contents - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-11 09:49:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - Easy Table of Contents - Stable (latest release)\n"
+
+#: includes/class.options.php:353
+msgid "Bold"
+msgstr "Grassetto"
+
+#: includes/class.options.php:351
+msgid "Medium"
+msgstr "Medio"
+
+#: includes/class.options.php:350
+msgid "Normal"
+msgstr "Normale"
+
+#: includes/class.options.php:349
+msgid "Light"
+msgstr "Leggero"
+
+#: includes/class.options.php:347
+msgid "Thin"
+msgstr "Sottile"
+
+#: includes/class.options.php:343
+msgid "Title Font Weight"
+msgstr "Spessore del carattere"
+
+#: includes/class.options.php:336
+msgid "Title Font Size"
+msgstr "Dimensione del font del titolo"
+
+#: includes/class.options.php:354
+msgid "Extra Bold"
+msgstr "Grassetto extra"
+
+#: includes/class.options.php:352
+msgid "Semi Bold"
+msgstr "Grassetto leggero"
+
+#: includes/class.options.php:514
+msgid "Mobile Smooth Scroll Offset"
+msgstr "Offset scorrimento fluido per mobile"
+
+#: includes/class.options.php:515
+msgid "This provides the same function as the Smooth Scroll Offset option above but applied when the user is visiting your site on a mobile device."
+msgstr "È la stessa funzionalità dell'opzione Offset scorrimento fluido qui sopra, ma applicata agli utenti che visitano il tuo sito da un dispositivo mobile."
+
+#: includes/class.options.php:355
+msgid "Heavy"
+msgstr "Grassetto molto marcato"
+
+#: includes/class.options.php:348
+msgid "Extra Light"
+msgstr "Molto leggero"
+
+#. Author of the plugin
+msgid "Steven A. Zahm"
+msgstr "Steven A. Zahm"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://connections-pro.com/"
+msgstr "http://connections-pro.com/"
+
+#: includes/inc.admin-options-page.php:61
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+#: includes/inc.admin-options-page.php:27
+msgid "Appearance"
+msgstr "Aspetto"
+
+#: includes/inc.admin-options-page.php:9
+msgid "General"
+msgstr "Generale"
+
+#. Plugin Name of the plugin
+msgid "Easy Table of Contents"
+msgstr "Easy Table of Contents"
+
+#: includes/class.widget-toc.php:343
+msgid "Title"
+msgstr "Titolo"
+
+#: includes/class.options.php:457
+msgid "CSS"
+msgstr "CSS"
+
+#: includes/class.options.php:436
+msgid "Lowercase"
+msgstr "Minuscolo"
+
+#: includes/class.options.php:410
+msgid "Link Color"
+msgstr "Colore link"
+
+#: includes/class.options.php:403
+msgid "Title Color"
+msgstr "Colore titolo"
+
+#: includes/class.options.php:424
+msgid "Link Visited Color"
+msgstr "Colore link visitati"
+
+#: includes/class.options.php:396
+msgid "Border Color"
+msgstr "Colore bordo"
+
+#: includes/class.options.php:389
+msgid "Background Color"
+msgstr "Colore sfondo"
+
+#: includes/class.options.php:376
+msgid "Transparent"
+msgstr "Trasparente"
+
+#: includes/class.options.php:375
+msgid "Black"
+msgstr "Nero"
+
+#: includes/class.options.php:374
+msgid "White"
+msgstr "Bianco"
+
+#: includes/class.options.php:373
+msgid "Light Blue"
+msgstr "Azzurro"
+
+#: includes/class.options.php:372
+msgid "Grey"
+msgstr "Grigio"
+
+#: includes/class.options.php:368
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/class.options.php:330
+msgid "Right"
+msgstr "Destra"
+
+#: includes/class.options.php:329
+msgid "Left"
+msgstr "Sinistra"
+
+#: includes/class.options.php:307 includes/class.options.php:377
+msgid "Custom"
+msgstr "Personalizzato"
+
+#: includes/class.options.php:276
+msgid "Width"
+msgstr "Larghezza"
+
+#: includes/class.options.php:256
+msgid "Numeric"
+msgstr "Numerico"
+
+#: includes/class.options.php:255
+msgid "Decimal (default)"
+msgstr "Decimale (predefinito)"
+
+#: includes/class.options.php:212
+msgid "Contents"
+msgstr "Contenuti"
+
+#: includes/class.options.php:194
+msgid "Show when"
+msgstr "Mostra quando"
+
+#: includes/class.options.php:180
+msgid "Position"
+msgstr "Posizione"
+
+#: includes/class.options.php:495 includes/class.admin.php:275
+#: includes/class.admin.php:309
+msgid "Examples:"
+msgstr "Esempi:"
+
+#: includes/class.options.php:480 includes/class.admin.php:242
+msgid "Heading 6 (h6)"
+msgstr "Titolo 6 (h6)"
+
+#: includes/class.options.php:479 includes/class.admin.php:241
+msgid "Heading 5 (h5)"
+msgstr "Titolo 5 (h5) "
+
+#: includes/class.options.php:478 includes/class.admin.php:240
+msgid "Heading 4 (h4)"
+msgstr "Titolo 4 (h4) "
+
+#: includes/class.options.php:477 includes/class.admin.php:239
+msgid "Heading 3 (h3)"
+msgstr "Titolo 3 (h3) "
+
+#: includes/class.options.php:476 includes/class.admin.php:238
+msgid "Heading 2 (h2)"
+msgstr "Titolo 2 (h2) "
+
+#: includes/class.options.php:475 includes/class.admin.php:237
+msgid "Heading 1 (h1)"
+msgstr "Titolo 1 (h1) "
+
+#: includes/class.admin.php:218
+msgid "NOTE:"
+msgstr "NOTA:"
+
+#: includes/class.admin.php:220
+msgid "Using the advanced options below will override the global advanced settings."
+msgstr "Usando le opzioni avanzate sottostanti verranno ignorate le impostazioni globali avanzate."
+
+#: includes/class.admin.php:60
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: includes/inc.admin-options-page.php:45
+msgid "Advanced"
+msgstr "Avanzate"
+
+#: includes/class.admin.php:92 includes/class.admin.php:93
+#: includes/class.admin.php:145 includes/inc.admin-options-page.php:2
+#: includes/class.widget-toc.php:27
+msgid "Table of Contents"
+msgstr "Indice dei contenuti"
+
+#. Description of the plugin
+msgid "Adds a user friendly and fully automatic way to create and display a table of contents generated from the page content."
+msgstr "Permette di creare e visualizzare un indice generato in base al contenuto della pagina in modo facile e completamente automatico."
+
+#: includes/class.options.php:171
+msgid "Auto Insert"
+msgstr "Inserimento automatico"
+
+#: includes/class.options.php:317
+msgid "Custom Width"
+msgstr "Larghezza personalizzata"
+
+#: includes/class.options.php:264
+msgid "Smooth Scroll"
+msgstr "Scorrimento fluido"
+
+#: includes/class.options.php:506
+msgid "Smooth Scroll Offset"
+msgstr "Offset scorrimento fluido"
+
+#: includes/class.options.php:507
+msgid "If you have a consistent menu across the top of your site, you can adjust the top offset to stop the headings from appearing underneath the top menu. A setting of 30 accommodates the WordPress admin bar. This setting only has an effect after you have enabled Smooth Scroll option."
+msgstr "Se hai un menu fisso in alto nel tuo sito, puoi aggiustare l'offset dall'altro per prevenire la sovrapposizione del titolo al menu.Un'impostazione di 30 lascia lo spazio per la barra amministrativa di WordPress. Questa impostazione ha effetto solo se l'opzione Scorrimento fluido è abilitata."
+
+#: includes/class.widget-toc.php:22
+msgid "Display the table of contents."
+msgstr "Visualizza l'indice dei contenuti."
+
+#: includes/class.options.php:523
+msgid "Restrict generation of the table of contents to pages that match the required path. This path is from the root of your site and always begins with a forward slash."
+msgstr "Limita la generazione dell'indice dei contenuti alle pagina che hanno un percorso corrispondente a quello richiesto. Questo percorso è relativo alla radice del tuo sito e inizia sempre con una barra obliqua."
+
+#: includes/class.options.php:522
+msgid "Limit Path"
+msgstr "Limita a questo percorso "
+
+#: includes/class.options.php:529
+msgid "Default Anchor Prefix"
+msgstr "Prefisso predefinito per l'ancora"
+
+#: includes/class.options.php:530
+msgid "Anchor targets are restricted to alphanumeric characters as per HTML specification (see readme for more detail). The default anchor prefix will be used when no characters qualify. When left blank, a number will be used instead."
+msgstr "I target delle ancore sono limitati a caratteri alfanumerici come da specifiche HTML (leggi il readme per maggiori dettagli). Il prefisso predefinito per le ancore sarà utilizzato quando nessun carattere è idoneo. Se lasciato vuoto sarà utilizzato un numero."
+
+#: includes/class.options.php:210
+msgid "Eg: Contents, Table of Contents, Page Contents"
+msgstr "Es: contenuti, indice dei contenuti, contenuti delle pagine"
+
+#: includes/class.options.php:532
+msgid "Eg: i, toc_index, index, _"
+msgstr "Es: i, toc_index, index, _"
+
+#: includes/class.options.php:524
+msgid "Eg: /wiki/, /corporate/annual-reports/"
+msgstr "Es: /wiki/, /corporate/report-annuali/"
+
+#: includes/class.options.php:541
+msgid "Eg: .widget-area or #sidebar"
+msgstr "Es: .widget-area o #sidebar"
+
+#: includes/class.options.php:361
+msgid "Font Size"
+msgstr "Dimensione del font"
+
+#: includes/class.options.php:383
+msgid "Custom Theme"
+msgstr "Personalizza il tema"
+
+#: includes/class.options.php:417
+msgid "Link Hover Color"
+msgstr "Colore link all'hover"
+
+#: includes/class.options.php:444
+msgid "Use - rather than _ in anchors."
+msgstr "Utilizza - invece di _ nelle ancore."
+
+#: includes/class.options.php:309
+msgid "User Defined"
+msgstr "Definito dall'utente"
+
+#: includes/class.options.php:450
+msgid "Homepage"
+msgstr "Homepage"
+
+#: includes/class.options.php:258
+msgid "None"
+msgstr "Nessuno"
+
+#: includes/class.options.php:251
+msgid "Counter"
+msgstr "Numeratore"
+
+#: includes/class.options.php:257
+msgid "Roman"
+msgstr "Romano"
+
+#: includes/class.options.php:209
+msgid "Header Label"
+msgstr "Etichetta del titolo"
+
+#: includes/class.options.php:202
+msgid "Display Header Label"
+msgstr "Visualizza il titolo"
+
+#: includes/class.options.php:186
+msgid "Top"
+msgstr "In alto"
+
+#: includes/class.options.php:187
+msgid "Bottom"
+msgstr "In basso"
+
+#: includes/class.options.php:281
+msgid "Fixed"
+msgstr "Fissa"
+
+#: includes/class.options.php:295
+msgid "Relative"
+msgstr "Relativa"
+
+#: includes/class.options.php:324
+msgid "Float"
+msgstr "Posizione"
+
+#: includes/class.options.php:328
+msgid "None (Default)"
+msgstr "Nessuna (predefinito)"
+
+#: includes/class.options.php:185
+msgid "After first heading"
+msgstr "Dopo il primo titolo"
+
+#: includes/class.options.php:184
+msgid "Before first heading (default)"
+msgstr "Prima del primo titolo (predefinito)"
+
+#: includes/class.options.php:163
+msgid "Enable Support"
+msgstr "Abilita supporto"
+
+#: includes/class.options.php:531
+msgid "This option normally applies to content written in character sets other than ASCII."
+msgstr "Questa opzione si applica normalmente al contenuto scritto in con un set di caratteri diverso da ASCII."
+
+#: includes/class.options.php:793
+msgid "The callback function used for the <strong>%s</strong> setting is missing."
+msgstr "La funzione di callback usata per l'impostazione <strong>%s</strong> è mancante."
+
+#: includes/class.options.php:443
+msgid "Hyphenate"
+msgstr "Unisci con un trattino"
+
+#: includes/class.options.php:437
+msgid "Ensure anchors are in lowercase."
+msgstr "Assicurati che le ancore siano in minuscolo."
+
+#: includes/class.options.php:486 includes/class.admin.php:286
+msgid "Exclude Headings"
+msgstr "Escludi titoli"
+
+#: includes/class.options.php:497 includes/class.admin.php:311
+msgid "<code>Fruit*</code> Ignore headings starting with \"Fruit\"."
+msgstr "<code>Frutta*</code> Ignora i titoli che iniziano con la parola \"Frutta\"."
+
+#: includes/class.options.php:499 includes/class.admin.php:313
+msgid "<code>Apple Tree|Oranges|Yellow Bananas</code> Ignore headings that are exactly \"Apple Tree\", \"Oranges\" or \"Yellow Bananas\"."
+msgstr "<code>Albero di mele|Arance|Banane gialle</code> Ignora i titoli che corrispondono esattamente a \"Albero di mele\", \"Arance\" o \"Banane gialle\"."
+
+#: includes/class.admin.php:211
+msgid "Advanced:"
+msgstr "Avanzate:"
+
+#: includes/class.options.php:471 includes/class.admin.php:229
+msgid "Headings:"
+msgstr "Titoli:"
+
+#: includes/class.options.php:501 includes/class.admin.php:315
+msgid "<strong>Note:</strong> This is not case sensitive."
+msgstr "<strong>Nota:</strong> non tiene conto di maiuscole e minuscole."
+
+#: includes/class.admin.php:279
+msgid "<strong>Note:</strong> This is case sensitive."
+msgstr "<strong>Note:</strong> tiene conto di maiuscole e minuscole."
+
+#: includes/class.options.php:195
+msgid "or more headings are present"
+msgstr "o più titoli sono presenti"
+
+#: includes/class.options.php:498 includes/class.admin.php:312
+msgid "<code>*Fruit Diet*</code> Ignore headings with \"Fruit Diet\" somewhere in the heading."
+msgstr "<code>*Dieta di frutta*</code> Ignora i titoli (h2, h3...) che contengono \"Dieta di frutta\" nel titolo."
+
+#: includes/class.options.php:451
+msgid "Show the table of contents for qualifying items on the homepage."
+msgstr "Mostra l'indice dei contenuti per gli elementi idonei nella homepage."
+
+#: includes/class.options.php:458
+msgid "Prevent the loading the core CSS styles. When selected, the appearance options from above will be ignored."
+msgstr "Impedisci il caricamento degli stili CSS principali. Se selezionato, le opzioni di stile qui sopra verranno ignorate."
+
+#: includes/class.options.php:384
+msgid "For the following settings to apply, select the Custom Theme option."
+msgstr "Per applicare le seguenti impostazioni, seleziona l'opzione Personalizzato per il tema."
+
+#: includes/class.options.php:540
+msgid "Since every theme is different, this can not be determined automatically. If you are unsure how to find the sidebar's class or id, please ask the theme's support persons."
+msgstr "Poiché ogni tema è differente non lo si può determinare automaticamente. Se non sai come trovare la classe o l'id della barra laterale, contatta il supporto del tuo tema."
+
+#: includes/class.widget-toc.php:350
+msgid "Active Section Highlight Color:"
+msgstr "Colore di evidenziazione della sezione attiva:"
+
+#: includes/class.options.php:539
+msgid "To enable the option to affix or pin the Table of Contents widget enter the theme's sidebar class or id."
+msgstr "Per abilitare l'opzione e rendere fisso il widget della tabella dei contenuti, inserisci la classe o l'id della barra laterale del tema."
+
+#: includes/class.options.php:538
+msgid "Widget Affix Selector"
+msgstr "Selettore per rendere fisso il widget"
+
+#: includes/class.widget-toc.php:358
+msgid "Affix or pin the widget."
+msgstr "Rendi fisso il widget"
+
+#: includes/class.options.php:172
+msgid "Select the post types which will have the table of contents automatically inserted."
+msgstr "Seleziona i tipi di post type per i quali l'indice dei contenuti sarà inserito in automatico."
+
+#: includes/class.options.php:164
+msgid "Select the post types to enable the support for table of contents."
+msgstr "Seleziona i tipi di post type per i quali l'indice dei contenuti sarà abilitato."
+
+#: includes/class.options.php:216
+msgid "Toggle View"
+msgstr "Attiva/disattiva visualizzazione"
+
+#: includes/class.options.php:181
+msgid "Choose where where you want to display the table of contents."
+msgstr "Scegli dove vuoi visualizzare l'indice dei contenuti."
+
+#: includes/class.options.php:472 includes/class.admin.php:235
+msgid "Select the heading to consider when generating the table of contents. Deselecting a heading will exclude it."
+msgstr "Seleziona i titoli da includere nella generazione automatica dell'indice dei contenuti. Deseleziona i titoli che vuoi escludere."
+
+#: includes/class.options.php:487 includes/class.admin.php:292
+msgid "Specify headings to be excluded from appearing in the table of contents. Separate multiple headings with a pipe <code>|</code>. Use an asterisk <code>*</code> as a wildcard to match other text."
+msgstr "Specifica i titoli da escludere dall'indice dei contenuti. Separa titoli multipli con una barra verticale <code>|</code>. Utilizza un asterisco <code>*</code> come carattere jolly per far corrispondere un testo."
+
+#: includes/class.admin.php:258
+msgid "Specify alternate table of contents header string. Add the header to be replaced and the alternate header on a single line separated with a pipe <code>|</code>. Put each additional original and alternate header on its own line."
+msgstr "Specifica un testo alternativo per il titolo dell'indice dei contenuti. Aggiungi il titolo che deve essere sostituito e il titolo alternativo su una singola riga separati da una barra verticale <code>|</code>. Inserisci ogni titolo originale e alternativo sulla propria riga."
+
+#: includes/class.options.php:244
+msgid "Show as Hierarchy"
+msgstr "Mostra la gerarchia"
+
+#: includes/class.options.php:203
+msgid "Show header text above the table of contents."
+msgstr "Mostra il titolo sopra all'indice dei contenuti."
+
+#: includes/class.admin.php:252
+msgid "Alternate Headings"
+msgstr "Titoli alternativi"
+
+#: includes/class.admin.php:188
+msgid "Disable the automatic insertion of the table of contents."
+msgstr "Disabilita l'inserimento automatico dell'indice dei contenuti."
+
+#: includes/class.options.php:237
+msgid "Initial View"
+msgstr "Visualizzazione iniziale"
+
+#: includes/class.options.php:238
+msgid "Initially hide the table of contents."
+msgstr "Inizialmente nascondi l'indice dei contenuti."
+
+#: includes/class.options.php:217
+msgid "Allow the user to toggle the visibility of the table of contents."
+msgstr "Permetti all'utente di attivare/disattivare la visualizzazione dell'indice dei contenuti."
+
+#: includes/class.widget-toc.php:362
+msgid "If you choose to affix the widget, do not add any other widgets on the sidebar. Also, make sure you have only one instance Table of Contents widget on the page."
+msgstr "Se scegli di rendere fissa la posizione del widget, non aggiungere nessun altro widget alla barra laterale. Inoltre assicurati che ci sia una sola istanza del widget di Easy Table of Contents nella pagina."
+
+#: includes/class.admin.php:199
+msgid "Insert table of contents."
+msgstr "Inserisci l'indice dei contenuti."
+
+#: includes/class.admin.php:277
+msgid "<code>Level [1.1]|Alternate TOC Header</code> Replaces Level [1.1] in the table of contents with Alternate TOC Header."
+msgstr "<code>Level [1.1]|Header TOC alternativo</code> Sostituisci Level [1.1] nell'indice dei contenuti con un header TOC alternativo."
+
+#: includes/class.options.php:173
+msgid "NOTE: The table of contents will only be automatically inserted on post types for which it has been enabled."
+msgstr "NOTA: l'indice dei contenuti sarà inserito in automatico solo per i tipi di articoli per i quali è stato abilitato."
+
+#: includes/class.options.php:369
+msgid "The theme is only applied to the table of contents which is auto inserted into the post. The Table of Contents widget will inherit the theme widget styles."
+msgstr "Il tema si applica solo all'indice dei contenuti che viene inserito automaticamente nell'articolo. Il widget Table of Contents erediterà lo stile del tema del widget."

@@ -1,0 +1,390 @@
+# Translation of Plugins - FV Flowplayer Video Player - Development (trunk) in Chinese (China)
+# This file is distributed under the same license as the Plugins - FV Flowplayer Video Player - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-08 04:58:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - FV Flowplayer Video Player - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://foliovision.com/"
+msgstr "http://foliovision.com/"
+
+#. Description of the plugin/theme
+msgid "Embed videos (MP4, WEBM, OGV, FLV) into posts or pages. Uses Flowplayer 5."
+msgstr "使用Flowplayer 5。将视频（MP4，WEBM，OGV，FLV）嵌入到文章或页面中。"
+
+#. Plugin URI of the plugin/theme
+msgid "http://foliovision.com/wordpress/plugins/fv-wordpress-flowplayer"
+msgstr "http://foliovision.com/wordpress/plugins/fv-wordpress-flowplayer"
+
+#. Plugin Name of the plugin/theme
+msgid "FV WordPress Flowplayer"
+msgstr "FV WordPress Flowplayer"
+
+#: view/wizard.php:298
+msgid "currently not working with playlist"
+msgstr "当前播放列表无法工作"
+
+#: view/wizard.php:293
+msgid "Admin note: Enable more per video features in Interface options in"
+msgstr "注意：在“接口选项”中启用更多的视频功能"
+
+#: view/wizard.php:286 view/wizard.php:293
+msgid "Settings"
+msgstr "设置"
+
+#: view/wizard.php:286
+msgid "Admin note: Video uploads are currenty disabled, set Allow User Uploads to true in"
+msgstr "注意：视频上传目前处于禁用状态，请将“允许用户上传”设置为“"
+
+#: view/wizard.php:280
+msgid "Insert"
+msgstr "嵌入"
+
+#: view/wizard.php:268
+msgid "Speed Buttons"
+msgstr "速度按钮"
+
+#: view/wizard.php:264
+msgid "Live Stream"
+msgstr "现场直播"
+
+#: view/wizard.php:259 view/wizard.php:273
+msgid "No"
+msgstr "没有"
+
+#: view/wizard.php:258 view/wizard.php:272
+msgid "Yes"
+msgstr "是的"
+
+#: view/wizard.php:254
+msgid "Controlbar"
+msgstr "控制栏"
+
+#: view/wizard.php:249
+msgid "Right"
+msgstr "右"
+
+#: view/wizard.php:248
+msgid "Left"
+msgstr "左"
+
+#: view/wizard.php:244
+msgid "Align"
+msgstr "对齐"
+
+#: view/wizard.php:240
+msgid "Skip global ad in this video"
+msgstr "跳过视频中的广告内容"
+
+#: view/wizard.php:232
+msgid "Ad code"
+msgstr "广告代码"
+
+#: view/wizard.php:222
+msgid "Embedding"
+msgstr "嵌入"
+
+#: view/wizard.php:218
+msgid "(show splash image at the end)"
+msgstr "(在最后显示图像)"
+
+#: view/wizard.php:215
+msgid "Splash end"
+msgstr "载入完毕"
+
+#: view/wizard.php:210
+msgid "Loop"
+msgstr "循环"
+
+#: view/wizard.php:205 view/wizard.php:227
+msgid "Off"
+msgstr "关闭"
+
+#: view/wizard.php:204 view/wizard.php:226
+msgid "On"
+msgstr "开启"
+
+#: view/wizard.php:200
+msgid "Autoplay"
+msgstr "自动播放"
+
+#: view/wizard.php:196
+msgid "Redirect to"
+msgstr "跳转到"
+
+#: view/wizard.php:192
+msgid "HTML Popup"
+msgstr "HTML 弹出"
+
+#: view/wizard.php:189
+msgid "Additional features"
+msgstr "附加功能"
+
+#: view/wizard.php:184
+msgid "Add Playlist Item"
+msgstr "添加到播放列表"
+
+#: view/wizard.php:182
+msgid "Tabs"
+msgstr "标签"
+
+#: view/wizard.php:181 view/wizard.php:203 view/wizard.php:225
+#: view/wizard.php:247 view/wizard.php:257 view/wizard.php:271
+msgid "Default"
+msgstr "默认"
+
+#: view/wizard.php:178
+msgid "Playlist Style"
+msgstr "播放列表样式"
+
+#: view/wizard.php:156
+msgid "Caption"
+msgstr "标题"
+
+#: view/wizard.php:151
+msgid "Add Subtitles"
+msgstr "添加字幕"
+
+#: view/wizard.php:148
+msgid "Subtitles"
+msgstr "字幕"
+
+#: view/wizard.php:143
+msgid "Add Image"
+msgstr "添加图片"
+
+#: view/wizard.php:140
+msgid "Splash Image"
+msgstr "开场图像"
+
+#: view/wizard.php:132
+msgid "Mobile Video"
+msgstr "移动端视频"
+
+#: view/wizard.php:128
+msgid "Add RTMP"
+msgstr "添加RTMP"
+
+#: view/wizard.php:127
+msgid "(i.e. WebM, OGV)"
+msgstr "(i.e. WebM, OGV)"
+
+#: view/wizard.php:127
+msgid "Add another format"
+msgstr "添加其他格式"
+
+#: view/wizard.php:120
+msgid "RTMP Path"
+msgstr "RTMP 路径"
+
+#: view/wizard.php:117
+msgid "Leave empty to use Flash streaming server from plugin settings"
+msgstr "留空以使用插件设置的Flash流媒体服务器"
+
+#: view/wizard.php:117
+msgid "RTMP Server"
+msgstr "RTMP服务器"
+
+#: view/wizard.php:99 view/wizard.php:108
+msgid "(another format)"
+msgstr "（另一种格式）"
+
+#: view/wizard.php:95 view/wizard.php:239
+msgid "Height"
+msgstr "高度"
+
+#: view/wizard.php:95 view/wizard.php:239
+msgid "Width"
+msgstr "宽度"
+
+#: view/wizard.php:91
+msgid "File size"
+msgstr "文件大小"
+
+#: view/wizard.php:90
+msgid "Video Duration"
+msgstr "视频时长"
+
+#: view/wizard.php:83 view/wizard.php:102 view/wizard.php:111
+#: view/wizard.php:135
+msgid "Add Video"
+msgstr "添加视频"
+
+#: view/wizard.php:79 view/wizard.php:99 view/wizard.php:108
+msgid "Video"
+msgstr "视频"
+
+#: view/wizard.php:78
+msgid "(remove)"
+msgstr "(删除)"
+
+#: view/admin.php:37
+msgid "Default set size"
+msgstr "默认设置尺寸"
+
+#: view/admin.php:32
+msgid "Default Ad Code"
+msgstr "默认广告代码"
+
+#: models/checker.php:315
+msgid "Every 5 minutes"
+msgstr "每五分钟"
+
+#: controller/frontend.php:436
+msgid "Posts by %s"
+msgstr "由%s发布"
+
+#: controller/frontend.php:71
+msgid "Video Issues"
+msgstr "视频问题"
+
+#: controller/frontend.php:70
+msgid "Admin: Check failed."
+msgstr "管理员：检查失败。"
+
+#: controller/frontend.php:69
+msgid "Admin: Video checker doesn't support IE 9."
+msgstr "管理员：视频不支持IE 9。"
+
+#: controller/frontend.php:68
+msgid "Admin: Error parsing JSON"
+msgstr "管理员：解析JSON时出错"
+
+#: controller/frontend.php:67
+msgid "Please give us more information (a full sentence) so we can help you better"
+msgstr "请给我们更多的信息（一个完整的句子），来帮助我们更好"
+
+#: controller/frontend.php:66
+msgid "Please tell us what is wrong :"
+msgstr "请提交给我们错误问题 :"
+
+#: controller/frontend.php:64 controller/frontend.php:65
+msgid "<h2>Live stream load failed.</h2><h3>Please try again later, perhaps the stream is currently offline.</h3>"
+msgstr "<h2>直播视频读取错误</h2><h3>请稍候再试, 也许该直播处于离线状态。</h3>"
+
+#: controller/frontend.php:63
+msgid "for full quality."
+msgstr "高清品质"
+
+#: controller/frontend.php:62
+msgid "Click here"
+msgstr "点击这里"
+
+#: controller/frontend.php:61
+msgid "Mobile browser detected, serving low bandwidth video."
+msgstr "检测到是移动端，提供低画质视频。"
+
+#: controller/frontend.php:60
+msgid "<h2>Unsupported video format.<br />Please use a Flash compatible device.</h2>"
+msgstr "<h2>不支持的视频格式<br />请使用兼容的Flash设备</h2>"
+
+#: controller/frontend.php:59
+msgid "<h2>Video file expired.<br />Please reload the page and play it again.</h2>"
+msgstr "<h2>视频文件已过期。<br />请重新加载页面并再次尝试播放。</h2>"
+
+#: controller/frontend.php:58 models/flowplayer-frontend.php:182
+msgid "[This post contains video, click to play]"
+msgstr "[该文章内嵌视频, 点击播放]"
+
+#: controller/frontend.php:57 models/flowplayer-frontend.php:182
+msgid "Click to watch the video"
+msgstr "点击播放视频"
+
+#: controller/frontend.php:56
+msgid "Unsupported video format. Try installing Adobe Flash."
+msgstr "不支持的视频格式。请尝试安装Adobe Flash后使用。"
+
+#: controller/frontend.php:55
+msgid "Invalid RTMP URL"
+msgstr "无效的 RTMP 地址"
+
+#: controller/frontend.php:54
+msgid "Subtitles not found"
+msgstr "没有找到字幕"
+
+#: controller/frontend.php:53
+msgid "SWF file not found"
+msgstr "没有找到SWF文件"
+
+#: controller/frontend.php:52
+msgid "Skin not found"
+msgstr "没有找到皮肤"
+
+#: controller/frontend.php:51
+msgid "Unsupported video"
+msgstr "不支持的视频"
+
+#: controller/frontend.php:50
+msgid "Video file not found"
+msgstr "没有找到视频文件"
+
+#: controller/frontend.php:49
+msgid "Video not properly encoded"
+msgstr "视频编码不正确"
+
+#: controller/frontend.php:48
+msgid "Network error"
+msgstr "网络错误"
+
+#: controller/frontend.php:47
+msgid "Video loading aborted"
+msgstr "视频加载中止"
+
+#: controller/backend.php:392
+msgid "I'll check this later"
+msgstr "我稍候检查"
+
+#: controller/backend.php:391
+msgid "Hide this notice"
+msgstr "隐藏通知"
+
+#: controller/backend.php:388
+msgid "FV Flowplayer License Expired"
+msgstr "FV Flowplayer 许可证已经过期"
+
+#: controller/backend.php:373
+msgid "I'll update it manually"
+msgstr "我会手动更新它"
+
+#: controller/backend.php:372
+msgid "Always auto-update"
+msgstr "永久保持自动升级"
+
+#: controller/backend.php:370
+msgid "New version of FV Flowplayer core has been installed for your licensed website. Please accept the automatic license key updating (connects to Foliovision servers) or update the key manually by loggin into your Foliovision account."
+msgstr "已经为您的网站安装了新版本的FV Flowplayer核心。请接受自动许可证密钥更新（连接到Foliovision服务器）或通过登录手动更新密钥到您的 Foliovision帐户。"
+
+#: controller/backend.php:369
+msgid "FV Flowplayer License Update"
+msgstr "FV Flowplayer 许可证更新"
+
+#: controller/backend.php:357
+msgid "Disable the video checker"
+msgstr "禁用视频检查"
+
+#: controller/backend.php:356
+msgid "Allow"
+msgstr "允许"
+
+#: controller/backend.php:354
+msgid "<p>FV Player includes a free video checker which will check your videos for any encoding errors and helps ensure smooth playback of all your videos. To work its magic, our video checker must contact our server.</p><p>Would you like to enable the video encoding checker?</p>"
+msgstr "<p>FV Player包含一个免费的视频检查器，它将检查您的视频是否包含任何编码错误，并有助于确保顺利的播放所有的视频。要发挥它的功能，视频检查器必须连接到我们的服务器。</p><p>请问您要是否要启用视频编码检查功能</p>"
+
+#: controller/backend.php:353
+msgid "FV Player Video Checker"
+msgstr "FV Player 视频检查器"
+
+#: controller/backend.php:264
+msgid "FV Wordpress Flowplayer: Your pro extension is installed, but it's not compatible with FV Flowplayer 6! Make sure you upgrade your FV Player Pro to version 0.5 or above."
+msgstr "FV Wordpress Flowplayer：您的扩展程序已经安装，但与FV Flowplayer 6不兼容！请确保你升级你的 FV Player Pro 0.5或以上版本。"
+
+#: controller/backend.php:249
+msgid "FV Wordpress Flowplayer has found old shortcodes in the content of your posts. <a href=\"%1$s\">Run the conversion script.</a>"
+msgstr "FV Wordpress Flowplayer在您的网站内容中找到了旧的简码。<a href=\"%1$s\">运行转换脚本。</a>"

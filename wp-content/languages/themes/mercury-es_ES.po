@@ -1,0 +1,92 @@
+# Translation of Themes - Mercury in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Mercury package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-02 14:38:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Mercury\n"
+
+#. Theme Name of the plugin/theme
+msgid "Mercury"
+msgstr "Mercury"
+
+#. Description of the plugin/theme
+msgid "Enjoy all of WordPress's P2 theme features like inline comments, a posting form right on the homepage, inline editing of posts and comments, real-time updates and more — now with a clean, modern and responsive layout."
+msgstr "Disfruta de todas las funcionalidades del tema P2 como comentarios internos, publicación directamente desde la página de inicio, edición interna, actualizaciones a tiempo real,.. y más — Ahora con un diseño limpio, moderno y adaptable."
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Ir al contenido"
+
+#: header.php:35
+msgid "Menu"
+msgstr "Menu"
+
+#: footer.php:32
+msgid "cancel"
+msgstr "Cancelar"
+
+#: header.php:29
+msgid "Post"
+msgstr "Entrada"
+
+#: footer.php:30
+msgid "go to login"
+msgstr "ir a la página de ingreso"
+
+#: footer.php:31
+msgid "show/hide help"
+msgstr "mostrar/ocultar ayuda"
+
+#: footer.php:32
+msgid "shift + esc"
+msgstr "mayas + esc"
+
+#: footer.php:28
+msgid "show/hide comments"
+msgstr "mostrar/ocultar comentarios"
+
+#: footer.php:29
+msgid "go to top"
+msgstr "ir al principio"
+
+#: footer.php:26
+msgid "reply"
+msgstr "Responder"
+
+#: footer.php:27
+msgid "edit"
+msgstr "Editar"
+
+#: footer.php:23
+msgid "compose new post"
+msgstr "crear nuevo post"
+
+#: footer.php:24
+msgid "next post/next comment"
+msgstr "siguiente post/siguiente comentario"
+
+#: footer.php:25
+msgid "previous post/previous comment"
+msgstr "anterior post/anterior comentario"
+
+#: footer.php:15
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#. Theme URI of the plugin/theme
+msgid "http://ryansommers.com/mercury"
+msgstr "http://ryansommers.com/mercury"
+
+#. Author of the plugin/theme
+msgid "Ryan Sommers"
+msgstr "Ryan Sommers"
+
+#. Author URI of the plugin/theme
+msgid "http://ryansommers.com/"
+msgstr "http://ryansommers.com/"

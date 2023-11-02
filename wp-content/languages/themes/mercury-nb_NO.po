@@ -1,0 +1,88 @@
+# Translation of Themes - Mercury in Norwegian (Bokmål)
+# This file is distributed under the same license as the Themes - Mercury package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-26 18:34:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Themes - Mercury\n"
+
+#. Theme Name of the plugin/theme
+msgid "Mercury"
+msgstr "Mercury"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "Gå til innhold"
+
+#: header.php:35
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:29
+msgid "Post"
+msgstr "Del"
+
+#: footer.php:32
+msgid "cancel"
+msgstr "Avbryt"
+
+#: footer.php:32
+msgid "shift + esc"
+msgstr "shift + esc"
+
+#: footer.php:31
+msgid "show/hide help"
+msgstr "vis/skjul hjelp"
+
+#: footer.php:30
+msgid "go to login"
+msgstr "gå til innlogging"
+
+#: footer.php:29
+msgid "go to top"
+msgstr "gå til toppen"
+
+#: footer.php:28
+msgid "show/hide comments"
+msgstr "vis/skjul kommentarer"
+
+#: footer.php:27
+msgid "edit"
+msgstr "Rediger"
+
+#: footer.php:26
+msgid "reply"
+msgstr "Svar"
+
+#: footer.php:25
+msgid "previous post/previous comment"
+msgstr "forrige innlegg/forrige kommentar"
+
+#: footer.php:24
+msgid "next post/next comment"
+msgstr "neste innlegg/neste kommentar"
+
+#: footer.php:23
+msgid "compose new post"
+msgstr "lag nytt innlegg"
+
+#: footer.php:15
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s by %2$s."
+
+#. Author URI of the plugin/theme
+msgid "http://ryansommers.com/"
+msgstr "http://ryansommers.com/"
+
+#. Author of the plugin/theme
+msgid "Ryan Sommers"
+msgstr "Ryan Sommers"
+
+#. Theme URI of the plugin/theme
+msgid "http://ryansommers.com/mercury"
+msgstr "http://ryansommers.com/mercury"

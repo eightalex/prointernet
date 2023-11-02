@@ -1,0 +1,13 @@
+{
+    "name": "wpshop/wp-metabox-component",
+    "type": "library",
+    "description": "MetaBox component for Wordpress",
+    "autoload": {
+        "psr-4": {
+            "Wpshop\\MetaBox\\": "src"
+        }
+    },
+    "require": {
+        "pimple/pimple": "3.*"
+    }
+}
