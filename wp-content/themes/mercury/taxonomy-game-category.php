@@ -41,7 +41,7 @@
 				<ul class="space-categories-title">
 					<?php if (get_theme_mod( 'mercury_games_list_page_id')) { ?>
 						<li>  
-							<a href="<?php echo esc_url( get_permalink(get_theme_mod( 'mercury_games_list_page_id')) ); ?>"><?php esc_html_e( 'All', 'mercury' ); ?></a>
+							<a href="<?php echo esc_url( get_permalink(get_theme_mod( 'mercury_games_list_page_id')) ); ?>"><?php esc_html_e( 'Демо слоти', 'mercury' ); ?></a>
 						</li>
 					<?php } ?>
 					<?php

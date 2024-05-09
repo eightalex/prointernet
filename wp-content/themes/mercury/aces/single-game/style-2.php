@@ -54,7 +54,7 @@
 	} else {
 		$custom_popup_title = esc_html__( 'T&Cs Apply', 'mercury' );
 	}
-	
+
 ?>
 
 <div class="space-single-organization space-style-2-organization unit-page-style-2 relative">
@@ -99,7 +99,7 @@
 										<div class="space-vendors relative">
 											<div class="space-vendors-items relative">
 												<span>
-													<?php echo esc_html__( 'by', 'mercury' ); ?>
+													<?php echo esc_html__( 'Провайдер', 'mercury' ); ?>
 												</span>
 												<?php foreach ( $vendors as $vendor ) { ?>
 													<?php
@@ -143,7 +143,7 @@
 													<?php echo wp_kses( $unit_detailed_tc, $game_allowed_html ); ?>
 												</div>
 											</div>
-											
+
 										<?php
 										}
 									}
@@ -333,7 +333,7 @@
 									<?php
 										foreach( $game_args as $post ){
 										setup_postdata($post);
-										
+
 										// connect the game loop item style
 										get_template_part( '/aces/related/game-item-style-1' );
 

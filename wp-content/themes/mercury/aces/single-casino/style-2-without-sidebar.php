@@ -146,7 +146,7 @@
 										<div class="space-header-accepted-info relative">
 											<?php aces_geolocation( get_the_ID() ); ?>
 										</div>
-										
+
 										<!-- Accepted users info End -->
 
 										<?php }
@@ -802,14 +802,14 @@
 					<div class="space-related-items box-100 read-more-block relative">
 						<div class="space-related-items-ins space-page-wrapper relative">
 							<div class="space-block-title relative">
-								<span><?php the_title(); ?> <?php esc_html_e( 'Games', 'mercury' ); ?></span>
+								<span><?php esc_html_e( 'Слоти', 'mercury' ); ?></span>
 							</div>
 							<div class="space-units-archive-items box-100 relative">
 
 								<?php
 									foreach( $game_args as $post ){
 									setup_postdata($post);
-									
+
 									// connect the game loop item style
 									get_template_part( '/aces/game-item-style-1' );
 
@@ -854,7 +854,7 @@
 								<?php
 									foreach( $bonus_args as $post ){
 									setup_postdata($post);
-									
+
 									// connect the bonus loop item style
 									get_template_part( '/aces/bonus-item-style-1' );
 
@@ -902,7 +902,7 @@
 				'use strict';
 			  var sticky = $('.space-organization-float-bar-bg'),
 			      scroll = $(window).scrollTop();
-			    
+
 			  if (scroll >= 400) sticky.addClass('show');
 			  else sticky.removeClass('show');
 			});
@@ -944,7 +944,7 @@
 							<div class="space-organization-float-bar-title-wrap box-100 relative">
 								<?php the_title(); ?>
 							</div>
-							
+
 							<?php if( function_exists('aces_star_rating') ){ ?>
 								<div class="space-organization-float-bar-rating box-100 relative">
 									<?php aces_star_rating(

@@ -49,7 +49,7 @@ Template Name: Units Archive Style #2
 				<ul class="space-categories-title">
 					<?php if (get_theme_mod( 'mercury_games_list_page_id')) { ?>
 						<li class="active">  
-							<?php esc_html_e( 'All', 'mercury' ); ?>
+							<?php esc_html_e( 'Демо слоти', 'mercury' ); ?>
 						</li>
 					<?php } ?>
 					<?php

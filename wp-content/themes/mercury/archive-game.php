@@ -49,7 +49,7 @@ if ( get_option( 'games_section_name') ) {
 			<div class="space-categories-list-box relative">
 				<ul class="space-categories-title">
 					<li class="active">  
-						<?php esc_html_e( 'All', 'mercury' ); ?>
+						<?php esc_html_e( 'Демо слоти', 'mercury' ); ?>
 					</li>
 					<?php
 						$current_tax = get_queried_object();
