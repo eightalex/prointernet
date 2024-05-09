@@ -67,9 +67,9 @@ add_filter('navigation_markup_template', 'mercury_navigation_template', 10, 2 );
 /*  Menus, Languages and Thumbnails Start  */
 
 function mercury_setup() {
-	
+
 	load_theme_textdomain( 'mercury', get_template_directory() . '/languages' );
-	
+
 	add_theme_support( 'post-thumbnails' );
 	add_image_size( 'mercury-custom-logo', 9999, 40);
 	add_image_size( 'mercury-50-50', 50, 50, true );
@@ -101,15 +101,15 @@ function mercury_setup() {
 	add_image_size( 'mercury-9999-32', 9999, 32);
 	add_image_size( 'mercury-9999-80', 9999, 80);
 	add_image_size( 'mercury-9999-135', 9999, 135);
-	
+
 	add_theme_support( 'gutenberg', array( 'wide-images' => true ));
-	
+
 	register_nav_menus( array(
 		'main-menu'   => esc_html__( 'Main Menu', 'mercury' ),
 		'footer-menu' => esc_html__( 'Footer Menu', 'mercury' ),
 		'top-menu' => esc_html__( 'Top Bar Menu', 'mercury' ),
 	) );
-	
+
 }
 add_action( 'after_setup_theme', 'mercury_setup' );
 
@@ -174,7 +174,7 @@ function mercury_header_bar_color() {
 	}
 ?>
 <meta name="theme-color" content="<?php echo esc_attr($mobile_header_background_color); ?>" />
-<meta name="msapplication-navbutton-color" content="<?php echo esc_attr($mobile_header_background_color); ?>" /> 
+<meta name="msapplication-navbutton-color" content="<?php echo esc_attr($mobile_header_background_color); ?>" />
 <meta name="apple-mobile-web-app-status-bar-style" content="<?php echo esc_attr($mobile_header_background_color); ?>" />
 <?php }
 
@@ -183,7 +183,7 @@ add_action('wp_head', 'mercury_header_bar_color');
 /*  Mobile Browser Bar Color End  */
 
 /*  Register Fonts Start  */
-/* 
+/*
 function mercury_google_fonts() {
     $font_url = '';
 
@@ -230,7 +230,7 @@ function mercury_rgb($hexStr, $returnAsString = false, $seperator = ',') {
 /*  Register Scripts & Colors Start  */
 
 function mercury_scripts() {
-	
+
 	if( get_theme_mod('mercury_sticky_sidebar') ) {
 		wp_enqueue_script( 'theia-sticky-sidebar', get_theme_file_uri( '/js/theia-sticky-sidebar.min.js' ), array( 'jquery' ), '1.7.0', true );
 		wp_enqueue_script( 'mercury-enable-sticky-sidebar-js', get_theme_file_uri( '/js/enable-sticky-sidebar.js' ), array( 'jquery' ), $GLOBALS['mercury_version'], true );
@@ -249,11 +249,11 @@ function mercury_scripts() {
 	wp_enqueue_style( 'owl-carousel-animate', get_theme_file_uri( '/css/animate.css' ), array(), '2.3.4');
 	wp_enqueue_style( 'mercury-style', get_stylesheet_uri(), array(), $GLOBALS['mercury_version']);
 	wp_enqueue_style( 'mercury-media', get_theme_file_uri( '/css/media.css' ), array(), $GLOBALS['mercury_version']);
-	
-	global $mercury_data; 
-			
+
+	global $mercury_data;
+
 	// Custom Colors
-			
+
 	if( !$main_custom_color = get_theme_mod( 'main_color' ) ) {
 		$main_custom_color = '#be2edd';
 		$main_custom_shadow_color = mercury_rgb($main_custom_color, true);
@@ -477,7 +477,7 @@ function mercury_scripts() {
 		$read_review_background_color = get_theme_mod( 'read_review_background_color' );
 		$read_review_shadow_color = mercury_rgb($read_review_background_color, true);
 	}
-			
+
 $custom_css = '
 
 /* Main Color */
@@ -900,7 +900,7 @@ ul.main-menu > li.fair > a:before,
 	//$custom_css .= esc_attr($mercury_data['custom_css']);
 	$custom_css .= isset( $mercury_data['custom_css'] ) ? $mercury_data['custom_css'] : '';
 	wp_add_inline_style( 'mercury-style', $custom_css );
-	
+
 }
 add_action( 'wp_enqueue_scripts', 'mercury_scripts' );
 
@@ -932,11 +932,11 @@ add_filter( 'auto_update_theme', '__return_false' );
 
 function mercury_remove_empty_p_tags( $content ) {
 
-    $args = array( 
-        '<p>['    => '[', 
-        ']</p>'   => ']', 
+    $args = array(
+        '<p>['    => '[',
+        ']</p>'   => ']',
         ']<br />' => ']'
-    ); 
+    );
     return strtr( $content, $args );
 
 }
@@ -964,7 +964,7 @@ function custom_archive_table_of_contents( $atts ) {
                 );
             }
         }
-        
+
         $title = '<div class="ez-toc-title-container"><p class="ez-toc-title">Зміст</p></div>';
         $output = '<div id="ez-toc-container" class="ez-toc-counter ez-toc-light-blue"><nav>'.$title.'<ul class="ez-toc-list">';
         $prev_level = 2;
@@ -1026,3 +1026,8 @@ function disable_hobcore_wp_faq_schema_on_archive() {
     }
 }
 add_action('wp', 'disable_hobcore_wp_faq_schema_on_archive');
+
+// Removes the prefix "Позначка" before the archive title
+add_filter( 'get_the_archive_title', function( $title ){
+    return preg_replace('~^[^:]+: ~', '', $title );
+});
