@@ -1031,3 +1031,8 @@ add_action('wp', 'disable_hobcore_wp_faq_schema_on_archive');
 add_filter( 'get_the_archive_title', function( $title ){
     return preg_replace('~^[^:]+: ~', '', $title );
 });
+
+function custom_scripts() {
+    wp_enqueue_style('my_custom_style', get_stylesheet_directory_uri().'/style-custom.css', array(), filemtime(get_stylesheet_directory().'/style-custom.css'));
+}
+add_action( 'wp_enqueue_scripts', 'custom_scripts' );
